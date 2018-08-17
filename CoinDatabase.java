@@ -462,6 +462,8 @@ public class CoinDatabase {
         database.setNotExists(Countries.country_germany, "J", 2015, 7);
         database.setNotExists(Countries.country_estonia, 2012, 2, 3, 4, 5, 6, 7);
         database.setNotExists(Countries.country_estonia, 2013, 0, 1, 2, 3, 4, 5, 6, 7);
+        database.setNotExists(Countries.country_estonia, 2017, 3, 5, 6, 7);
+        database.setNotExists(Countries.country_latvia, 2017, 0, 1, 2, 3, 4, 5, 6, 7);
         database.setNotExists(Countries.country_malta, 2009, 0, 1, 2, 3, 4, 5, 6, 7);
         database.setNotExists(Countries.country_malta, 2010, 0, 1, 2, 3, 4, 5, 6);
         database.setNotExists(Countries.country_monaco, 2003, 0, 1, 2);
@@ -470,9 +472,12 @@ public class CoinDatabase {
         database.setNotExists(Countries.country_monaco, 2008, 0, 1, 2, 3, 4, 5, 6, 7);
         database.setNotExists(Countries.country_monaco, 2010, 0, 1, 2, 3, 4, 5, 6);
         database.setNotExists(Countries.country_monaco, 2012, 0, 1, 2, 3, 4, 5, 6);
+        database.setNotExists(Countries.country_monaco, 2015, 0, 1, 2, 3, 4, 5, 6);
+        database.setNotExists(Countries.country_monaco, 2016, 0, 1, 2, 3, 4, 5);
         database.setNotExists(Countries.country_austria, 2005, 7);
         database.setNotExists(Countries.country_austria, 2007, 7);
         database.setNotExists(Countries.country_austria, 2009, 7);
+        database.setNotExists(Countries.country_austria, 2016, 7);
         database.setNotExists(Countries.country_estonia, 2014, 0, 1, 2, 3, 4, 5, 6, 7);
         database.setNotExists(Countries.country_estonia, 2015, 2, 3, 4, 5, 6, 7);
 
