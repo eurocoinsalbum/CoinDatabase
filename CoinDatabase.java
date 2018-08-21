@@ -383,6 +383,16 @@ public class CoinDatabase {
         database.setRare(Countries.country_germany, 2016, "F", 3, 5, 6);
         database.setRare(Countries.country_germany, 2016, "G", 3, 5, 6);
         database.setRare(Countries.country_germany, 2016, "J", 3, 5, 6);
+        database.setRare(Countries.country_germany, 2017, "A", 5, 6);
+        database.setRare(Countries.country_germany, 2017, "D", 5, 6);
+        database.setRare(Countries.country_germany, 2017, "F", 5, 6);
+        database.setRare(Countries.country_germany, 2017, "G", 5, 6);
+        database.setRare(Countries.country_germany, 2017, "J", 5, 6);
+        database.setRare(Countries.country_germany, 2018, "A", 5, 6);
+        database.setRare(Countries.country_germany, 2018, "D", 5, 6);
+        database.setRare(Countries.country_germany, 2018, "F", 5, 6);
+        database.setRare(Countries.country_germany, 2018, "G", 5, 6);
+        database.setRare(Countries.country_germany, 2018, "J", 5, 6);
         database.setRare(Countries.country_france, 2002, null, 0, 1);
         database.setRare(Countries.country_france, 2003, null, 4, 5, 6, 7);
         database.setRare(Countries.country_france, 2004, null, 4, 5, 6, 7);
@@ -460,6 +470,11 @@ public class CoinDatabase {
         database.setNotExists(Countries.country_germany, "F", 2015, 7);
         database.setNotExists(Countries.country_germany, "G", 2015, 7);
         database.setNotExists(Countries.country_germany, "J", 2015, 7);
+        database.setNotExists(Countries.country_germany, "A", 2018, 7);
+        database.setNotExists(Countries.country_germany, "D", 2018, 7);
+        database.setNotExists(Countries.country_germany, "F", 2018, 7);
+        database.setNotExists(Countries.country_germany, "G", 2018, 7);
+        database.setNotExists(Countries.country_germany, "J", 2018, 7);
         database.setNotExists(Countries.country_estonia, 2012, 2, 3, 4, 5, 6, 7);
         database.setNotExists(Countries.country_estonia, 2013, 0, 1, 2, 3, 4, 5, 6, 7);
         database.setNotExists(Countries.country_estonia, 2017, 3, 5, 6, 7);
