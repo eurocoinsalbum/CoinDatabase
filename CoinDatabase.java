@@ -436,8 +436,13 @@ public class CoinDatabase {
         database.setRare(Countries.country_monaco, 2013, null, 0, 1, 2, 3, 4, 5, 6, 7);
         database.setRare(Countries.country_monaco, 2014, null, 0, 1, 2, 3, 4, 5);
         database.setRare(Countries.country_monaco, 2017, null, 0, 1, 2, 3, 4, 5, 6 );
-        database.setRare(Countries.country_monaco, 2018, null, 0, 1, 2, 3, 4, 5, 6, 7);        
+        database.setRare(Countries.country_monaco, 2018, null, 0, 1, 2, 3, 4, 5, 6, 7);
+        database.setRare(Countries.country_austria, 2003, null, 3, 6);
         database.setRare(Countries.country_austria, 2012, null, 5, 6);
+        database.setRare(Countries.country_austria, 2013, null, 5, 6);
+        database.setRare(Countries.country_austria, 2014, null, 5, 6);
+        database.setRare(Countries.country_austria, 2015, null, 5, 6);
+        database.setRare(Countries.country_austria, 2016, null, 0, 1, 2);
         database.setRare(Countries.country_portugal, 2003, null, 0, 1, 2);
         database.setRare(Countries.country_portugal, 2007, null, 3, 4, 5, 7);
         database.setRare(Countries.country_portugal, 2008, null, 7);
@@ -446,6 +451,9 @@ public class CoinDatabase {
         database.setRare(Countries.country_portugal, 2011, null, 3, 5, 7);
         database.setRare(Countries.country_portugal, 2012, null, 3, 4, 5, 6, 7);
         database.setRare(Countries.country_portugal, 2013, null, 0, 1, 2, 3, 4, 5, 6, 7);
+        database.setRare(Countries.country_portugal, 2014, null, 2, 3, 4, 5, 7);
+        database.setRare(Countries.country_portugal, 2015, null, 2, 3, 7);
+        database.setRare(Countries.country_portugal, 2016, null, 7);
         database.setRare(Countries.country_portugal, 2014, null, 2, 3, 4, 5, 7);
         database.setRare(Countries.country_slovakia, 2010, null, 2, 3, 4, 5, 6, 7);
         database.setRare(Countries.country_slovakia, 2011, null, 2, 3, 4, 5, 6);
@@ -513,6 +521,7 @@ public class CoinDatabase {
         database.setNotExists(Countries.country_austria, 2007, 7);
         database.setNotExists(Countries.country_austria, 2009, 7);
         database.setNotExists(Countries.country_austria, 2016, 7);
+        database.setNotExists(Countries.country_austria, 2018, 7);
         database.setNotExists(Countries.country_estonia, 2014, 0, 1, 2, 3, 4, 5, 6, 7);
         database.setNotExists(Countries.country_estonia, 2015, 2, 3, 4, 5, 6, 7);
 
