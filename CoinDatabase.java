@@ -434,6 +434,9 @@ public class CoinDatabase {
         database.setRare(Countries.country_monaco, 2010, null, 7);
         database.setRare(Countries.country_monaco, 2011, null, 0, 1, 2, 3, 4, 5, 6);
         database.setRare(Countries.country_monaco, 2013, null, 0, 1, 2, 3, 4, 5, 6, 7);
+        database.setRare(Countries.country_monaco, 2014, null, 0, 1, 2, 3, 4, 5);
+        database.setRare(Countries.country_monaco, 2017, null, 0, 1, 2, 3, 4, 5, 6 );
+        database.setRare(Countries.country_monaco, 2018, null, 0, 1, 2, 3, 4, 5, 6, 7);        
         database.setRare(Countries.country_austria, 2012, null, 5, 6);
         database.setRare(Countries.country_portugal, 2003, null, 0, 1, 2);
         database.setRare(Countries.country_portugal, 2007, null, 3, 4, 5, 7);
@@ -455,6 +458,8 @@ public class CoinDatabase {
         database.setRare(Countries.country_slovenia, 2012, null, 0, 1, 2, 3, 4, 5, 6, 7);
         database.setRare(Countries.country_slovenia, 2013, null, 0, 1, 2, 3, 4, 5, 6, 7);
         database.setRare(Countries.country_slovenia, 2014, null, 0, 1, 2, 3, 4, 5, 6, 7);
+        database.setRare(Countries.country_netherland, 2017, null, 0, 1, 4, 5, 6, 7);
+        database.setRare(Countries.country_netherland, 2018, null, 0, 1, 5, 6, 7);
     }
 
     public static void setNotExistingCoins(Database database) {
