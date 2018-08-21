@@ -504,6 +504,8 @@ public class CoinDatabase {
         database.setRare(Countries.country_sanmarino, 2015, null, 0, 1, 2, 3, 7);
         database.setRare(Countries.country_sanmarino, 2016, null, 0, 1, 2, 3, 5, 6);
         database.setRare(Countries.country_sanmarino, 2018, null, 0, 1, 2, 3, 7);
+        database.setRare(Countries.country_irland, 2015, null, 0, 1);
+        database.setRare(Countries.country_irland, 2016, null, 0, 1, 2, 3, 4, 5, 6, 7);
     }
 
     public static void setNotExistingCoins(Database database) {
