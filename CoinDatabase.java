@@ -296,6 +296,10 @@ public class CoinDatabase {
         // public void setRare(Country country, int year, int ... coinIdxs)
         // public void setRare(Country country, String commonTitle, int year, int ... coinIdxs) {
         // 0=1ct, 1=2ct, 2=5ct, 3=10ct, 4=20ct, 5=50ct, 6=1€, 7=2€
+        database.setRare(Countries.country_andorra, 2015, null, 0, 1, 2, 3, 4, 5, 6);
+        database.setRare(Countries.country_andorra, 2016, null, 0, 1, 2, 3, 4, 5, 7);
+        database.setRare(Countries.country_andorra, 2017, null, 0, 1, 2, 3, 4, 5, 6, 7);
+        database.setRare(Countries.country_andorra, 2018, null, 0, 1, 2, 3, 4, 5, 6, 7);
         database.setRare(Countries.country_belgium, 1999, null, 1, 4, 7);
         database.setRare(Countries.country_belgium, 2000, null, 0, 2, 3, 5, 6);
         database.setRare(Countries.country_belgium, 2001, null, 1, 2, 4, 5, 6, 7);
