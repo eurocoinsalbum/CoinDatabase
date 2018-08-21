@@ -427,8 +427,9 @@ public class CoinDatabase {
         database.setRare(Countries.country_greece, 2017, null, 4, 5, 6, 7);        
         database.setRare(Countries.country_malta, 2011, null, 0, 1, 2, 3, 4, 5, 6, 7);
         database.setRare(Countries.country_malta, 2012, null, 0, 1, 2, 3, 4, 5, 6, 7);
-        database.setRare(Countries.country_malta, 2013, null, 0, 1, 2, 3, 4, 5, 6, 7);
-        database.setRare(Countries.country_malta, 2014, null, 3, 4, 6);
+        database.setRare(Countries.country_malta, 2013, null, 3, 4, 6);
+        database.setRare(Countries.country_malta, 2014, null, 0, 1, 2, 3, 4, 5, 6, 7);
+        database.setRare(Countries.country_malta, 2015, null, 0, 1, 2, 3, 4, 5, 6, 7);
         database.setRare(Countries.country_monaco, 2009, null, 0, 1, 2, 3, 4, 5, 6);
         database.setRare(Countries.country_monaco, 2010, null, 7);
         database.setRare(Countries.country_monaco, 2011, null, 0, 1, 2, 3, 4, 5, 6);
