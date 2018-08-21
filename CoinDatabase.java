@@ -459,6 +459,11 @@ public class CoinDatabase {
         database.setRare(Countries.country_slovakia, 2011, null, 2, 3, 4, 5, 6);
         database.setRare(Countries.country_slovakia, 2012, null, 1, 2, 3, 4, 5, 6, 7);
         database.setRare(Countries.country_slovakia, 2013, null, 0, 1, 2, 3, 4, 5, 6, 7);
+        database.setRare(Countries.country_slovakia, 2014, null, 2, 3, 4, 5, 6, 7);
+        database.setRare(Countries.country_slovakia, 2015, null, 2, 3, 4, 5, 6);
+        database.setRare(Countries.country_slovakia, 2016, null, 2, 3, 4, 5, 6);
+        database.setRare(Countries.country_slovakia, 2017, null, 3, 4, 5, 6);
+        database.setRare(Countries.country_slovakia, 2018, null, 0, 1, 2, 3, 4, 5, 6, 7);
         database.setRare(Countries.country_slovenia, 2008, null, 0, 1, 2, 3, 4, 5, 6, 7);
         database.setRare(Countries.country_slovenia, 2009, null, 2, 3, 4, 5, 6, 7);
         database.setRare(Countries.country_slovenia, 2010, null, 0, 1, 2, 3, 4, 5, 6, 7);
@@ -466,8 +471,39 @@ public class CoinDatabase {
         database.setRare(Countries.country_slovenia, 2012, null, 0, 1, 2, 3, 4, 5, 6, 7);
         database.setRare(Countries.country_slovenia, 2013, null, 0, 1, 2, 3, 4, 5, 6, 7);
         database.setRare(Countries.country_slovenia, 2014, null, 0, 1, 2, 3, 4, 5, 6, 7);
+        database.setRare(Countries.country_slovenia, 2015, null, 1, 2, 3, 4, 5, 6, 7);
+        database.setRare(Countries.country_slovenia, 2016, null, 1, 2, 3, 4, 5, 6, 7);
         database.setRare(Countries.country_netherland, 2017, null, 0, 1, 4, 5, 6, 7);
         database.setRare(Countries.country_netherland, 2018, null, 0, 1, 5, 6, 7);
+        database.setRare(Countries.country_vatikan, 2003, null, 0, 1, 2, 3, 4, 5, 6, 7);
+        database.setRare(Countries.country_vatikan, 2004, null, 0, 1, 2, 3, 4, 5, 6, 7);
+        database.setRare(Countries.country_vatikan, 2005, null, 0, 1, 2, 3, 4, 5, 6, 7);
+        database.setRare(Countries.country_vatikan, 2006, null, 0, 1, 2, 3, 4, 5, 6, 7);
+        database.setRare(Countries.country_vatikan, 2007, null, 0, 1, 2, 3, 4, 5, 6, 7);
+        database.setRare(Countries.country_vatikan, 2010, null, 0, 1, 2, 3, 4, 6, 7);
+        database.setRare(Countries.country_vatikan, 2011, null, 0, 1, 2, 3, 4, 6, 7);
+        database.setRare(Countries.country_vatikan, 2012, null, 0, 1, 2, 3, 4, 6, 7);
+        database.setRare(Countries.country_vatikan, 2013, null, 0, 1, 2, 3, 4, 6, 7);
+        database.setRare(Countries.country_vatikan, 2014, null, 0, 1, 2, 3, 4, 6, 7);
+        database.setRare(Countries.country_vatikan, 2015, null, 0, 1, 2, 3, 4, 6, 7);
+        database.setRare(Countries.country_vatikan, 2016, null, 0, 1, 2, 3, 4, 6, 7);
+        database.setRare(Countries.country_vatikan, 2017, null, 0, 1, 2, 3, 4, 6, 7);
+        database.setRare(Countries.country_sanmarino, 2002, null, 0, 1, 2, 3);
+        database.setRare(Countries.country_sanmarino, 2003, null, 0, 1, 2, 3, 6, 7);
+        database.setRare(Countries.country_sanmarino, 2004, null, 3, 4, 5, 6, 7);
+        database.setRare(Countries.country_sanmarino, 2005, null, 0, 1, 2, 3, 6, 7);
+        database.setRare(Countries.country_sanmarino, 2006, null, 0, 1, 2, 3, 4, 6, 7);
+        database.setRare(Countries.country_sanmarino, 2007, null, 0, 1, 2, 3, 4, 6, 7);
+        database.setRare(Countries.country_sanmarino, 2008, null, 0, 1, 2, 3, 6, 7);
+        database.setRare(Countries.country_sanmarino, 2009, null, 0, 1, 2, 3, 4, 5, 7);
+        database.setRare(Countries.country_sanmarino, 2010, null, 0, 1, 2, 3, 4, 5, 7);
+        database.setRare(Countries.country_sanmarino, 2011, null, 0, 1, 2, 3, 4, 5, 6);
+        database.setRare(Countries.country_sanmarino, 2012, null, 0, 1, 2, 3, 4);
+        database.setRare(Countries.country_sanmarino, 2013, null, 0, 1, 2);
+        database.setRare(Countries.country_sanmarino, 2014, null, 0, 1, 2, 3, 4, 7);
+        database.setRare(Countries.country_sanmarino, 2015, null, 0, 1, 2, 3, 7);
+        database.setRare(Countries.country_sanmarino, 2016, null, 0, 1, 2, 3, 5, 6);
+        database.setRare(Countries.country_sanmarino, 2018, null, 0, 1, 2, 3, 7);
     }
 
     public static void setNotExistingCoins(Database database) {
