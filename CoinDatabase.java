@@ -315,6 +315,10 @@ public class CoinDatabase {
         database.setRare(Countries.country_belgium, 2012, null, 7);
         database.setRare(Countries.country_belgium, 2013, null, 4, 5, 6, 7);
         database.setRare(Countries.country_belgium, 2014, null, 3, 4, 6, 7);
+        database.setRare(Countries.country_belgium, 2015, null, 4, 6, 7);
+        database.setRare(Countries.country_belgium, 2016, null, 3, 4, 6, 7);
+        database.setRare(Countries.country_belgium, 2017, null, 1, 4, 6, 7);
+        database.setRare(Countries.country_belgium, 2018, null, 0, 1, 2, 3, 4, 5, 6, 7);
         database.setRare(Countries.country_germany, 2003, "A", 0, 2, 5);
         database.setRare(Countries.country_germany, 2003, "D", 0, 2, 6);
         database.setRare(Countries.country_germany, 2003, "F", 0, 2, 5, 6);
