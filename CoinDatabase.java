@@ -317,6 +317,7 @@ public class CoinDatabase {
         database.addSpecialEuroCoin("de", SpecialEuroCoin.ID_BLUE_PLANET, 2016, 500, false, R.drawable.specialeuro_2016_de_planet, R.string.specialeuro_2016_de_planet_title, 0, 0, 0, R.string.specialeuro_2016_de_planet_short_title);
         database.addSpecialEuroCoin("de", SpecialEuroCoin.ID_RED_CLIMA, 2017, 500, false, R.drawable.specialeuro_2017_de_clima, R.string.specialeuro_2017_de_clima_title, 0, 0, 0, R.string.specialeuro_2017_de_clima_short_title);
         database.addSpecialEuroCoin("de", SpecialEuroCoin.ID_ORANGE_CLIMA, 2018, 500, false, R.drawable.specialeuro_2018_de_clima, R.string.specialeuro_2018_de_clima_title, 0, 0, 0, R.string.specialeuro_2018_de_clima_short_title);
+        database.addSpecialEuroCoin("de", SpecialEuroCoin.ID_GREEN_CLIMA, 2019, 500, false, R.drawable.specialeuro_2019_de_clima, R.string.specialeuro_2019_de_clima_title, 0, 0, 0, R.string.specialeuro_2019_de_clima_short_title);
     }
 
     public static void setRareCoins(Database database) {
