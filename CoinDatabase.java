@@ -310,204 +310,36 @@ public class CoinDatabase {
         database.add2EuroCoin("sm", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2019, R.drawable.twoeuro_comm_2019_sm_2, R.string.twoeuro_comm_2019_sm_2_title, R.string.twoeuro_comm_2019_sm_2_desc, R.string.twoeuro_comm_2019_sm_2_volume, R.string.twoeuro_comm_2019_sm_2_date, R.string.twoeuro_comm_2019_sm_2_short_title, false);
         database.add2EuroCoin("va", SpecialEuroCoin.COMMON_TITLE_2CC, 2019, R.drawable.twoeuro_comm_2019_va, R.string.twoeuro_comm_2019_va_title, R.string.twoeuro_comm_2019_va_desc, R.string.twoeuro_comm_2019_va_volume, R.string.twoeuro_comm_2019_va_date, R.string.twoeuro_comm_2019_va_short_title, false);
         database.add2EuroCoin("va", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2019, R.drawable.twoeuro_comm_2019_va_2, R.string.twoeuro_comm_2019_va_2_title, R.string.twoeuro_comm_2019_va_2_desc, R.string.twoeuro_comm_2019_va_2_volume, R.string.twoeuro_comm_2019_va_2_date, R.string.twoeuro_comm_2019_va_2_short_title, false);
-        
-        
-	<string name="twoeuro_comm_2020_be_title">"Internationales Jahr der Pflanzengesundheit"</string>
-	<string name="twoeuro_comm_2020_be_desc">"Offizielles Logo des von der UN ausgerufenen Internationalen Jahres „IYPH 2020“ (International Year of Plant Health). Die als Weltkugel angeordneten Blätter symbolisieren gesunde Pflanzen als Quelle von Sauerstoff, den wir atmen, die Nahrung, die wir zu uns nehmen and alles Leben auf dem Planeten Erde. Oberhalb ist der Ausgabeanlass in englischer Sprache abgebildet und linkerhand das das Münzmeisterzeichen von Ingrid van Herzele sowie rechts das Münzzeichen der niederländischen Prägestätte in Utrecht. Das Länderkürzel „BE“ sowie das Prägejahr „2020“ sind am unteren Bildrand angeordnet."</string>
-	<string name="twoeuro_comm_2020_be_volume">"755.000 (150.000 / 5.000)"</string>
-	<string name="twoeuro_comm_2020_be_date">"02/2020"</string>
-	<string name="twoeuro_comm_2020_be_abr" translatable="false">"IP"</string>
-	<string name="twoeuro_comm_2020_be_short_title">"Jahr der Pflanzengesundheit"</string>
 
-	<string name="twoeuro_comm_2020_be_2_title">"Jan van Eyck"</string>
-	<string name="twoeuro_comm_2020_be_2_desc">"Porträt des bekannten belgischen Künstlers Jan van Eyck rechterhand. Linkerhand befindet sich der Ausgabeanlass „J. van Eyck“, seine Unterschrift und eine Malerpallette mit den Initialen des Münzgestalters Luc Luycx. Am unteren Bildrand sind die Münzzeichen der niederländischen Prägestätte in Utrecht und das Münzmeisterzeichen von Ingrid van Herzele zu sehen. Am rechten Bildrand sind das Länderkürzel „BE“ sowie das Prägejahr „2020“ abgebildet."</string>
-	<string name="twoeuro_comm_2020_be_2_volume">"155.000 (150.000 / 5.000)"</string>
-	<string name="twoeuro_comm_2020_be_2_date">"2. Jahreshälfte 2020"</string>
-	<string name="twoeuro_comm_2020_be_2_abr" translatable="false">"JE"</string>
-	<string name="twoeuro_comm_2020_be_2_short_title">"Jan van Eyck"</string>
+        database.add2EuroCoin("be", SpecialEuroCoin.COMMON_TITLE_2CC, 2020, R.drawable.twoeuro_comm_2020_be, R.string.twoeuro_comm_2020_be_title, R.string.twoeuro_comm_2020_be_desc, R.string.twoeuro_comm_2020_be_volume, R.string.twoeuro_comm_2020_be_date, R.string.twoeuro_comm_2020_be_short_title, false);
+        database.add2EuroCoin("be", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2020, R.drawable.twoeuro_comm_2020_be_2, R.string.twoeuro_comm_2020_be_2_title, R.string.twoeuro_comm_2020_be_2_desc, R.string.twoeuro_comm_2020_be_2_volume, R.string.twoeuro_comm_2020_be_2_date, R.string.twoeuro_comm_2020_be_2_short_title, false);
+        database.add2EuroCoin("de", SpecialEuroCoin.COMMON_TITLE_2CC, 2020, R.drawable.twoeuro_comm_2020_de, R.string.twoeuro_comm_2020_de_title, R.string.twoeuro_comm_2020_de_desc, R.string.twoeuro_comm_2020_de_volume, R.string.twoeuro_comm_2020_de_date, R.string.twoeuro_comm_2020_de_short_title, false);
+        database.add2EuroCoin("de", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2020, R.drawable.twoeuro_comm_2020_de_2, R.string.twoeuro_comm_2020_de_2_title, R.string.twoeuro_comm_2020_de_2_desc, R.string.twoeuro_comm_2020_de_2_volume, R.string.twoeuro_comm_2020_de_2_date, R.string.twoeuro_comm_2020_de_2_short_title, false);
+        database.add2EuroCoin("ee", SpecialEuroCoin.COMMON_TITLE_2CC, 2020, R.drawable.twoeuro_comm_2020_ee, R.string.twoeuro_comm_2020_ee_title, R.string.twoeuro_comm_2020_ee_desc, R.string.twoeuro_comm_2020_ee_volume, R.string.twoeuro_comm_2020_ee_date, R.string.twoeuro_comm_2020_ee_short_title, false);
+        database.add2EuroCoin("ee", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2020, R.drawable.twoeuro_comm_2020_ee_2, R.string.twoeuro_comm_2020_ee_2_title, R.string.twoeuro_comm_2020_ee_2_desc, R.string.twoeuro_comm_2020_ee_2_volume, R.string.twoeuro_comm_2020_ee_2_date, R.string.twoeuro_comm_2020_ee_2_short_title, false);
+        database.add2EuroCoin("es", SpecialEuroCoin.COMMON_TITLE_2CC, 2020, R.drawable.twoeuro_comm_2020_es, R.string.twoeuro_comm_2020_es_title, R.string.twoeuro_comm_2020_es_desc, R.string.twoeuro_comm_2020_es_volume, R.string.twoeuro_comm_2020_es_date, R.string.twoeuro_comm_2020_es_short_title, false);
+        database.add2EuroCoin("fr", SpecialEuroCoin.COMMON_TITLE_2CC, 2020, R.drawable.twoeuro_comm_2020_fr, R.string.twoeuro_comm_2020_fr_title, R.string.twoeuro_comm_2020_fr_desc, R.string.twoeuro_comm_2020_fr_volume, R.string.twoeuro_comm_2020_fr_date, R.string.twoeuro_comm_2020_fr_short_title, false);
+        database.add2EuroCoin("fr", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2020, R.drawable.euro_muenze_rs_common_2euro, R.string.twoeuro_comm_2020_fr_2_title, R.string.twoeuro_comm_2020_fr_2_desc, R.string.twoeuro_comm_2020_fr_2_volume, R.string.twoeuro_comm_2020_fr_2_date, R.string.twoeuro_comm_2020_fr_2_short_title, false);
+        database.add2EuroCoin("gr", SpecialEuroCoin.COMMON_TITLE_2CC, 2020, R.drawable.twoeuro_comm_2020_gr, R.string.twoeuro_comm_2020_gr_title, R.string.twoeuro_comm_2020_gr_desc, R.string.twoeuro_comm_2020_gr_volume, R.string.twoeuro_comm_2020_gr_date, R.string.twoeuro_comm_2020_gr_short_title, false);
+        database.add2EuroCoin("gr", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2020, R.drawable.twoeuro_comm_2020_gr_2, R.string.twoeuro_comm_2020_gr_2_title, R.string.twoeuro_comm_2020_gr_2_desc, R.string.twoeuro_comm_2020_gr_2_volume, R.string.twoeuro_comm_2020_gr_2_date, R.string.twoeuro_comm_2020_gr_2_short_title, false);
+        database.add2EuroCoin("it", SpecialEuroCoin.COMMON_TITLE_2CC, 2020, R.drawable.twoeuro_comm_2020_it, R.string.twoeuro_comm_2020_it_title, R.string.twoeuro_comm_2020_it_desc, R.string.twoeuro_comm_2020_it_volume, R.string.twoeuro_comm_2020_it_date, R.string.twoeuro_comm_2020_it_short_title, false);
+        database.add2EuroCoin("it", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2020, R.drawable.twoeuro_comm_2020_it_2, R.string.twoeuro_comm_2020_it_2_title, R.string.twoeuro_comm_2020_it_2_desc, R.string.twoeuro_comm_2020_it_2_volume, R.string.twoeuro_comm_2020_it_2_date, R.string.twoeuro_comm_2020_it_2_short_title, false);
+        database.add2EuroCoin("lv", SpecialEuroCoin.COMMON_TITLE_2CC, 2020, R.drawable.twoeuro_comm_2020_lv, R.string.twoeuro_comm_2020_lv_title, R.string.twoeuro_comm_2020_lv_desc, R.string.twoeuro_comm_2020_lv_volume, R.string.twoeuro_comm_2020_lv_date, R.string.twoeuro_comm_2020_lv_short_title, false);
+        database.add2EuroCoin("lv", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2020, R.drawable.twoeuro_comm_2020_lv_2, R.string.twoeuro_comm_2020_lv_2_title, R.string.twoeuro_comm_2020_lv_2_desc, R.string.twoeuro_comm_2020_lv_2_volume, R.string.twoeuro_comm_2020_lv_2_date, R.string.twoeuro_comm_2020_lv_2_short_title, false);
+        database.add2EuroCoin("lt", SpecialEuroCoin.COMMON_TITLE_2CC, 2020, R.drawable.twoeuro_comm_2020_lt, R.string.twoeuro_comm_2020_lt_title, R.string.twoeuro_comm_2020_lt_desc, R.string.twoeuro_comm_2020_lt_volume, R.string.twoeuro_comm_2020_lt_date, R.string.twoeuro_comm_2020_lt_short_title, false);
+        database.add2EuroCoin("lu", SpecialEuroCoin.COMMON_TITLE_2CC, 2020, R.drawable.twoeuro_comm_2020_lu, R.string.twoeuro_comm_2020_lu_title, R.string.twoeuro_comm_2020_lu_desc, R.string.twoeuro_comm_2020_lu_volume, R.string.twoeuro_comm_2020_lu_date, R.string.twoeuro_comm_2020_lu_short_title, false);
+        database.add2EuroCoin("lu", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2020, R.drawable.twoeuro_comm_2020_lu_2, R.string.twoeuro_comm_2020_lu_2_title, R.string.twoeuro_comm_2020_lu_2_desc, R.string.twoeuro_comm_2020_lu_2_volume, R.string.twoeuro_comm_2020_lu_2_date, R.string.twoeuro_comm_2020_lu_2_short_title, false);
+        database.add2EuroCoin("mt", SpecialEuroCoin.COMMON_TITLE_2CC, 2020, R.drawable.twoeuro_comm_2020_mt, R.string.twoeuro_comm_2020_mt_title, R.string.twoeuro_comm_2020_mt_desc, R.string.twoeuro_comm_2020_mt_volume, R.string.twoeuro_comm_2020_mt_date, R.string.twoeuro_comm_2020_mt_short_title, false);
+        database.add2EuroCoin("mt", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2020, R.drawable.twoeuro_comm_2020_mt_2, R.string.twoeuro_comm_2020_mt_2_title, R.string.twoeuro_comm_2020_mt_2_desc, R.string.twoeuro_comm_2020_mt_2_volume, R.string.twoeuro_comm_2020_mt_2_date, R.string.twoeuro_comm_2020_mt_2_short_title, false);
+        database.add2EuroCoin("po", SpecialEuroCoin.COMMON_TITLE_2CC, 2020, R.drawable.euro_muenze_rs_common_2euro, R.string.twoeuro_comm_2020_po_title, R.string.twoeuro_comm_2020_po_desc, R.string.twoeuro_comm_2020_po_volume, R.string.twoeuro_comm_2020_po_date, R.string.twoeuro_comm_2020_po_short_title, false);
+        database.add2EuroCoin("po", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2020, R.drawable.euro_muenze_rs_common_2euro, R.string.twoeuro_comm_2020_po_2_title, R.string.twoeuro_comm_2020_po_2_desc, R.string.twoeuro_comm_2020_po_2_volume, R.string.twoeuro_comm_2020_po_2_date, R.string.twoeuro_comm_2020_po_2_short_title, false);
+        database.add2EuroCoin("si", SpecialEuroCoin.COMMON_TITLE_2CC, 2020, R.drawable.twoeuro_comm_2020_si, R.string.twoeuro_comm_2020_si_title, R.string.twoeuro_comm_2020_si_desc, R.string.twoeuro_comm_2020_si_volume, R.string.twoeuro_comm_2020_si_date, R.string.twoeuro_comm_2020_si_short_title, false);
+        database.add2EuroCoin("sk", SpecialEuroCoin.COMMON_TITLE_2CC, 2020, R.drawable.twoeuro_comm_2020_sk, R.string.twoeuro_comm_2020_sk_title, R.string.twoeuro_comm_2020_sk_desc, R.string.twoeuro_comm_2020_sk_volume, R.string.twoeuro_comm_2020_sk_date, R.string.twoeuro_comm_2020_sk_short_title, false);
+        database.add2EuroCoin("sm", SpecialEuroCoin.COMMON_TITLE_2CC, 2020, R.drawable.twoeuro_comm_2020_sm, R.string.twoeuro_comm_2020_sm_title, R.string.twoeuro_comm_2020_sm_desc, R.string.twoeuro_comm_2020_sm_volume, R.string.twoeuro_comm_2020_sm_date, R.string.twoeuro_comm_2020_sm_short_title, false);
+        database.add2EuroCoin("sm", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2020, R.drawable.euro_muenze_rs_common_2euro, R.string.twoeuro_comm_2020_sm_2_title, R.string.twoeuro_comm_2020_sm_2_desc, R.string.twoeuro_comm_2020_sm_2_volume, R.string.twoeuro_comm_2020_sm_2_date, R.string.twoeuro_comm_2020_sm_2_short_title, false);
+        database.add2EuroCoin("va", SpecialEuroCoin.COMMON_TITLE_2CC, 2020, R.drawable.euro_muenze_rs_common_2euro, R.string.twoeuro_comm_2020_va_title, R.string.twoeuro_comm_2020_va_desc, R.string.twoeuro_comm_2020_va_volume, R.string.twoeuro_comm_2020_va_date, R.string.twoeuro_comm_2020_va_short_title, false);
+        database.add2EuroCoin("va", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2020, R.drawable.euro_muenze_rs_common_2euro, R.string.twoeuro_comm_2020_va_2_title, R.string.twoeuro_comm_2020_va_2_desc, R.string.twoeuro_comm_2020_va_2_volume, R.string.twoeuro_comm_2020_va_2_date, R.string.twoeuro_comm_2020_va_2_short_title, false);
 
-	<string name="twoeuro_comm_2020_de_title">"Brandenburg Schloss Sanssouci"</string>
-	<string name="twoeuro_comm_2020_de_desc">"Südseite von Schloss Sanssouci mit den als Rokokogarten gestalteten Weinberg-Terrassenstufen in Potsdam. Unten mittig ist der Name des Bundeslands „BRANDENBURG“ und das „D“ für den Ausgabestaat zu sehen. Oberhalb ist das Ausgabejahr „2020“ sowie das Zeichen der jeweiligen Prägeanstalt („A“, „D“, „F“, „G“ bzw. „J“) linkerhand sowie die ineinandergefügten Initialen „JT“ des Künstlers Jordi Truxa zu erkennen. Auflagen der Prägestätten: A: 6.000.000, D: 6.300.000, F: 7.200.000, G: 4.200.000, J: 6.300.000"</string>
-	<string name="twoeuro_comm_2020_de_volume">"30.000.000"</string>
-	<string name="twoeuro_comm_2020_de_date">"28.01.2020"</string>
-	<string name="twoeuro_comm_2020_de_abr" translatable="false">"BS"</string>
-	<string name="twoeuro_comm_2020_de_short_title">"Sanssouci"</string>
-
-	<string name="twoeuro_comm_2020_de_2_title">"50 Jahre Kniefall von Warschau"</string>
-	<string name="twoeuro_comm_2020_de_2_desc">"Der Moment des Kniefalls von Bundeskanzler Willy Brandt vor dem Ehrenmal für die Helden des Ghettoaufstandes 1943 in Polens Hauptstadt Warschau ist zentral dargestellt. Der Ausgabeanlass „50 JAHRE KNIEFALL“ und „VON WARSCHAU“ verläuft am oberen linken und unteren rechten Bildrand. Das Ausgabejahr „2020“ sowie das Zeichen der jeweiligen Prägeanstalt („A“, „D“, „F“, „G“ bzw. „J“) ist oberhalb der Menora aufgeprägt. Das „D“ für den Ausgabestaat ist unter dem Mahnmal, das Monogramm des Münzgestalters Bodo Broschat oben mittig dargestellt. Auflagen der Prägestätten: A: 6.000.000, D: 6.300.000, F: 7.200.000, G: 4.200.000, J: 6.300.000"</string>
-	<string name="twoeuro_comm_2020_2_de_volume">"30.000.000"</string>
-	<string name="twoeuro_comm_2020_2_de_date">"08.10.2020"</string>
-	<string name="twoeuro_comm_2020_2_de_abr" translatable="false">"KW"</string>
-	<string name="twoeuro_comm_2020_2_de_short_title">"Kniefall von Warschau"</string>
-
-	<string name="twoeuro_comm_2020_ee_title">"200. Jahrestag der Entdeckung der Antarktis"</string>
-	<string name="twoeuro_comm_2020_ee_desc">"Darstellung der dreimastigen Korvette Wostok, mit der Fabian Gottlieb von Bellingshausen (1778 – 1852) ab 1819 zur ersten russischen Expedition in die Südpolarregion aufbrach. Sein Name zieht sich am linken oberen Bildrand entlang. Rechterhand ist der Ausgabestaat „EESTI“ und die Jahreszahl „2020“ zu sehen. Unterhalb des Schiffes auf der Wasseroberfläche ist der Ausgabeanlass „ANTARKTIKA“ sowie „200“ zu erkennen. Am rechten Bildrand das von ihm erstmals gesichtete antarktische Schelfeis schematisch dargestellt."</string>
-	<string name="twoeuro_comm_2020_ee_volume">"750.000 (10.000 / – )"</string>
-	<string name="twoeuro_comm_2020_ee_date">"Anfang 2020"</string>
-	<string name="twoeuro_comm_2020_ee_abr" translatable="false">"EA"</string>
-	<string name="twoeuro_comm_2020_ee_short_title">"Entdeckung der Antarktis"</string>
-
-	<string name="twoeuro_comm_2020_ee_2_title">"100 Jahre Frieden von Tartu"</string>
-	<string name="twoeuro_comm_2020_ee_2_desc">"Darstellung eines stilisierten Baums, der die junge Nation Estland symbolisieren soll. In den Ästen zwischen kleinen Blättern des Baumes ist der Ausgabeanlass „TARTU RAHU“ (dt. Vertrag von Tartu) zu erkennen. Der Ausgabestaat „EESTI” sowie das Datum 02.02.2020 sind am unteren Münzrand abgebildet."</string>
-	<string name="twoeuro_comm_2020_ee_2_volume">"Auflage noch unbekannt"</string>
-	<string name="twoeuro_comm_2020_ee_2_date">"Februar 2020"</string>
-	<string name="twoeuro_comm_2020_ee_2_abr" translatable="false">"FT"</string>
-	<string name="twoeuro_comm_2020_ee_2_short_title">"Frieden von Tartu"</string>
-
-	<string name="twoeuro_comm_2020_fr_title">"Charles de Gaulle"</string>
-	<string name="twoeuro_comm_2020_fr_desc">"Zwei Porträts von Charles de Gaulle zu zwei verschiedenen Zeitpunkten in seinem Leben. Ein abstrahiertes Porträt des Generals im Hintergrund (als General der Armeen während des Appells vom 18. Juni bzw. während der Befreiung von Paris) und ein Reliefporträt des älteren de Gaulle in der mittleren Bildebene (während seiner zweiten, sieben Jahre dauernden Amtszeit als Präsident). Im Vordergrund linkerhand ist das Lothringerkreuz, Symbol des freien Frankreichs, das 1940 von General de Gaulle gewählt wurde, zu sehen. Das Monogramm der Französischen Republik „RF“, das Geburts- und Todesjahr von de Gaulle „1890“, „1970“ sowie das Ausgabejahr „2020“ sind in die Komposition integriert. Am unteren Bildrand sind von links nach rechts das Rechteck des Künstlers Joaquin Jimenez, das Münzzeichen der Prägestätte in Pessac und des Münzmeisters Yves Sampo abgebildet."</string>
-	<string name="twoeuro_comm_2020_fr_volume">"18.061.940"</string>
-	<string name="twoeuro_comm_2020_fr_date">"01.02.2020"</string>
-	<string name="twoeuro_comm_2020_fr_abr" translatable="false">"CG"</string>
-	<string name="twoeuro_comm_2020_fr_short_title">"Charles de Gaulle"</string>
-
-	<string name="twoeuro_comm_2020_fr_2_title">"Olympische Sommerspiele 2024"</string>
-	<string name="twoeuro_comm_2020_fr_2_desc">"Die zweite französische 2 Euro Münze wirft einen Blick voraus auf die 2024 stattfindenden Olympischen Sommerspiele in Frankreichs Hauptstadt Paris."</string>
-	<string name="twoeuro_comm_2020_fr_2_volume">"10.000.000"</string>
-	<string name="twoeuro_comm_2020_fr_2_date">"10.08.2020"</string>
-	<string name="twoeuro_comm_2020_fr_2_abr" translatable="false">"OP"</string>
-	<string name="twoeuro_comm_2020_fr_2_short_title">"Olympische Sommerspiele 2024"</string>
-
-	<string name="twoeuro_comm_2020_gr_title">"2.500 Jahre Schlacht bei den Thermopylen"</string>
-	<string name="twoeuro_comm_2020_gr_desc">"Bronzehelm korinthischen Typs mit einem Busch aus Pferdehaar. Am Rand des Kerns verläuft oben der Ausgabeanlass und unten der Ausgabestaat in griechischer Sprache. Linkerhand des Helms ist die Palmette der griechischen Prägeanstalt und die Jahreszahl „2020“ abgebildet."</string>
-	<string name="twoeuro_comm_2020_gr_volume">"750.000 (10.000 / 5.000)"</string>
-	<string name="twoeuro_comm_2020_gr_date">"2020"</string>
-	<string name="twoeuro_comm_2020_gr_abr" translatable="false">"TP"</string>
-	<string name="twoeuro_comm_2020_gr_short_title">"Thermopylen"</string>
-
-	<string name="twoeuro_comm_2020_gr_2_title">"100. Jahrestag der Vereinigung Thrakiens mit Griechenland"</string>
-	<string name="twoeuro_comm_2020_gr_2_desc">"Drachmen-Münze, auf der einen Greif, nach links zum Sprung ansetzend, abgebildet ist. Am Rand des Kerns verläuft oben der Ausgabeanlass und unten der Ausgabestaat in griechischer Sprache, unten links ist die Palmette der griechischen Prägeanstalt zu sehen und unten rechts die Jahreszahl „2020“."</string>
-	<string name="twoeuro_comm_2020_gr_2_volume">"750.000 (5.000 / 2.000)"</string>
-	<string name="twoeuro_comm_2020_gr_2_date">"2020"</string>
-	<string name="twoeuro_comm_2020_gr_2_abr" translatable="false">"MK"</string>
-	<string name="twoeuro_comm_2020_gr_2_short_title">"Thrakien"</string>
-
-	<string name="twoeuro_comm_2020_it_title">"80 Jahre Nationale Feuerwehr Italien"</string>
-	<string name="twoeuro_comm_2020_it_desc">"Logo der Nationalen Feuerwehr Italiens. Am Rand des Münzkerns ist der Ausgabeanlass „CORPO NAZIONALE DIE VIGILI DEL FUOCCO“ abgebildet. Das Monogramm „RI“ der Italienischen Republik ist linkerhand und die Jahreszahl „2020“ sowie das Prägezeichen „R“ der römischen Münzstätte sind rechterhand des Logos zu sehen. Unterhalb sind die Initialen „LDS“ der Münzgestalterin Luciana de Simoni zu erkennen. Die Münze ehrt damit die nationale Feuerwehr Italiens."</string>
-	<string name="twoeuro_comm_2020_it_volume">"voraussichtlich 3.000.000 (20.000 / 6.000)"</string>
-	<string name="twoeuro_comm_2020_it_date">"20.01.2020"</string>
-	<string name="twoeuro_comm_2020_it_abr" translatable="false">"FW"</string>
-	<string name="twoeuro_comm_2020_it_short_title">"Feuerwehr Italien"</string>
-
-	<string name="twoeuro_comm_2020_it_2_title">"150. Geburtstag von Maria Montessori"</string>
-	<string name="twoeuro_comm_2020_it_2_desc">"Porträt der italienischen Ärztin, Reformpädagogin, Philosophin und Philanthropin, die die Montessoripädagogik entwickelte. Rechterhand sind drei pädagogische Lehrmittel (Puzzlebretter in Form eines geteilten Kreises und eines Dreiecks sowie ein magnetischer Kugelwürfel) sowie das Monogramm „RI“ der Italienischen Republik abgebildet. Der Ausgabeanlass „MARIA MONTESSORI“ ist am linken unteren Bildrand innerhalb des Quadrates angeordnet, die Jahreszahlen „1870“ sowie „2020“ sind ober- und unterhalb davon zu sehen. Im linken unteren Eck des Quadrates ist das Prägezeichen „R“ der römischen Münzstätte zu erkennen, im unteren rechten Eck die Initialen „LDS“ der Münzgestalterin Luciana de Simoni."</string>
-	<string name="twoeuro_comm_2020_2_it_volume">"voraussichtlich 3.000.000 (4.000 / 7.000)"</string>
-	<string name="twoeuro_comm_2020_2_it_date">"09.06.2020"</string>
-	<string name="twoeuro_comm_2020_2_it_abr" translatable="false">"MM"</string>
-	<string name="twoeuro_comm_2020_2_it_short_title">"Maria Montessori"</string>
-
-	<string name="twoeuro_comm_2020_lv_title">"Litauische Ethnographische Regionen – Aukštaitija"</string>
-	<string name="twoeuro_comm_2020_lv_desc">"Darstellung des Wappens der ethnographischen Region Aukschtaitien (Oberlitauen). Mittig das Wappenschild mit Vytis, dem Reiter mit gezogenem Schwert zu Pferde, welches von 2 engelsfiguren gehalten wird. Unterhalb der Wappenspruch „PATRIAM TUAM MUNDUM EXISTIMA” (dt. Bewahre dein Vaterland auf der ganzen Welt). Oberhalb ist der ausgabestaat „LIETUVA” und die Jahreszahl „2020“ abgebildet. Der Schriftzug „Aukštaitija“ und das Münzzeichen der litauischen Prägeanstalt runden das Motiv nach unten hin ab."</string>
-	<string name="twoeuro_comm_2020_lv_volume">"500.000 (5.000 / – )"</string>
-	<string name="twoeuro_comm_2020_lv_date">"1. Quartal 2020"</string>
-	<string name="twoeuro_comm_2020_lv_abr" translatable="false">"RA"</string>
-	<string name="twoeuro_comm_2020_lv_short_title">"Aukštaitija"</string>
-
-	<string name="twoeuro_comm_2020_lv_2_title">"Berg der Kreuze"</string>
-	<string name="twoeuro_comm_2020_lv_2_desc">"Unweit von der Stadt Šiauliai gelegen, zieht das religiöse, historische und architektonische Denkmal Menschen aus aller Welt an. Am Anfang des 20. Jahrhunderts war der Berg der Kreuze schon weit über die Grenzen der Region hinaus bekannt. Während der sowjetischen Besatzung wurde von den Machthabern nicht nur einmal versucht, die aufgestellten Kruzifixe mit Bulldozern zu zerstören, zu vergraben, im Bach zu versenken oder zu verbrennen, verschrotten und zerschlagen. Doch erschienen danach rasch immer wieder neue Kreuze. Der Berg ist zum Symbol für den Widerstand der Bevölkerung und den tiefen Glauben der katholischen Litauer geworden. Ende der 1990er wurden weit mehr als 50.000 Kreuze auf dem Berg der Kreuze und dem danebenliegenden Areal gezählt und heute kann niemand genau sagen, wie viele seitdem hinzugekommen sind. Im September 1993 besuchte den Berg der Kreuze auch Papst Johannes Paul II."</string>
-	<string name="twoeuro_comm_2020_lv_2_volume">"noch unbekannt"</string>
-	<string name="twoeuro_comm_2020_lv_2_date">"2020"</string>
-	<string name="twoeuro_comm_2020_lv_2_abr" translatable="false">"BK"</string>
-	<string name="twoeuro_comm_2020_lv_2_short_title">"Berg der Kreuze"</string>
-
-	<string name="twoeuro_comm_2020_lt_title">"Lettgalische Keramik"</string>
-	<string name="twoeuro_comm_2020_lt_desc">"Fünfarmiger Tonkerzenhalter stellvertretend für die landestypische lettgallische Keramik. Der Name des Ausgabestaates „LATVIJA“ und das Ausgabejahr „2020“ sind oberhalb, der Ausgabeanlass „LATGALES KERAMIKA“ unterhalb des Motivs abgebildet."</string>
-	<string name="twoeuro_comm_2020_lt_volume">"412.000 (12.000 / –"</string>
-	<string name="twoeuro_comm_2020_lt_date">"Frühjahr 2020"</string>
-	<string name="twoeuro_comm_2020_lt_abr" translatable="false">"LK"</string>
-	<string name="twoeuro_comm_2020_lt_short_title">"Lettgalische Keramik"</string>
-
-	<string name="twoeuro_comm_2020_lu_title">"200. Geburtstag von Prinz Heinrich von Oranien-Nassau"</string>
-	<string name="twoeuro_comm_2020_lu_desc">"Zwei Porträts, linkerhand das von Prinz Henri von Oranien-Nassau und rechterhand das altbekannt des derzeitigen Großherzoges Henri. Am linken Bildrand verläuft der Ausgabeanlass „Prince Henri d‘Orange-Nassau“. Unterhalb der Porträts sind die Jahreszahlen „1820“ und „1879“, der Ausgabestaat „LUXEMBOURG“ sowie die Jahreszahl „2020“."</string>
-	<string name="twoeuro_comm_2020_lu_volume">"300.000 (7.500 / 1.000)"</string>
-	<string name="twoeuro_comm_2020_lu_date">"03/2020"</string>
-	<string name="twoeuro_comm_2020_lu_abr" translatable="false">"PH"</string>
-	<string name="twoeuro_comm_2020_lu_short_title">"Prinz Heinrich"</string>
-
-	<string name="twoeuro_comm_2020_lu_2_title">"Geburt des großherzoglichen Nachwuchses"</string>
-	<string name="twoeuro_comm_2020_lu_2_desc">"Die 2-Euro-Gedenkmünze 2020 wird anlässlich der „Geburt des großherzoglichen Nachwuchses“ ausgegeben."</string>
-	<string name="twoeuro_comm_2020_lu_2_volume">"500.000 – 600.000"</string>
-	<string name="twoeuro_comm_2020_lu_2_date">"10/2020"</string>
-	<string name="twoeuro_comm_2020_lu_2_abr" translatable="false">"GN"</string>
-	<string name="twoeuro_comm_2020_lu_2_short_title">"Großherzoglicher Nachwuchs"</string>
-
-	<string name="twoeuro_comm_2020_mt_title">"Spiele (Serie: Von Kindern mit Solidarität)"</string>
-	<string name="twoeuro_comm_2020_mt_desc">"Die Skizze zeigt klassische Kinderspiele bzw. Spielgeräte. So sind neben den drei oberhalb dargestellten Bienen u.a. ein Kreisel, ein Drachen, ein Hüpfspiel und zwei Bälle zu sehen. Am unteren Bildrand ist das Ausgabejahr „2020“ dargestellt. Der Name des Ausgabestaates „Malta“ fehlt noch, wird aber auf dem endgültigen Motiv ergänzt."</string>
-	<string name="twoeuro_comm_2020_mt_volume">"noch unbekannt"</string>
-	<string name="twoeuro_comm_2020_mt_date">"2020"</string>
-	<string name="twoeuro_comm_2020_mt_abr" translatable="false">"KS"</string>
-	<string name="twoeuro_comm_2020_mt_short_title">"Kinder: Spiele"</string>
-
-	<string name="twoeuro_comm_2020_mt_2_title">"Tempel von Skorba (Serie: Prähistorische Stätten Maltas)"</string>
-	<string name="twoeuro_comm_2020_mt_2_desc">"Prähistorischer Tempel von Skorba, der Teil des UNESCO-Weltkulturerbes ist. Die prähistorischen Stätten bestehen aus zwei Tempeln, die nebeneinander gruppiert sind und sich im Nordwesten des Landes in der Nähe von Zebbiegh befinden. Unterhalb davon ist mittig ein „Kykladenidol“ abgebildet, eine abstrahierte Keramikfigur. Am oberen rechten Rand befinden sich die Aufschriften „SKORBA“, „TEMPLES“ und die Jahreszahlen „3600-2500 BC“. Am unteren linken Rand sind der Name des Ausgabestaates „MALTA“ und darunter das Ausgabejahr „2020“ zu sehen. Am unteren rechten Rand sind die Initialen „NGB“ des Münzgestalters Noel Galea Bason aufgeprägt."</string>
-	<string name="twoeuro_comm_2020_mt_2_volume">"noch unbekannt"</string>
-	<string name="twoeuro_comm_2020_mt_2_date">"2020"</string>
-	<string name="twoeuro_comm_2020_mt_2_abr" translatable="false">"TS"</string>
-	<string name="twoeuro_comm_2020_mt_2_short_title">"Tempel von Skorba"</string>
-
-	<string name="twoeuro_comm_2020_po_title">"75 Jahre Vereinte Nationen"</string>
-	<string name="twoeuro_comm_2020_po_desc">"Logo der Vereinten Nationen: die Weltkarte mit dem Nordpol als Mittelpunkt und der Umrahmung durch zwei Olivenzweige als Symbol für den Frieden und die gesamte Menschheit, entworfen von dem Amerikaner Donal McLaughlin. Oberhalb davon ist das Ausgabejahr „2020“, das Ausgabeland „PORTUGAL“, der Ausgabeanlass „UN ONU 75 YEARS ANOS“ abgebildet. Linkerhand des UN-Emblems ist die Ausgabestelle „CASA DE MOEDA“ und rechterhand davon der Name des Münzgestalters „ANDRÉ LETRIA“ zu erkennen."</string>
-	<string name="twoeuro_comm_2020_po_volume">"500.000 (5.000 / 5.000)"</string>
-	<string name="twoeuro_comm_2020_po_date">"07/2020"</string>
-	<string name="twoeuro_comm_2020_po_abr" translatable="false">"VN"</string>
-	<string name="twoeuro_comm_2020_po_short_title">"Vereinte Nationen"</string>
-
-	<string name="twoeuro_comm_2020_po_2_title">"Teilnahme an den Olympischen Spielen"</string>
-	<string name="twoeuro_comm_2020_po_2_desc">"Offizielles Logo des COMITÉ OLÍMPICO DE PORTUGAL: eine Fahnenstange, rechterhand das portugiesische Seefahrerkreuz des Ordens der Christusritter. Unterhalb sind die fünf olympischen Ringe abgebildet. Der Ausgabeanlass „PORTUGAL NOS JOGOS OLIMPICOS DE TOQUIO 2020“ ist am Rand der Pille dargestellt. Der ausgeschriebene Name der Ausgabestelle „CASA DE MOEDA“ ist rechterhand zwischen Kreuz und Ringen, der Name des Münzgestalters „?“ ist links neben den Ringen zu sehen."</string>
-	<string name="twoeuro_comm_2020_po_2_volume">"500.000 (5.000 / 5.000)"</string>
-	<string name="twoeuro_comm_2020_po_2_date">"07/2020"</string>
-	<string name="twoeuro_comm_2020_po_2_abr" translatable="false">"TO"</string>
-	<string name="twoeuro_comm_2020_po_2_short_title">"Olympische Spiele"</string>
-
-	<string name="twoeuro_comm_2020_sm_title">"500. Todestag von Raffael"</string>
-	<string name="twoeuro_comm_2020_sm_desc">"Die 2-Euro-Gedenkmünze 2020 wird anlässlich des „500. Todestags von Raffael“ ausgegeben."</string>
-	<string name="twoeuro_comm_2020_sm_volume">"noch unbekannt"</string>
-	<string name="twoeuro_comm_2020_sm_date">"03/2020"</string>
-	<string name="twoeuro_comm_2020_sm_abr" translatable="false">"TR"</string>
-	<string name="twoeuro_comm_2020_sm_short_title">"Raffael (SM)"</string>
-
-	<string name="twoeuro_comm_2020_sm_2_title">"250. Todestag von Giovanni Battista Tiepolo"</string>
-	<string name="twoeuro_comm_2020_sm_2_desc">"Die 2-Euro-Gedenkmünze 2020 wird anlässlich des „250. Todestags von Giovanni Battista Tiepolo“ ausgegeben."</string>
-	<string name="twoeuro_comm_2020_sm_2_volume">"noch unbekannt"</string>
-	<string name="twoeuro_comm_2020_sm_2_date">"08/2020"</string>
-	<string name="twoeuro_comm_2020_sm_2_abr" translatable="false">"GT"</string>
-	<string name="twoeuro_comm_2020_sm_2_short_title">"Giovanni Battista Tiepolo"</string>
-
-	<string name="twoeuro_comm_2020_sk_title">"20. Jahrestag des Beitritts zur OECD"</string>
-	<string name="twoeuro_comm_2020_sk_desc">"Der Ausgabeanlass „20 V YROCIE VSTUP SR DO OECD“ ist linkerhand im Quadrat und unterhalb davon der Ausgabestaat „SLOVENSKO“ sowie die Jahreszahl „2020“ zu sehen. Rechterhand dominiert die stilisierte Darstellung eines menschlichen Gehirns mit abstrakten Verbindungen einer Computerplatine und einem zentral ausgerichteten Kreis, dem Mikroprozessor, stellvertretend für die sowohl technisch als auch menschlich vernetze Organisation für wirtschaftliche Zusammenarbeit und Entwicklung. In das Motiv ist der Umriss der Slowakei mit rauer Oberfläche eingearbeitet. Unterhalb ist das slowakische Wappen mit dem Doppelkreuz auf dem Dreiberg abgebildet."</string>
-	<string name="twoeuro_comm_2020_sk_volume">"1.000.000 (4.000 / – )"</string>
-	<string name="twoeuro_comm_2020_sk_date">"11/2020"</string>
-	<string name="twoeuro_comm_2020_sk_abr" translatable="false">"BO"</string>
-	<string name="twoeuro_comm_2020_sk_short_title">"Beitritt zur OECD"</string>
-
-	<string name="twoeuro_comm_2020_si_title">"500. Geburtstag von Adam Bohoric"</string>
-	<string name="twoeuro_comm_2020_si_desc">"Zwei Schriftzüge aus dem von Bohoric ins Slowenische übertragene Bibelverzeichnis. Ersterer ist ein Bibelvers aus dem Brief an die Römer, Kapitel 14. „Omnis lingua confitebitur Deo.” (dt. „Alle Zungen sollen Gott bekennen“) erscheint in Latein schattiert im Hintergrund. Der Vers „Vsaki jesik bode Boga sposnal” erscheint erhaben im Vordergrund in slowenischer Sprache. Am linken Rand entlang verlaufend ist der Ausgabeanlass „ADAM BOHORIC 1520” sowie, abgetrennt von einem senkrechten Strich, der Ausgabestaat „SLOVENIJA“ und die Jahreszahl „2020“ zu sehen."</string>
-	<string name="twoeuro_comm_2020_si_volume">"1.000.000 ( – / – )"</string>
-	<string name="twoeuro_comm_2020_si_date">"2020"</string>
-	<string name="twoeuro_comm_2020_si_abr" translatable="false">"AB"</string>
-	<string name="twoeuro_comm_2020_si_short_title">"Adam Bohoric"</string>
-
-	<string name="twoeuro_comm_2020_es_title">"Architektur der Mudéjaren in Aragón"</string>
-	<string name="twoeuro_comm_2020_es_desc">"Torre de la Iglesia del Salvador de Teruel, der Glockenturm im Mudéjar-Architekturstil in der Stadt Teruel. Linkerhand ist der Ausgabestaat „ESPANA“, rechts neben dem Motiv die Jahreszahl „2020“ sowie das „M“ der Madrider Münzstätte zu sehen. Oberhalb ist der Ausgabeanlass „ARQUITECTURA MUDÉJAR DE ARAGON“ aufgeprägt."</string>
-	<string name="twoeuro_comm_2020_es_volume">"4.000.000 ( / )"</string>
-	<string name="twoeuro_comm_2020_es_date">"1.02.2020"</string>
-	<string name="twoeuro_comm_2020_es_abr" translatable="false">"MA"</string>
-	<string name="twoeuro_comm_2020_es_short_title">"Mudéjaren in Aragón"</string>
-
-	<string name="twoeuro_comm_2020_va_title">"500. Todestag von Raffael"</string>
-	<string name="twoeuro_comm_2020_va_desc">"Die 2-Euro-Gedenkmünze 2020 wird anlässlich „500. Todestag von Raffael“ ausgegeben."</string>
-	<string name="twoeuro_comm_2020_va_volume">"noch unbekannt"</string>
-	<string name="twoeuro_comm_2020_va_date">"2020"</string>
-	<string name="twoeuro_comm_2020_va_abr" translatable="false">"TR"</string>
-	<string name="twoeuro_comm_2020_va_short_title">"Raffael (VA)"</string>
-
-	<string name="twoeuro_comm_2020_va_2_title">"100. Geburtstag des Hl. Johannes Paul II."</string>
-	<string name="twoeuro_comm_2020_va_2_desc">"Die 2-Euro-Gedenkmünze 2020 wird anlässlich „100. Geburtstag des Hl. Johannes Paul II.“ ausgegeben."</string>
-	<string name="twoeuro_comm_2020_2_va_date">"2020"</string>
-	<string name="twoeuro_comm_2020_2_va_abr" translatable="false">"JP"</string>
-	<string name="twoeuro_comm_2020_2_va_short_title">"Johannes Paul II."</string>        
-        
-        
         // public ArrayList<SpecialEuroCoin> add2EuroCoinEU(String coinTitleID, int year, int imgResId, int imgResIdLightend, int titleResId, int descResId, int volumeResId, int dateResId, int shortTitleResId, Collection<Country> noMintCountries)
         database.add2EuroCoinEU(SpecialEuroCoin.COMMON_TITLE_2CC_RV, 2007, R.drawable.twoeuro_comm_2007_eu_rv, R.string.twoeuro_comm_2007_eu_rv_title, R.string.twoeuro_comm_2007_eu_rv_desc, R.string.twoeuro_comm_2007_eu_rv_volume, R.string.twoeuro_comm_2007_eu_rv_date, R.string.twoeuro_comm_2007_eu_rv_short_title, CoinHelper.toArrayList(Countries.country_andorra, Countries.country_monaco, Countries.country_sanmarino, Countries.country_vatican));
         database.add2EuroCoinEU(SpecialEuroCoin.COMMON_TITLE_2CC_EMU, 2009, R.drawable.twoeuro_comm_2009_eu_emu, R.string.twoeuro_comm_2009_eu_emu_title, R.string.twoeuro_comm_2009_eu_emu_desc, R.string.twoeuro_comm_2009_eu_emu_volume, R.string.twoeuro_comm_2009_eu_emu_date, R.string.twoeuro_comm_2009_eu_emu_short_title, CoinHelper.toArrayList(Countries.country_andorra, Countries.country_monaco, Countries.country_sanmarino, Countries.country_vatican));
