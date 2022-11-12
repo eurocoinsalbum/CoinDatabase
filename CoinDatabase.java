@@ -1228,6 +1228,18 @@ public class CoinDatabase {
             coinResIds[7] = R.drawable.euro_muenze_rs_ad_2e;
             coinResIds[5] = R.drawable.euro_muenze_rs_ad_50c;
             coinResIds[2] = R.drawable.euro_muenze_rs_ad_5c;
+        } else if (countrycode.equals(Countries.country_croatia.getCountryCode())) {
+            if (year == country.getStartYear() && fillSeries) {
+                country.addSeries(country.getStartYear(), null);
+            }
+            coinResIds[3] = R.drawable.euro_muenze_rs_hr_10c;
+            coinResIds[0] = R.drawable.euro_muenze_rs_hr_1c;
+            coinResIds[6] = R.drawable.euro_muenze_rs_hr_1e;
+            coinResIds[4] = R.drawable.euro_muenze_rs_hr_20c;
+            coinResIds[1] = R.drawable.euro_muenze_rs_hr_2c;
+            coinResIds[7] = R.drawable.euro_muenze_rs_hr_2e;
+            coinResIds[5] = R.drawable.euro_muenze_rs_hr_50c;
+            coinResIds[2] = R.drawable.euro_muenze_rs_hr_5c;
         }
         coinSetResId.add(coinResIds);
         return coinSetResId;
