@@ -587,9 +587,9 @@ public class CoinDatabase {
         database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_INSECTS_SCHMETTERLING, 2023, "G",500, false, R.drawable.specialeuro_2023_de_insects_schmetterling, R.string.specialeuro_2023_de_insects_schmetterling_title, 0, 0, 0);
         database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_INSECTS_LIBELLE, 2023, "J",500, false, R.drawable.specialeuro_2023_de_insects_libelle, R.string.specialeuro_2023_de_insects_libelle_title, 0, 0, 0);
         database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_INSECTS_GRUENES_HEUPFERD, 2024, "A",500, false, R.drawable.specialeuro_2024_de_insects_gruenes_heupferd, R.string.specialeuro_2024_de_insects_gruenes_heupferd_title, 0, 0, 0);
-        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_INSECTS_HAINSCHWEB_FLIEGE, 2024, "A",500, false, R.drawable.specialeuro_2024_de_insects_hainschwebfliege, R.string.specialeuro_2024_de_insects_hainschwebfliege_title, 0, 0, 0);
-        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_INSECTS_HIRSCHKAEFER, 2024, "A",500, false, R.drawable.specialeuro_2024_de_insects_hirschkaefer, R.string.specialeuro_2024_de_insects_hirschkaefer_title, 0, 0, 0);
-        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_INSECTS_STEIN_HUMMEL, 2024, "A",500, false, R.drawable.specialeuro_2024_de_insects_steinhummel, R.string.specialeuro_2024_de_insects_steinhummel_title, 0, 0, 0);
+        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_INSECTS_HAINSCHWEB_FLIEGE, 2024, "F",500, false, R.drawable.specialeuro_2024_de_insects_hainschwebfliege, R.string.specialeuro_2024_de_insects_hainschwebfliege_title, 0, 0, 0);
+        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_INSECTS_HIRSCHKAEFER, 2024, "D",500, false, R.drawable.specialeuro_2024_de_insects_hirschkaefer, R.string.specialeuro_2024_de_insects_hirschkaefer_title, 0, 0, 0);
+        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_INSECTS_STEIN_HUMMEL, 2024, "J",500, false, R.drawable.specialeuro_2024_de_insects_steinhummel, R.string.specialeuro_2024_de_insects_steinhummel_title, 0, 0, 0);
     }
 
     public static void setRareCoins(Database database) {
