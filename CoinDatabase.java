@@ -2058,5 +2058,7 @@ public class CoinDatabase {
         database.setMinted("cy", 2010, null, null, 200000, 200000, 200000, 200000, 200000, 200000, 200000, 200000, 0, 0, 0);
         database.setMinted("cy", 2009, null, null, 20000000, 1000000, 6000000, 1000000, 1000000, 1000000, 4000000, 5000000, 0, 0, 1000000);
         database.setMinted("cy", 2008, null, null, 40000000, 100000000, 60000000, 70000000, 65000000, 30000000, 28000000, 25000000, 0, 0, 0);
+
+        database.calcMintedLevels();
     }
 }
