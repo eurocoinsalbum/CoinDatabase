@@ -612,34 +612,68 @@ public class CoinDatabase {
         database.add2EuroCoin("lt", SpecialEuroCoin.COMMON_TITLE_2CC_EP, 2022, R.drawable.twoeuro_comm_2022_eu_ep, R.string.twoeuro_comm_2022_eu_ep_title, R.string.twoeuro_comm_2022_eu_ep_desc, R.string.twoeuro_comm_2022_eu_ep_volume, R.string.twoeuro_comm_2022_eu_ep_date);
     }
 
-    public static void addOtherEuroCommemorativeCoins(Database database) {
-        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_BLUE_PLANET, 2016, 500, false, R.drawable.specialeuro_2016_de_planet, R.string.specialeuro_2016_de_planet_title, 0, 0, 0);
-        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_RED_CLIMA, 2017, 500, false, R.drawable.specialeuro_2017_de_clima, R.string.specialeuro_2017_de_clima_title, 0, 0, 0);
-        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_ORANGE_CLIMA, 2018, 500, false, R.drawable.specialeuro_2018_de_clima, R.string.specialeuro_2018_de_clima_title, 0, 0, 0);
-        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_GREEN_CLIMA, 2019, 500, false, R.drawable.specialeuro_2019_de_clima, R.string.specialeuro_2019_de_clima_title, 0, 0, 0);
-        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_TURQUOISE_CLIMA, 2020, 500, false, R.drawable.specialeuro_2020_de_clima, R.string.specialeuro_2020_de_clima_title, 0, 0, 0);
-        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_VIOLET_CLIMA, 2021, 500, false, R.drawable.specialeuro_2021_de_clima, R.string.specialeuro_2021_de_clima_title, 0, 0, 0);
+    public static void addGermany5EuroPolymerCoins(Database database) {
+        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_BLUE_PLANET, 2016, 500, false, R.drawable.specialeuro_2016_de_planet, R.string.specialeuro_2016_de_planet_title, 0, 0, 0, true, false, false);
+        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_RED_CLIMA, 2017, 500, false, R.drawable.specialeuro_2017_de_clima, R.string.specialeuro_2017_de_clima_title, 0, 0, 0, true, false, false);
+        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_ORANGE_CLIMA, 2018, 500, false, R.drawable.specialeuro_2018_de_clima, R.string.specialeuro_2018_de_clima_title, 0, 0, 0, true, false, false);
+        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_GREEN_CLIMA, 2019, 500, false, R.drawable.specialeuro_2019_de_clima, R.string.specialeuro_2019_de_clima_title, 0, 0, 0, true, false, false);
+        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_TURQUOISE_CLIMA, 2020, 500, false, R.drawable.specialeuro_2020_de_clima, R.string.specialeuro_2020_de_clima_title, 0, 0, 0, true, false, false);
+        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_VIOLET_CLIMA, 2021, 500, false, R.drawable.specialeuro_2021_de_clima, R.string.specialeuro_2021_de_clima_title, 0, 0, 0, true, false, false);
 
-        database.addSpecialEuroCoin(Countries.country_germany, "", 2022, "A",0, false, 0, 0, 0, 0, 0);
-        database.addSpecialEuroCoin(Countries.country_germany, "", 2022, "D",0, false, 0, 0, 0, 0, 0);
-        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_INSECTS, 2022, "F",500, false, R.drawable.specialeuro_2022_de_insects, R.string.specialeuro_2022_de_insects_title, 0, 0, 0);
-        database.addSpecialEuroCoin(Countries.country_germany, "", 2022, "G",0, false, 0, 0, 0, 0, 0);
-        database.addSpecialEuroCoin(Countries.country_germany, "", 2022, "J",0, false, 0, 0, 0, 0, 0);
-        database.createAndAddSpecialEuroCoin(Countries.country_germany, 2022, 500, false,null, "", R.drawable.specialeuro_2022_de_insects, 0, 0, 0, 0, false, null, null);
+        database.addSpecialEuroCoin(Countries.country_germany, "", 2022, "A",0, false, 0, 0, 0, 0, 0, true, false, false);
+        database.addSpecialEuroCoin(Countries.country_germany, "", 2022, "D",0, false, 0, 0, 0, 0, 0, true, false, false);
+        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_INSECTS, 2022, "F",500, false, R.drawable.specialeuro_2022_de_insects, R.string.specialeuro_2022_de_insects_title, 0, 0, 0, true, false, false);
+        database.addSpecialEuroCoin(Countries.country_germany, "", 2022, "G",0, false, 0, 0, 0, 0, 0, true, false, false);
+        database.addSpecialEuroCoin(Countries.country_germany, "", 2022, "J",0, false, 0, 0, 0, 0, 0, true, false, false);
+        database.createAndAddSpecialEuroCoin(Countries.country_germany, 2022, 500, false,null, "", R.drawable.specialeuro_2022_de_insects, 0, 0, 0, 0, false, null, null, true, false, false, false);
 
-        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_INSECTS_MARIENKAEFER, 2023, "A",500, false, R.drawable.specialeuro_2023_de_insects_marienkaefer, R.string.specialeuro_2023_de_insects_marienkaefer_title, 0, 0, 0);
-        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_INSECTS_BIENE, 2023, "D",500, false, R.drawable.specialeuro_2023_de_insects_biene, R.string.specialeuro_2023_de_insects_biene_title, 0, 0, 0);
-        database.addSpecialEuroCoin(Countries.country_germany, "", 2023, "F",0, false, 0, 0, 0, 0, 0);
-        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_INSECTS_SCHMETTERLING, 2023, "G",500, false, R.drawable.specialeuro_2023_de_insects_schmetterling, R.string.specialeuro_2023_de_insects_schmetterling_title, 0, 0, 0);
-        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_INSECTS_LIBELLE, 2023, "J",500, false, R.drawable.specialeuro_2023_de_insects_libelle, R.string.specialeuro_2023_de_insects_libelle_title, 0, 0, 0);
-        database.createAndAddSpecialEuroCoin(Countries.country_germany, 2023, 500, false,null, "", R.drawable.specialeuro_2023_de_insects_marienkaefer, 0, 0, 0, 0, false, null, null);
+        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_INSECTS_MARIENKAEFER, 2023, "A",500, false, R.drawable.specialeuro_2023_de_insects_marienkaefer, R.string.specialeuro_2023_de_insects_marienkaefer_title, 0, 0, 0, true, false, false);
+        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_INSECTS_BIENE, 2023, "D",500, false, R.drawable.specialeuro_2023_de_insects_biene, R.string.specialeuro_2023_de_insects_biene_title, 0, 0, 0, true, false, false);
+        database.addSpecialEuroCoin(Countries.country_germany, "", 2023, "F",0, false, 0, 0, 0, 0, 0, true, false, false);
+        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_INSECTS_SCHMETTERLING, 2023, "G",500, false, R.drawable.specialeuro_2023_de_insects_schmetterling, R.string.specialeuro_2023_de_insects_schmetterling_title, 0, 0, 0, true, false, false);
+        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_INSECTS_LIBELLE, 2023, "J",500, false, R.drawable.specialeuro_2023_de_insects_libelle, R.string.specialeuro_2023_de_insects_libelle_title, 0, 0, 0, true, false, false);
+        database.createAndAddSpecialEuroCoin(Countries.country_germany, 2023, 500, false,null, "", R.drawable.specialeuro_2023_de_insects_marienkaefer, 0, 0, 0, 0, false, null, null, true, false, false, false);
 
-        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_INSECTS_GRUENES_HEUPFERD, 2024, "A",500, false, R.drawable.specialeuro_2024_de_insects_gruenes_heupferd, R.string.specialeuro_2024_de_insects_gruenes_heupferd_title, 0, 0, 0);
-        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_INSECTS_HIRSCHKAEFER, 2024, "D",500, false, R.drawable.specialeuro_2024_de_insects_hirschkaefer, R.string.specialeuro_2024_de_insects_hirschkaefer_title, 0, 0, 0);
-        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_INSECTS_HAINSCHWEB_FLIEGE, 2024, "F",500, false, R.drawable.specialeuro_2024_de_insects_hainschwebfliege, R.string.specialeuro_2024_de_insects_hainschwebfliege_title, 0, 0, 0);
-        database.addSpecialEuroCoin(Countries.country_germany, "", 2024, "G",0, false, 0, 0, 0, 0, 0);
-        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_INSECTS_STEIN_HUMMEL, 2024, "J",500, false, R.drawable.specialeuro_2024_de_insects_steinhummel, R.string.specialeuro_2024_de_insects_steinhummel_title, 0, 0, 0);
-        database.createAndAddSpecialEuroCoin(Countries.country_germany, 2024, 500, false,null, "", R.drawable.specialeuro_2024_de_insects_gruenes_heupferd, 0, 0, 0, 0, false, null, null);
+        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_INSECTS_GRUENES_HEUPFERD, 2024, "A",500, false, R.drawable.specialeuro_2024_de_insects_gruenes_heupferd, R.string.specialeuro_2024_de_insects_gruenes_heupferd_title, 0, 0, 0, true, false, false);
+        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_INSECTS_HIRSCHKAEFER, 2024, "D",500, false, R.drawable.specialeuro_2024_de_insects_hirschkaefer, R.string.specialeuro_2024_de_insects_hirschkaefer_title, 0, 0, 0, true, false, false);
+        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_INSECTS_HAINSCHWEB_FLIEGE, 2024, "F",500, false, R.drawable.specialeuro_2024_de_insects_hainschwebfliege, R.string.specialeuro_2024_de_insects_hainschwebfliege_title, 0, 0, 0, true, false, false);
+        database.addSpecialEuroCoin(Countries.country_germany, "", 2024, "G",0, false, 0, 0, 0, 0, 0, true, false, false);
+        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_INSECTS_STEIN_HUMMEL, 2024, "J",500, false, R.drawable.specialeuro_2024_de_insects_steinhummel, R.string.specialeuro_2024_de_insects_steinhummel_title, 0, 0, 0, true, false, false);
+        database.createAndAddSpecialEuroCoin(Countries.country_germany, 2024, 500, false,null, "", R.drawable.specialeuro_2024_de_insects_gruenes_heupferd, 0, 0, 0, 0, false, null, null, true, false, false, false);
+    }
+
+    public static void addStarterKits(Database database) {
+        addStarterKit(database, Countries.country_andorra, 678, R.drawable.starter_kit_ad);
+        addStarterKit(database, Countries.country_austria, 1454, R.drawable.starter_kit_au);
+        addStarterKit(database, Countries.country_belgium, 1240, R.drawable.starter_kit_be);
+        //addStarterKit(database, Countries.country_belgium, 1023, R.drawable.starter_kit_bg);
+        addStarterKit(database, Countries.country_croatia, 1328, R.drawable.starter_kit_hr);
+        addStarterKit(database, Countries.country_cyprus, 1709, R.drawable.starter_kit_cy);
+        addStarterKit(database, Countries.country_estonia, 1279, R.drawable.starter_kit_ee);
+        addStarterKit(database, Countries.country_finland, 388, R.drawable.starter_kit_fi);
+        addStarterKit(database, Countries.country_france, 1525, R.drawable.starter_kit_fr);
+        addStarterKit(database, Countries.country_germany, 1023, R.drawable.starter_kit_de);
+        addStarterKit(database, Countries.country_greece, 1467, R.drawable.starter_kit_gr);
+        addStarterKit(database, Countries.country_ireland, 635, R.drawable.starter_kit_ir);
+        addStarterKit(database, Countries.country_italy, 1291, R.drawable.starter_kit_it);
+        addStarterKit(database, Countries.country_latvia, 1423, R.drawable.starter_kit_lv);
+        addStarterKit(database, Countries.country_lithuania, 1159, R.drawable.starter_kit_lt);
+        addStarterKit(database, Countries.country_luxembourg, 1240, R.drawable.starter_kit_lu);
+        addStarterKit(database, Countries.country_malta, 1165, R.drawable.starter_kit_mt);
+        addStarterKit(database, Countries.country_monaco, 1525, R.drawable.starter_kit_mc);
+        addStarterKit(database, Countries.country_netherlands, 1135, R.drawable.starter_kit_ne);
+        addStarterKit(database, Countries.country_portugal, 1000, R.drawable.starter_kit_po);
+        addStarterKit(database, Countries.country_slovakia, 1660, R.drawable.starter_kit_sk);
+        addStarterKit(database, Countries.country_slovenia, 1252, R.drawable.starter_kit_sl);
+        addStarterKit(database, Countries.country_spain, 1202, R.drawable.starter_kit_sp);
+        addStarterKit(database, Countries.country_vatican, 388, R.drawable.starter_kit_va);
+    }
+
+    private static void addStarterKit(Database database, Country country, int value, int imageResId) {
+        database.createAndAddSpecialEuroCoin(country, country.getStartYear(), value, false, null, SpecialEuroCoin.ID_STARTER_KIT_PUBLIC, imageResId, R.string.starter_set_title, 0, 0, 0, false, null, null, false, false, false, true);
+        for (String commonTitle : country.getCommonCoinSetTitles()) {
+            database.createAndAddSpecialEuroCoin(country, country.getStartYear(), value, false, commonTitle, SpecialEuroCoin.ID_STARTER_KIT_PUBLIC, imageResId, R.string.starter_set_title, 0, 0, 0, false, null, null, false, false, false, true);
+        }
     }
 
     public static void setRareCoins(Database database) {
@@ -1067,6 +1101,20 @@ public class CoinDatabase {
                 coinResIds[5] = R.drawable.euro_muenze_rs_be_50c;
                 coinResIds[2] = R.drawable.euro_muenze_rs_be_5c;
             }
+
+        } else if (countrycode.equals(Countries.country_bulgaria.getCountryCode())) {
+            if (year == country.getStartYear() && fillSeries) {
+                country.addSeries(country.getStartYear(), null);
+            }
+            coinResIds[3] = R.drawable.euro_muenze_rs_bg_10c;
+            coinResIds[0] = R.drawable.euro_muenze_rs_bg_1c;
+            coinResIds[6] = R.drawable.euro_muenze_rs_bg_1e;
+            coinResIds[4] = R.drawable.euro_muenze_rs_bg_20c;
+            coinResIds[1] = R.drawable.euro_muenze_rs_bg_2c;
+            coinResIds[7] = R.drawable.euro_muenze_rs_bg_2e;
+            coinResIds[5] = R.drawable.euro_muenze_rs_bg_50c;
+            coinResIds[2] = R.drawable.euro_muenze_rs_bg_5c;
+
         } else if (countrycode.equals(Countries.country_germany.getCountryCode())) {
             if (year == country.getStartYear() && fillSeries) {
                 country.addSeries(country.getStartYear(), null);
