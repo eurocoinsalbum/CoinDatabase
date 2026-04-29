@@ -16,7 +16,7 @@ public class CoinDatabase {
         database.add2EuroCoin("lu", SpecialEuroCoin.COMMON_TITLE_2CC, 2004, R.drawable.twoeuro_comm_2004_lu, R.string.twoeuro_comm_2004_lu_title, R.string.twoeuro_comm_2004_lu_desc, R.string.twoeuro_comm_2004_lu_volume, R.string.twoeuro_comm_2004_lu_date);
         database.add2EuroCoin("sm", SpecialEuroCoin.COMMON_TITLE_2CC, 2004, R.drawable.twoeuro_comm_2004_sm, R.string.twoeuro_comm_2004_sm_title, R.string.twoeuro_comm_2004_sm_desc, R.string.twoeuro_comm_2004_sm_volume, R.string.twoeuro_comm_2004_sm_date);
         database.add2EuroCoin("va", SpecialEuroCoin.COMMON_TITLE_2CC, 2004, R.drawable.twoeuro_comm_2004_va, R.string.twoeuro_comm_2004_va_title, R.string.twoeuro_comm_2004_va_desc, R.string.twoeuro_comm_2004_va_volume, R.string.twoeuro_comm_2004_va_date);
-        database.add2EuroCoin("au", SpecialEuroCoin.COMMON_TITLE_2CC, 2005, R.drawable.twoeuro_comm_2005_au, R.string.twoeuro_comm_2005_au_title, R.string.twoeuro_comm_2005_au_desc, R.string.twoeuro_comm_2005_au_volume, R.string.twoeuro_comm_2005_au_date);
+        database.add2EuroCoin("at", SpecialEuroCoin.COMMON_TITLE_2CC, 2005, R.drawable.twoeuro_comm_2005_au, R.string.twoeuro_comm_2005_au_title, R.string.twoeuro_comm_2005_au_desc, R.string.twoeuro_comm_2005_au_volume, R.string.twoeuro_comm_2005_au_date);
         database.add2EuroCoin("be", SpecialEuroCoin.COMMON_TITLE_2CC, 2005, R.drawable.twoeuro_comm_2005_be, R.string.twoeuro_comm_2005_be_title, R.string.twoeuro_comm_2005_be_desc, R.string.twoeuro_comm_2005_be_volume, R.string.twoeuro_comm_2005_be_date);
         database.add2EuroCoin("fi", SpecialEuroCoin.COMMON_TITLE_2CC, 2005, R.drawable.twoeuro_comm_2005_fi, R.string.twoeuro_comm_2005_fi_title, R.string.twoeuro_comm_2005_fi_desc, R.string.twoeuro_comm_2005_fi_volume, R.string.twoeuro_comm_2005_fi_date);
         database.add2EuroCoin("it", SpecialEuroCoin.COMMON_TITLE_2CC, 2005, R.drawable.twoeuro_comm_2005_it, R.string.twoeuro_comm_2005_it_title, R.string.twoeuro_comm_2005_it_desc, R.string.twoeuro_comm_2005_it_volume, R.string.twoeuro_comm_2005_it_date);
@@ -35,7 +35,7 @@ public class CoinDatabase {
         database.add2EuroCoin("fi", SpecialEuroCoin.COMMON_TITLE_2CC, 2007, R.drawable.twoeuro_comm_2007_fi, R.string.twoeuro_comm_2007_fi_title, R.string.twoeuro_comm_2007_fi_desc, R.string.twoeuro_comm_2007_fi_volume, R.string.twoeuro_comm_2007_fi_date);
         database.add2EuroCoin("lu", SpecialEuroCoin.COMMON_TITLE_2CC, 2007, R.drawable.twoeuro_comm_2007_lu, R.string.twoeuro_comm_2007_lu_title, R.string.twoeuro_comm_2007_lu_desc, R.string.twoeuro_comm_2007_lu_volume, R.string.twoeuro_comm_2007_lu_date);
         database.add2EuroCoin("mc", SpecialEuroCoin.COMMON_TITLE_2CC, 2007, R.drawable.twoeuro_comm_2007_mc, R.string.twoeuro_comm_2007_mc_title, R.string.twoeuro_comm_2007_mc_desc, R.string.twoeuro_comm_2007_mc_volume, R.string.twoeuro_comm_2007_mc_date);
-        database.add2EuroCoin("po", SpecialEuroCoin.COMMON_TITLE_2CC, 2007, R.drawable.twoeuro_comm_2007_po, R.string.twoeuro_comm_2007_po_title, R.string.twoeuro_comm_2007_po_desc, R.string.twoeuro_comm_2007_po_volume, R.string.twoeuro_comm_2007_po_date);
+        database.add2EuroCoin("pt", SpecialEuroCoin.COMMON_TITLE_2CC, 2007, R.drawable.twoeuro_comm_2007_po, R.string.twoeuro_comm_2007_po_title, R.string.twoeuro_comm_2007_po_desc, R.string.twoeuro_comm_2007_po_volume, R.string.twoeuro_comm_2007_po_date);
         database.add2EuroCoin("sm", SpecialEuroCoin.COMMON_TITLE_2CC, 2007, R.drawable.twoeuro_comm_2007_sm, R.string.twoeuro_comm_2007_sm_title, R.string.twoeuro_comm_2007_sm_desc, R.string.twoeuro_comm_2007_sm_volume, R.string.twoeuro_comm_2007_sm_date);
         database.add2EuroCoin("va", SpecialEuroCoin.COMMON_TITLE_2CC, 2007, R.drawable.twoeuro_comm_2007_va, R.string.twoeuro_comm_2007_va_title, R.string.twoeuro_comm_2007_va_desc, R.string.twoeuro_comm_2007_va_volume, R.string.twoeuro_comm_2007_va_date);
         database.add2EuroCoin("be", SpecialEuroCoin.COMMON_TITLE_2CC, 2008, R.drawable.twoeuro_comm_2008_be, R.string.twoeuro_comm_2008_be_title, R.string.twoeuro_comm_2008_be_desc, R.string.twoeuro_comm_2008_be_volume, R.string.twoeuro_comm_2008_be_date);
@@ -44,7 +44,7 @@ public class CoinDatabase {
         database.add2EuroCoin("fr", SpecialEuroCoin.COMMON_TITLE_2CC, 2008, R.drawable.twoeuro_comm_2008_fr, R.string.twoeuro_comm_2008_fr_title, R.string.twoeuro_comm_2008_fr_desc, R.string.twoeuro_comm_2008_fr_volume, R.string.twoeuro_comm_2008_fr_date);
         database.add2EuroCoin("it", SpecialEuroCoin.COMMON_TITLE_2CC, 2008, R.drawable.twoeuro_comm_2008_it, R.string.twoeuro_comm_2008_it_title, R.string.twoeuro_comm_2008_it_desc, R.string.twoeuro_comm_2008_it_volume, R.string.twoeuro_comm_2008_it_date);
         database.add2EuroCoin("lu", SpecialEuroCoin.COMMON_TITLE_2CC, 2008, R.drawable.twoeuro_comm_2008_lu, R.string.twoeuro_comm_2008_lu_title, R.string.twoeuro_comm_2008_lu_desc, R.string.twoeuro_comm_2008_lu_volume, R.string.twoeuro_comm_2008_lu_date);
-        database.add2EuroCoin("po", SpecialEuroCoin.COMMON_TITLE_2CC, 2008, R.drawable.twoeuro_comm_2008_po, R.string.twoeuro_comm_2008_po_title, R.string.twoeuro_comm_2008_po_desc, R.string.twoeuro_comm_2008_po_volume, R.string.twoeuro_comm_2008_po_date);
+        database.add2EuroCoin("pt", SpecialEuroCoin.COMMON_TITLE_2CC, 2008, R.drawable.twoeuro_comm_2008_po, R.string.twoeuro_comm_2008_po_title, R.string.twoeuro_comm_2008_po_desc, R.string.twoeuro_comm_2008_po_volume, R.string.twoeuro_comm_2008_po_date);
         database.add2EuroCoin("si", SpecialEuroCoin.COMMON_TITLE_2CC, 2008, R.drawable.twoeuro_comm_2008_si, R.string.twoeuro_comm_2008_si_title, R.string.twoeuro_comm_2008_si_desc, R.string.twoeuro_comm_2008_si_volume, R.string.twoeuro_comm_2008_si_date);
         database.add2EuroCoin("sm", SpecialEuroCoin.COMMON_TITLE_2CC, 2008, R.drawable.twoeuro_comm_2008_sm, R.string.twoeuro_comm_2008_sm_title, R.string.twoeuro_comm_2008_sm_desc, R.string.twoeuro_comm_2008_sm_volume, R.string.twoeuro_comm_2008_sm_date);
         database.add2EuroCoin("va", SpecialEuroCoin.COMMON_TITLE_2CC, 2008, R.drawable.twoeuro_comm_2008_va, R.string.twoeuro_comm_2008_va_title, R.string.twoeuro_comm_2008_va_desc, R.string.twoeuro_comm_2008_va_volume, R.string.twoeuro_comm_2008_va_date);
@@ -53,7 +53,7 @@ public class CoinDatabase {
         database.add2EuroCoin("fi", SpecialEuroCoin.COMMON_TITLE_2CC, 2009, R.drawable.twoeuro_comm_2009_fi, R.string.twoeuro_comm_2009_fi_title, R.string.twoeuro_comm_2009_fi_desc, R.string.twoeuro_comm_2009_fi_volume, R.string.twoeuro_comm_2009_fi_date);
         database.add2EuroCoin("it", SpecialEuroCoin.COMMON_TITLE_2CC, 2009, R.drawable.twoeuro_comm_2009_it, R.string.twoeuro_comm_2009_it_title, R.string.twoeuro_comm_2009_it_desc, R.string.twoeuro_comm_2009_it_volume, R.string.twoeuro_comm_2009_it_date);
         database.add2EuroCoin("lu", SpecialEuroCoin.COMMON_TITLE_2CC, 2009, R.drawable.twoeuro_comm_2009_lu, R.string.twoeuro_comm_2009_lu_title, R.string.twoeuro_comm_2009_lu_desc, R.string.twoeuro_comm_2009_lu_volume, R.string.twoeuro_comm_2009_lu_date);
-        database.add2EuroCoin("po", SpecialEuroCoin.COMMON_TITLE_2CC, 2009, R.drawable.twoeuro_comm_2009_po, R.string.twoeuro_comm_2009_po_title, R.string.twoeuro_comm_2009_po_desc, R.string.twoeuro_comm_2009_po_volume, R.string.twoeuro_comm_2009_po_date);
+        database.add2EuroCoin("pt", SpecialEuroCoin.COMMON_TITLE_2CC, 2009, R.drawable.twoeuro_comm_2009_po, R.string.twoeuro_comm_2009_po_title, R.string.twoeuro_comm_2009_po_desc, R.string.twoeuro_comm_2009_po_volume, R.string.twoeuro_comm_2009_po_date);
         database.add2EuroCoin("sk", SpecialEuroCoin.COMMON_TITLE_2CC, 2009, R.drawable.twoeuro_comm_2009_sk, R.string.twoeuro_comm_2009_sk_title, R.string.twoeuro_comm_2009_sk_desc, R.string.twoeuro_comm_2009_sk_volume, R.string.twoeuro_comm_2009_sk_date);
         database.add2EuroCoin("sm", SpecialEuroCoin.COMMON_TITLE_2CC, 2009, R.drawable.twoeuro_comm_2009_sm, R.string.twoeuro_comm_2009_sm_title, R.string.twoeuro_comm_2009_sm_desc, R.string.twoeuro_comm_2009_sm_volume, R.string.twoeuro_comm_2009_sm_date);
         database.add2EuroCoin("va", SpecialEuroCoin.COMMON_TITLE_2CC, 2009, R.drawable.twoeuro_comm_2009_va, R.string.twoeuro_comm_2009_va_title, R.string.twoeuro_comm_2009_va_desc, R.string.twoeuro_comm_2009_va_volume, R.string.twoeuro_comm_2009_va_date);
@@ -65,7 +65,7 @@ public class CoinDatabase {
         database.add2EuroCoin("fr", SpecialEuroCoin.COMMON_TITLE_2CC, 2010, R.drawable.twoeuro_comm_2010_fr, R.string.twoeuro_comm_2010_fr_title, R.string.twoeuro_comm_2010_fr_desc, R.string.twoeuro_comm_2010_fr_volume, R.string.twoeuro_comm_2010_fr_date);
         database.add2EuroCoin("it", SpecialEuroCoin.COMMON_TITLE_2CC, 2010, R.drawable.twoeuro_comm_2010_it, R.string.twoeuro_comm_2010_it_title, R.string.twoeuro_comm_2010_it_desc, R.string.twoeuro_comm_2010_it_volume, R.string.twoeuro_comm_2010_it_date);
         database.add2EuroCoin("lu", SpecialEuroCoin.COMMON_TITLE_2CC, 2010, R.drawable.twoeuro_comm_2010_lu, R.string.twoeuro_comm_2010_lu_title, R.string.twoeuro_comm_2010_lu_desc, R.string.twoeuro_comm_2010_lu_volume, R.string.twoeuro_comm_2010_lu_date);
-        database.add2EuroCoin("po", SpecialEuroCoin.COMMON_TITLE_2CC, 2010, R.drawable.twoeuro_comm_2010_po, R.string.twoeuro_comm_2010_po_title, R.string.twoeuro_comm_2010_po_desc, R.string.twoeuro_comm_2010_po_volume, R.string.twoeuro_comm_2010_po_date);
+        database.add2EuroCoin("pt", SpecialEuroCoin.COMMON_TITLE_2CC, 2010, R.drawable.twoeuro_comm_2010_po, R.string.twoeuro_comm_2010_po_title, R.string.twoeuro_comm_2010_po_desc, R.string.twoeuro_comm_2010_po_volume, R.string.twoeuro_comm_2010_po_date);
         database.add2EuroCoin("si", SpecialEuroCoin.COMMON_TITLE_2CC, 2010, R.drawable.twoeuro_comm_2010_si, R.string.twoeuro_comm_2010_si_title, R.string.twoeuro_comm_2010_si_desc, R.string.twoeuro_comm_2010_si_volume, R.string.twoeuro_comm_2010_si_date);
         database.add2EuroCoin("sm", SpecialEuroCoin.COMMON_TITLE_2CC, 2010, R.drawable.twoeuro_comm_2010_sm, R.string.twoeuro_comm_2010_sm_title, R.string.twoeuro_comm_2010_sm_desc, R.string.twoeuro_comm_2010_sm_volume, R.string.twoeuro_comm_2010_sm_date);
         database.add2EuroCoin("va", SpecialEuroCoin.COMMON_TITLE_2CC, 2010, R.drawable.twoeuro_comm_2010_va, R.string.twoeuro_comm_2010_va_title, R.string.twoeuro_comm_2010_va_desc, R.string.twoeuro_comm_2010_va_volume, R.string.twoeuro_comm_2010_va_date);
@@ -79,8 +79,8 @@ public class CoinDatabase {
         database.add2EuroCoin("lu", SpecialEuroCoin.COMMON_TITLE_2CC, 2011, R.drawable.twoeuro_comm_2011_lu, R.string.twoeuro_comm_2011_lu_title, R.string.twoeuro_comm_2011_lu_desc, R.string.twoeuro_comm_2011_lu_volume, R.string.twoeuro_comm_2011_lu_date);
         database.add2EuroCoin("mc", SpecialEuroCoin.COMMON_TITLE_2CC, 2011, R.drawable.twoeuro_comm_2011_mc, R.string.twoeuro_comm_2011_mc_title, R.string.twoeuro_comm_2011_mc_desc, R.string.twoeuro_comm_2011_mc_volume, R.string.twoeuro_comm_2011_mc_date);
         database.add2EuroCoin("mt", SpecialEuroCoin.COMMON_TITLE_2CC, 2011, R.drawable.twoeuro_comm_2011_mt, R.string.twoeuro_comm_2011_mt_title, R.string.twoeuro_comm_2011_mt_desc, R.string.twoeuro_comm_2011_mt_volume, R.string.twoeuro_comm_2011_mt_date);
-        database.add2EuroCoin("ne", SpecialEuroCoin.COMMON_TITLE_2CC, 2011, R.drawable.twoeuro_comm_2011_ne, R.string.twoeuro_comm_2011_ne_title, R.string.twoeuro_comm_2011_ne_desc, R.string.twoeuro_comm_2011_ne_volume, R.string.twoeuro_comm_2011_ne_date);
-        database.add2EuroCoin("po", SpecialEuroCoin.COMMON_TITLE_2CC, 2011, R.drawable.twoeuro_comm_2011_po, R.string.twoeuro_comm_2011_po_title, R.string.twoeuro_comm_2011_po_desc, R.string.twoeuro_comm_2011_po_volume, R.string.twoeuro_comm_2011_po_date);
+        database.add2EuroCoin("nl", SpecialEuroCoin.COMMON_TITLE_2CC, 2011, R.drawable.twoeuro_comm_2011_ne, R.string.twoeuro_comm_2011_ne_title, R.string.twoeuro_comm_2011_ne_desc, R.string.twoeuro_comm_2011_ne_volume, R.string.twoeuro_comm_2011_ne_date);
+        database.add2EuroCoin("pt", SpecialEuroCoin.COMMON_TITLE_2CC, 2011, R.drawable.twoeuro_comm_2011_po, R.string.twoeuro_comm_2011_po_title, R.string.twoeuro_comm_2011_po_desc, R.string.twoeuro_comm_2011_po_volume, R.string.twoeuro_comm_2011_po_date);
         database.add2EuroCoin("sk", SpecialEuroCoin.COMMON_TITLE_2CC, 2011, R.drawable.twoeuro_comm_2011_sk, R.string.twoeuro_comm_2011_sk_title, R.string.twoeuro_comm_2011_sk_desc, R.string.twoeuro_comm_2011_sk_volume, R.string.twoeuro_comm_2011_sk_date);
         database.add2EuroCoin("si", SpecialEuroCoin.COMMON_TITLE_2CC, 2011, R.drawable.twoeuro_comm_2011_si, R.string.twoeuro_comm_2011_si_title, R.string.twoeuro_comm_2011_si_desc, R.string.twoeuro_comm_2011_si_volume, R.string.twoeuro_comm_2011_si_date);
         database.add2EuroCoin("sm", SpecialEuroCoin.COMMON_TITLE_2CC, 2011, R.drawable.twoeuro_comm_2011_sm, R.string.twoeuro_comm_2011_sm_title, R.string.twoeuro_comm_2011_sm_desc, R.string.twoeuro_comm_2011_sm_volume, R.string.twoeuro_comm_2011_sm_date);
@@ -95,7 +95,7 @@ public class CoinDatabase {
         database.add2EuroCoin("lu", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2012, R.drawable.twoeuro_comm_2012_lu_2, R.string.twoeuro_comm_2012_lu_2_title, R.string.twoeuro_comm_2012_lu_2_desc, R.string.twoeuro_comm_2012_lu_2_volume, R.string.twoeuro_comm_2012_lu_2_date);
         database.add2EuroCoin("mc", SpecialEuroCoin.COMMON_TITLE_2CC, 2012, R.drawable.twoeuro_comm_2012_mc, R.string.twoeuro_comm_2012_mc_title, R.string.twoeuro_comm_2012_mc_desc, R.string.twoeuro_comm_2012_mc_volume, R.string.twoeuro_comm_2012_mc_date);
         database.add2EuroCoin("mt", SpecialEuroCoin.COMMON_TITLE_2CC, 2012, R.drawable.twoeuro_comm_2012_mt, R.string.twoeuro_comm_2012_mt_title, R.string.twoeuro_comm_2012_mt_desc, R.string.twoeuro_comm_2012_mt_volume, R.string.twoeuro_comm_2012_mt_date);
-        database.add2EuroCoin("po", SpecialEuroCoin.COMMON_TITLE_2CC, 2012, R.drawable.twoeuro_comm_2012_po, R.string.twoeuro_comm_2012_po_title, R.string.twoeuro_comm_2012_po_desc, R.string.twoeuro_comm_2012_po_volume, R.string.twoeuro_comm_2012_po_date);
+        database.add2EuroCoin("pt", SpecialEuroCoin.COMMON_TITLE_2CC, 2012, R.drawable.twoeuro_comm_2012_po, R.string.twoeuro_comm_2012_po_title, R.string.twoeuro_comm_2012_po_desc, R.string.twoeuro_comm_2012_po_volume, R.string.twoeuro_comm_2012_po_date);
         database.add2EuroCoin("va", SpecialEuroCoin.COMMON_TITLE_2CC, 2012, R.drawable.twoeuro_comm_2012_va, R.string.twoeuro_comm_2012_va_title, R.string.twoeuro_comm_2012_va_desc, R.string.twoeuro_comm_2012_va_volume, R.string.twoeuro_comm_2012_va_date);
         database.add2EuroCoin("be", SpecialEuroCoin.COMMON_TITLE_2CC, 2013, R.drawable.twoeuro_comm_2013_be, R.string.twoeuro_comm_2013_be_title, R.string.twoeuro_comm_2013_be_desc, R.string.twoeuro_comm_2013_be_volume, R.string.twoeuro_comm_2013_be_date);
         database.add2EuroCoin("de", SpecialEuroCoin.COMMON_TITLE_2CC, 2013, R.drawable.twoeuro_comm_2013_de, R.string.twoeuro_comm_2013_de_title, R.string.twoeuro_comm_2013_de_desc, R.string.twoeuro_comm_2013_de_volume, R.string.twoeuro_comm_2013_de_date);
@@ -112,9 +112,9 @@ public class CoinDatabase {
         database.add2EuroCoin("lu", SpecialEuroCoin.COMMON_TITLE_2CC, 2013, R.drawable.twoeuro_comm_2013_lu, R.string.twoeuro_comm_2013_lu_title, R.string.twoeuro_comm_2013_lu_desc, R.string.twoeuro_comm_2013_lu_volume, R.string.twoeuro_comm_2013_lu_date);
         database.add2EuroCoin("mc", SpecialEuroCoin.COMMON_TITLE_2CC, 2013, R.drawable.twoeuro_comm_2013_mc, R.string.twoeuro_comm_2013_mc_title, R.string.twoeuro_comm_2013_mc_desc, R.string.twoeuro_comm_2013_mc_volume, R.string.twoeuro_comm_2013_mc_date);
         database.add2EuroCoin("mt", SpecialEuroCoin.COMMON_TITLE_2CC, 2013, R.drawable.twoeuro_comm_2013_mt, R.string.twoeuro_comm_2013_mt_title, R.string.twoeuro_comm_2013_mt_desc, R.string.twoeuro_comm_2013_mt_volume, R.string.twoeuro_comm_2013_mt_date);
-        database.add2EuroCoin("ne", SpecialEuroCoin.COMMON_TITLE_2CC, 2013, R.drawable.twoeuro_comm_2013_ne, R.string.twoeuro_comm_2013_ne_title, R.string.twoeuro_comm_2013_ne_desc, R.string.twoeuro_comm_2013_ne_volume, R.string.twoeuro_comm_2013_ne_date);
-        database.add2EuroCoin("ne", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2013, R.drawable.twoeuro_comm_2013_ne_2, R.string.twoeuro_comm_2013_ne_2_title, R.string.twoeuro_comm_2013_ne_2_desc, R.string.twoeuro_comm_2013_ne_2_volume, R.string.twoeuro_comm_2013_ne_2_date);
-        database.add2EuroCoin("po", SpecialEuroCoin.COMMON_TITLE_2CC, 2013, R.drawable.twoeuro_comm_2013_po, R.string.twoeuro_comm_2013_po_title, R.string.twoeuro_comm_2013_po_desc, R.string.twoeuro_comm_2013_po_volume, R.string.twoeuro_comm_2013_po_date);
+        database.add2EuroCoin("nl", SpecialEuroCoin.COMMON_TITLE_2CC, 2013, R.drawable.twoeuro_comm_2013_ne, R.string.twoeuro_comm_2013_ne_title, R.string.twoeuro_comm_2013_ne_desc, R.string.twoeuro_comm_2013_ne_volume, R.string.twoeuro_comm_2013_ne_date);
+        database.add2EuroCoin("nl", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2013, R.drawable.twoeuro_comm_2013_ne_2, R.string.twoeuro_comm_2013_ne_2_title, R.string.twoeuro_comm_2013_ne_2_desc, R.string.twoeuro_comm_2013_ne_2_volume, R.string.twoeuro_comm_2013_ne_2_date);
+        database.add2EuroCoin("pt", SpecialEuroCoin.COMMON_TITLE_2CC, 2013, R.drawable.twoeuro_comm_2013_po, R.string.twoeuro_comm_2013_po_title, R.string.twoeuro_comm_2013_po_desc, R.string.twoeuro_comm_2013_po_volume, R.string.twoeuro_comm_2013_po_date);
         database.add2EuroCoin("sk", SpecialEuroCoin.COMMON_TITLE_2CC, 2013, R.drawable.twoeuro_comm_2013_sk, R.string.twoeuro_comm_2013_sk_title, R.string.twoeuro_comm_2013_sk_desc, R.string.twoeuro_comm_2013_sk_volume, R.string.twoeuro_comm_2013_sk_date);
         database.add2EuroCoin("si", SpecialEuroCoin.COMMON_TITLE_2CC, 2013, R.drawable.twoeuro_comm_2013_si, R.string.twoeuro_comm_2013_si_title, R.string.twoeuro_comm_2013_si_desc, R.string.twoeuro_comm_2013_si_volume, R.string.twoeuro_comm_2013_si_date);
         database.add2EuroCoin("sm", SpecialEuroCoin.COMMON_TITLE_2CC, 2013, R.drawable.twoeuro_comm_2013_sm, R.string.twoeuro_comm_2013_sm_title, R.string.twoeuro_comm_2013_sm_desc, R.string.twoeuro_comm_2013_sm_volume, R.string.twoeuro_comm_2013_sm_date);
@@ -139,9 +139,9 @@ public class CoinDatabase {
         database.add2EuroCoin("lv", SpecialEuroCoin.COMMON_TITLE_2CC, 2014, R.drawable.twoeuro_comm_2014_lv, R.string.twoeuro_comm_2014_lv_title, R.string.twoeuro_comm_2014_lv_desc, R.string.twoeuro_comm_2014_lv_volume, R.string.twoeuro_comm_2014_lv_date);
         database.add2EuroCoin("mt", SpecialEuroCoin.COMMON_TITLE_2CC, 2014, R.drawable.twoeuro_comm_2014_mt, R.string.twoeuro_comm_2014_mt_title, R.string.twoeuro_comm_2014_mt_desc, R.string.twoeuro_comm_2014_mt_volume, R.string.twoeuro_comm_2014_mt_date);
         database.add2EuroCoin("mt", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2014, R.drawable.twoeuro_comm_2014_mt_2, R.string.twoeuro_comm_2014_mt_2_title, R.string.twoeuro_comm_2014_mt_2_desc, R.string.twoeuro_comm_2014_mt_2_volume, R.string.twoeuro_comm_2014_mt_2_date);
-        database.add2EuroCoin("ne", SpecialEuroCoin.COMMON_TITLE_2CC, 2014, R.drawable.twoeuro_comm_2014_ne, R.string.twoeuro_comm_2014_ne_title, R.string.twoeuro_comm_2014_ne_desc, R.string.twoeuro_comm_2014_ne_volume, R.string.twoeuro_comm_2014_ne_date);
-        database.add2EuroCoin("po", SpecialEuroCoin.COMMON_TITLE_2CC, 2014, R.drawable.twoeuro_comm_2014_po, R.string.twoeuro_comm_2014_po_title, R.string.twoeuro_comm_2014_po_desc, R.string.twoeuro_comm_2014_po_volume, R.string.twoeuro_comm_2014_po_date);
-        database.add2EuroCoin("po", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2014, R.drawable.twoeuro_comm_2014_po_2, R.string.twoeuro_comm_2014_po_2_title, R.string.twoeuro_comm_2014_po_2_desc, R.string.twoeuro_comm_2014_po_2_volume, R.string.twoeuro_comm_2014_po_2_date);
+        database.add2EuroCoin("nl", SpecialEuroCoin.COMMON_TITLE_2CC, 2014, R.drawable.twoeuro_comm_2014_ne, R.string.twoeuro_comm_2014_ne_title, R.string.twoeuro_comm_2014_ne_desc, R.string.twoeuro_comm_2014_ne_volume, R.string.twoeuro_comm_2014_ne_date);
+        database.add2EuroCoin("pt", SpecialEuroCoin.COMMON_TITLE_2CC, 2014, R.drawable.twoeuro_comm_2014_po, R.string.twoeuro_comm_2014_po_title, R.string.twoeuro_comm_2014_po_desc, R.string.twoeuro_comm_2014_po_volume, R.string.twoeuro_comm_2014_po_date);
+        database.add2EuroCoin("pt", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2014, R.drawable.twoeuro_comm_2014_po_2, R.string.twoeuro_comm_2014_po_2_title, R.string.twoeuro_comm_2014_po_2_desc, R.string.twoeuro_comm_2014_po_2_volume, R.string.twoeuro_comm_2014_po_2_date);
         database.add2EuroCoin("si", SpecialEuroCoin.COMMON_TITLE_2CC, 2014, R.drawable.twoeuro_comm_2014_si, R.string.twoeuro_comm_2014_si_title, R.string.twoeuro_comm_2014_si_desc, R.string.twoeuro_comm_2014_si_volume, R.string.twoeuro_comm_2014_si_date);
         database.add2EuroCoin("sk", SpecialEuroCoin.COMMON_TITLE_2CC, 2014, R.drawable.twoeuro_comm_2014_sk, R.string.twoeuro_comm_2014_sk_title, R.string.twoeuro_comm_2014_sk_desc, R.string.twoeuro_comm_2014_sk_volume, R.string.twoeuro_comm_2014_sk_date);
         database.add2EuroCoin("sm", SpecialEuroCoin.COMMON_TITLE_2CC, 2014, R.drawable.twoeuro_comm_2014_sm, R.string.twoeuro_comm_2014_sm_title, R.string.twoeuro_comm_2014_sm_desc, R.string.twoeuro_comm_2014_sm_volume, R.string.twoeuro_comm_2014_sm_date);
@@ -169,8 +169,8 @@ public class CoinDatabase {
         database.add2EuroCoin("mc", SpecialEuroCoin.COMMON_TITLE_2CC, 2015, R.drawable.twoeuro_comm_2015_mc, R.string.twoeuro_comm_2015_mc_title, R.string.twoeuro_comm_2015_mc_desc, R.string.twoeuro_comm_2015_mc_volume, R.string.twoeuro_comm_2015_mc_date);
         database.add2EuroCoin("mt", SpecialEuroCoin.COMMON_TITLE_2CC, 2015, R.drawable.twoeuro_comm_2015_mt, R.string.twoeuro_comm_2015_mt_title, R.string.twoeuro_comm_2015_mt_desc, R.string.twoeuro_comm_2015_mt_volume, R.string.twoeuro_comm_2015_mt_date);
         database.add2EuroCoin("mt", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2015, R.drawable.twoeuro_comm_2015_mt_2, R.string.twoeuro_comm_2015_mt_2_title, R.string.twoeuro_comm_2015_mt_2_desc, R.string.twoeuro_comm_2015_mt_2_volume, R.string.twoeuro_comm_2015_mt_2_date);
-        database.add2EuroCoin("po", SpecialEuroCoin.COMMON_TITLE_2CC, 2015, R.drawable.twoeuro_comm_2015_po, R.string.twoeuro_comm_2015_po_title, R.string.twoeuro_comm_2015_po_desc, R.string.twoeuro_comm_2015_po_volume, R.string.twoeuro_comm_2015_po_date);
-        database.add2EuroCoin("po", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2015, R.drawable.twoeuro_comm_2015_po_2, R.string.twoeuro_comm_2015_po_2_title, R.string.twoeuro_comm_2015_po_2_desc, R.string.twoeuro_comm_2015_po_2_volume, R.string.twoeuro_comm_2015_po_2_date);
+        database.add2EuroCoin("pt", SpecialEuroCoin.COMMON_TITLE_2CC, 2015, R.drawable.twoeuro_comm_2015_po, R.string.twoeuro_comm_2015_po_title, R.string.twoeuro_comm_2015_po_desc, R.string.twoeuro_comm_2015_po_volume, R.string.twoeuro_comm_2015_po_date);
+        database.add2EuroCoin("pt", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2015, R.drawable.twoeuro_comm_2015_po_2, R.string.twoeuro_comm_2015_po_2_title, R.string.twoeuro_comm_2015_po_2_desc, R.string.twoeuro_comm_2015_po_2_volume, R.string.twoeuro_comm_2015_po_2_date);
         database.add2EuroCoin("sk", SpecialEuroCoin.COMMON_TITLE_2CC, 2015, R.drawable.twoeuro_comm_2015_sk, R.string.twoeuro_comm_2015_sk_title, R.string.twoeuro_comm_2015_sk_desc, R.string.twoeuro_comm_2015_sk_volume, R.string.twoeuro_comm_2015_sk_date);
         database.add2EuroCoin("si", SpecialEuroCoin.COMMON_TITLE_2CC, 2015, R.drawable.twoeuro_comm_2015_si, R.string.twoeuro_comm_2015_si_title, R.string.twoeuro_comm_2015_si_desc, R.string.twoeuro_comm_2015_si_volume, R.string.twoeuro_comm_2015_si_date);
         database.add2EuroCoin("sm", SpecialEuroCoin.COMMON_TITLE_2CC, 2015, R.drawable.twoeuro_comm_2015_sm, R.string.twoeuro_comm_2015_sm_title, R.string.twoeuro_comm_2015_sm_desc, R.string.twoeuro_comm_2015_sm_volume, R.string.twoeuro_comm_2015_sm_date);
@@ -179,7 +179,7 @@ public class CoinDatabase {
 
         database.add2EuroCoin("ad", SpecialEuroCoin.COMMON_TITLE_2CC, 2016, R.drawable.twoeuro_comm_2016_ad, R.string.twoeuro_comm_2016_ad_title, R.string.twoeuro_comm_2016_ad_desc, R.string.twoeuro_comm_2016_ad_volume, R.string.twoeuro_comm_2016_ad_date);
         database.add2EuroCoin("ad", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2016, R.drawable.twoeuro_comm_2016_ad_2, R.string.twoeuro_comm_2016_ad_2_title, R.string.twoeuro_comm_2016_ad_2_desc, R.string.twoeuro_comm_2016_ad_2_volume, R.string.twoeuro_comm_2016_ad_2_date);
-        database.add2EuroCoin("au", SpecialEuroCoin.COMMON_TITLE_2CC, 2016, R.drawable.twoeuro_comm_2016_au, R.string.twoeuro_comm_2016_au_title, R.string.twoeuro_comm_2016_au_desc, R.string.twoeuro_comm_2016_au_volume, R.string.twoeuro_comm_2016_au_date);
+        database.add2EuroCoin("at", SpecialEuroCoin.COMMON_TITLE_2CC, 2016, R.drawable.twoeuro_comm_2016_au, R.string.twoeuro_comm_2016_au_title, R.string.twoeuro_comm_2016_au_desc, R.string.twoeuro_comm_2016_au_volume, R.string.twoeuro_comm_2016_au_date);
         database.add2EuroCoin("be", SpecialEuroCoin.COMMON_TITLE_2CC, 2016, R.drawable.twoeuro_comm_2016_be, R.string.twoeuro_comm_2016_be_title, R.string.twoeuro_comm_2016_be_desc, R.string.twoeuro_comm_2016_be_volume, R.string.twoeuro_comm_2016_be_date);
         database.add2EuroCoin("be", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2016, R.drawable.twoeuro_comm_2016_be_2, R.string.twoeuro_comm_2016_be_2_title, R.string.twoeuro_comm_2016_be_2_desc, R.string.twoeuro_comm_2016_be_2_volume, R.string.twoeuro_comm_2016_be_2_date);
         database.add2EuroCoin("de", SpecialEuroCoin.COMMON_TITLE_2CC, 2016, R.drawable.twoeuro_comm_2016_de, R.string.twoeuro_comm_2016_de_title, R.string.twoeuro_comm_2016_de_desc, R.string.twoeuro_comm_2016_de_volume, R.string.twoeuro_comm_2016_de_date);
@@ -191,7 +191,7 @@ public class CoinDatabase {
         database.add2EuroCoin("fr", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2016, R.drawable.twoeuro_comm_2016_fr_2, R.string.twoeuro_comm_2016_fr_2_title, R.string.twoeuro_comm_2016_fr_2_desc, R.string.twoeuro_comm_2016_fr_2_volume, R.string.twoeuro_comm_2016_fr_2_date);
         database.add2EuroCoin("gr", SpecialEuroCoin.COMMON_TITLE_2CC, 2016, R.drawable.twoeuro_comm_2016_gr, R.string.twoeuro_comm_2016_gr_title, R.string.twoeuro_comm_2016_gr_desc, R.string.twoeuro_comm_2016_gr_volume, R.string.twoeuro_comm_2016_gr_date);
         database.add2EuroCoin("gr", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2016, R.drawable.twoeuro_comm_2016_gr_2, R.string.twoeuro_comm_2016_gr_2_title, R.string.twoeuro_comm_2016_gr_2_desc, R.string.twoeuro_comm_2016_gr_2_volume, R.string.twoeuro_comm_2016_gr_2_date);
-        database.add2EuroCoin("ir", SpecialEuroCoin.COMMON_TITLE_2CC, 2016, R.drawable.twoeuro_comm_2016_ir, R.string.twoeuro_comm_2016_ir_title, R.string.twoeuro_comm_2016_ir_desc, R.string.twoeuro_comm_2016_ir_volume, R.string.twoeuro_comm_2016_ir_date);
+        database.add2EuroCoin("ie", SpecialEuroCoin.COMMON_TITLE_2CC, 2016, R.drawable.twoeuro_comm_2016_ir, R.string.twoeuro_comm_2016_ir_title, R.string.twoeuro_comm_2016_ir_desc, R.string.twoeuro_comm_2016_ir_volume, R.string.twoeuro_comm_2016_ir_date);
         database.add2EuroCoin("it", SpecialEuroCoin.COMMON_TITLE_2CC, 2016, R.drawable.twoeuro_comm_2016_it, R.string.twoeuro_comm_2016_it_title, R.string.twoeuro_comm_2016_it_desc, R.string.twoeuro_comm_2016_it_volume, R.string.twoeuro_comm_2016_it_date);
         database.add2EuroCoin("it", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2016, R.drawable.twoeuro_comm_2016_it_2, R.string.twoeuro_comm_2016_it_2_title, R.string.twoeuro_comm_2016_it_2_desc, R.string.twoeuro_comm_2016_it_2_volume, R.string.twoeuro_comm_2016_it_2_date);
         database.add2EuroCoin("lt", SpecialEuroCoin.COMMON_TITLE_2CC, 2016, R.drawable.twoeuro_comm_2016_lt, R.string.twoeuro_comm_2016_lt_title, R.string.twoeuro_comm_2016_lt_desc, R.string.twoeuro_comm_2016_lt_volume, R.string.twoeuro_comm_2016_lt_date);
@@ -201,8 +201,8 @@ public class CoinDatabase {
         database.add2EuroCoin("mc", SpecialEuroCoin.COMMON_TITLE_2CC, 2016, R.drawable.twoeuro_comm_2016_mo, R.string.twoeuro_comm_2016_mc_title, R.string.twoeuro_comm_2016_mc_desc, R.string.twoeuro_comm_2016_mc_volume, R.string.twoeuro_comm_2016_mc_date);
         database.add2EuroCoin("mt", SpecialEuroCoin.COMMON_TITLE_2CC, 2016, R.drawable.twoeuro_comm_2016_mt, R.string.twoeuro_comm_2016_mt_title, R.string.twoeuro_comm_2016_mt_desc, R.string.twoeuro_comm_2016_mt_volume, R.string.twoeuro_comm_2016_mt_date);
         database.add2EuroCoin("mt", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2016, R.drawable.twoeuro_comm_2016_mt_2, R.string.twoeuro_comm_2016_mt_2_title, R.string.twoeuro_comm_2016_mt_2_desc, R.string.twoeuro_comm_2016_mt_2_volume, R.string.twoeuro_comm_2016_mt_2_date);
-        database.add2EuroCoin("po", SpecialEuroCoin.COMMON_TITLE_2CC, 2016, R.drawable.twoeuro_comm_2016_po, R.string.twoeuro_comm_2016_po_title, R.string.twoeuro_comm_2016_po_desc, R.string.twoeuro_comm_2016_po_volume, R.string.twoeuro_comm_2016_po_date);
-        database.add2EuroCoin("po", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2016, R.drawable.twoeuro_comm_2016_po_2, R.string.twoeuro_comm_2016_po_2_title, R.string.twoeuro_comm_2016_po_2_desc, R.string.twoeuro_comm_2016_po_2_volume, R.string.twoeuro_comm_2016_po_2_date);
+        database.add2EuroCoin("pt", SpecialEuroCoin.COMMON_TITLE_2CC, 2016, R.drawable.twoeuro_comm_2016_po, R.string.twoeuro_comm_2016_po_title, R.string.twoeuro_comm_2016_po_desc, R.string.twoeuro_comm_2016_po_volume, R.string.twoeuro_comm_2016_po_date);
+        database.add2EuroCoin("pt", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2016, R.drawable.twoeuro_comm_2016_po_2, R.string.twoeuro_comm_2016_po_2_title, R.string.twoeuro_comm_2016_po_2_desc, R.string.twoeuro_comm_2016_po_2_volume, R.string.twoeuro_comm_2016_po_2_date);
         database.add2EuroCoin("si", SpecialEuroCoin.COMMON_TITLE_2CC, 2016, R.drawable.twoeuro_comm_2016_si, R.string.twoeuro_comm_2016_si_title, R.string.twoeuro_comm_2016_si_desc, R.string.twoeuro_comm_2016_si_volume, R.string.twoeuro_comm_2016_si_date);
         database.add2EuroCoin("sk", SpecialEuroCoin.COMMON_TITLE_2CC, 2016, R.drawable.twoeuro_comm_2016_sk, R.string.twoeuro_comm_2016_sk_title, R.string.twoeuro_comm_2016_sk_desc, R.string.twoeuro_comm_2016_sk_volume, R.string.twoeuro_comm_2016_sk_date);
         database.add2EuroCoin("sm", SpecialEuroCoin.COMMON_TITLE_2CC, 2016, R.drawable.twoeuro_comm_2016_sm, R.string.twoeuro_comm_2016_sm_title, R.string.twoeuro_comm_2016_sm_desc, R.string.twoeuro_comm_2016_sm_volume, R.string.twoeuro_comm_2016_sm_date);
@@ -234,8 +234,8 @@ public class CoinDatabase {
         database.add2EuroCoin("mc", SpecialEuroCoin.COMMON_TITLE_2CC, 2017, R.drawable.twoeuro_comm_2017_mo, R.string.twoeuro_comm_2017_mc_title, R.string.twoeuro_comm_2017_mc_desc, R.string.twoeuro_comm_2017_mc_volume, R.string.twoeuro_comm_2017_mc_date);
         database.add2EuroCoin("mt", SpecialEuroCoin.COMMON_TITLE_2CC, 2017, R.drawable.twoeuro_comm_2017_mt, R.string.twoeuro_comm_2017_mt_title, R.string.twoeuro_comm_2017_mt_desc, R.string.twoeuro_comm_2017_mt_volume, R.string.twoeuro_comm_2017_mt_date);
         database.add2EuroCoin("mt", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2017, R.drawable.twoeuro_comm_2017_mt_2, R.string.twoeuro_comm_2017_mt_2_title, R.string.twoeuro_comm_2017_mt_2_desc, R.string.twoeuro_comm_2017_mt_2_volume, R.string.twoeuro_comm_2017_mt_2_date);
-        database.add2EuroCoin("po", SpecialEuroCoin.COMMON_TITLE_2CC, 2017, R.drawable.twoeuro_comm_2017_po, R.string.twoeuro_comm_2017_po_title, R.string.twoeuro_comm_2017_po_desc, R.string.twoeuro_comm_2017_po_volume, R.string.twoeuro_comm_2017_po_date);
-        database.add2EuroCoin("po", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2017, R.drawable.twoeuro_comm_2017_po_2, R.string.twoeuro_comm_2017_po_2_title, R.string.twoeuro_comm_2017_po_2_desc, R.string.twoeuro_comm_2017_po_2_volume, R.string.twoeuro_comm_2017_po_2_date);
+        database.add2EuroCoin("pt", SpecialEuroCoin.COMMON_TITLE_2CC, 2017, R.drawable.twoeuro_comm_2017_po, R.string.twoeuro_comm_2017_po_title, R.string.twoeuro_comm_2017_po_desc, R.string.twoeuro_comm_2017_po_volume, R.string.twoeuro_comm_2017_po_date);
+        database.add2EuroCoin("pt", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2017, R.drawable.twoeuro_comm_2017_po_2, R.string.twoeuro_comm_2017_po_2_title, R.string.twoeuro_comm_2017_po_2_desc, R.string.twoeuro_comm_2017_po_2_volume, R.string.twoeuro_comm_2017_po_2_date);
         database.add2EuroCoin("sm", SpecialEuroCoin.COMMON_TITLE_2CC, 2017, R.drawable.twoeuro_comm_2017_sm, R.string.twoeuro_comm_2017_sm_title, R.string.twoeuro_comm_2017_sm_desc, R.string.twoeuro_comm_2017_sm_volume, R.string.twoeuro_comm_2017_sm_date);
         database.add2EuroCoin("sm", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2017, R.drawable.twoeuro_comm_2017_sm_2, R.string.twoeuro_comm_2017_sm_2_title, R.string.twoeuro_comm_2017_sm_2_desc, R.string.twoeuro_comm_2017_sm_2_volume, R.string.twoeuro_comm_2017_sm_2_date);
         database.add2EuroCoin("si", SpecialEuroCoin.COMMON_TITLE_2CC, 2017, R.drawable.twoeuro_comm_2017_si, R.string.twoeuro_comm_2017_si_title, R.string.twoeuro_comm_2017_si_desc, R.string.twoeuro_comm_2017_si_volume, R.string.twoeuro_comm_2017_si_date);
@@ -245,7 +245,7 @@ public class CoinDatabase {
 
         database.add2EuroCoin("ad", SpecialEuroCoin.COMMON_TITLE_2CC, 2018, R.drawable.twoeuro_comm_2018_ad, R.string.twoeuro_comm_2018_ad_title, R.string.twoeuro_comm_2018_ad_desc, R.string.twoeuro_comm_2018_ad_volume, R.string.twoeuro_comm_2018_ad_date);
         database.add2EuroCoin("ad", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2018, R.drawable.twoeuro_comm_2018_ad_2, R.string.twoeuro_comm_2018_ad_2_title, R.string.twoeuro_comm_2018_ad_2_desc, R.string.twoeuro_comm_2018_ad_2_volume, R.string.twoeuro_comm_2018_ad_2_date);
-        database.add2EuroCoin("au", SpecialEuroCoin.COMMON_TITLE_2CC, 2018, R.drawable.twoeuro_comm_2018_au, R.string.twoeuro_comm_2018_au_title, R.string.twoeuro_comm_2018_au_desc, R.string.twoeuro_comm_2018_au_volume, R.string.twoeuro_comm_2018_au_date);
+        database.add2EuroCoin("at", SpecialEuroCoin.COMMON_TITLE_2CC, 2018, R.drawable.twoeuro_comm_2018_au, R.string.twoeuro_comm_2018_au_title, R.string.twoeuro_comm_2018_au_desc, R.string.twoeuro_comm_2018_au_volume, R.string.twoeuro_comm_2018_au_date);
         database.add2EuroCoin("be", SpecialEuroCoin.COMMON_TITLE_2CC, 2018, R.drawable.twoeuro_comm_2018_be, R.string.twoeuro_comm_2018_be_title, R.string.twoeuro_comm_2018_be_desc, R.string.twoeuro_comm_2018_be_volume, R.string.twoeuro_comm_2018_be_date);
         database.add2EuroCoin("be", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2018, R.drawable.twoeuro_comm_2018_be_2, R.string.twoeuro_comm_2018_be_2_title, R.string.twoeuro_comm_2018_be_2_desc, R.string.twoeuro_comm_2018_be_2_volume, R.string.twoeuro_comm_2018_be_2_date);
         database.add2EuroCoin("de", SpecialEuroCoin.COMMON_TITLE_2CC, 2018, R.drawable.twoeuro_comm_2018_de, R.string.twoeuro_comm_2018_de_title, R.string.twoeuro_comm_2018_de_desc, R.string.twoeuro_comm_2018_de_volume, R.string.twoeuro_comm_2018_de_date);
@@ -271,8 +271,8 @@ public class CoinDatabase {
         database.add2EuroCoin("mc", SpecialEuroCoin.COMMON_TITLE_2CC, 2018, R.drawable.twoeuro_comm_2018_mc, R.string.twoeuro_comm_2018_mc_title, R.string.twoeuro_comm_2018_mc_desc, R.string.twoeuro_comm_2018_mc_volume, R.string.twoeuro_comm_2018_mc_date);
         database.add2EuroCoin("mt", SpecialEuroCoin.COMMON_TITLE_2CC, 2018, R.drawable.twoeuro_comm_2018_mt, R.string.twoeuro_comm_2018_mt_title, R.string.twoeuro_comm_2018_mt_desc, R.string.twoeuro_comm_2018_mt_volume, R.string.twoeuro_comm_2018_mt_date);
         database.add2EuroCoin("mt", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2018, R.drawable.twoeuro_comm_2018_mt_2, R.string.twoeuro_comm_2018_mt_2_title, R.string.twoeuro_comm_2018_mt_2_desc, R.string.twoeuro_comm_2018_mt_2_volume, R.string.twoeuro_comm_2018_mt_2_date);
-        database.add2EuroCoin("po", SpecialEuroCoin.COMMON_TITLE_2CC, 2018, R.drawable.twoeuro_comm_2018_po, R.string.twoeuro_comm_2018_po_title, R.string.twoeuro_comm_2018_po_desc, R.string.twoeuro_comm_2018_po_volume, R.string.twoeuro_comm_2018_po_date);
-        database.add2EuroCoin("po", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2018, R.drawable.twoeuro_comm_2018_po_2, R.string.twoeuro_comm_2018_po_2_title, R.string.twoeuro_comm_2018_po_2_desc, R.string.twoeuro_comm_2018_po_2_volume, R.string.twoeuro_comm_2018_po_2_date);
+        database.add2EuroCoin("pt", SpecialEuroCoin.COMMON_TITLE_2CC, 2018, R.drawable.twoeuro_comm_2018_po, R.string.twoeuro_comm_2018_po_title, R.string.twoeuro_comm_2018_po_desc, R.string.twoeuro_comm_2018_po_volume, R.string.twoeuro_comm_2018_po_date);
+        database.add2EuroCoin("pt", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2018, R.drawable.twoeuro_comm_2018_po_2, R.string.twoeuro_comm_2018_po_2_title, R.string.twoeuro_comm_2018_po_2_desc, R.string.twoeuro_comm_2018_po_2_volume, R.string.twoeuro_comm_2018_po_2_date);
         database.add2EuroCoin("si", SpecialEuroCoin.COMMON_TITLE_2CC, 2018, R.drawable.twoeuro_comm_2018_si, R.string.twoeuro_comm_2018_si_title, R.string.twoeuro_comm_2018_si_desc, R.string.twoeuro_comm_2018_si_volume, R.string.twoeuro_comm_2018_si_date);
         database.add2EuroCoin("sk", SpecialEuroCoin.COMMON_TITLE_2CC, 2018, R.drawable.twoeuro_comm_2018_sk, R.string.twoeuro_comm_2018_sk_title, R.string.twoeuro_comm_2018_sk_desc, R.string.twoeuro_comm_2018_sk_volume, R.string.twoeuro_comm_2018_sk_date);
         database.add2EuroCoin("sm", SpecialEuroCoin.COMMON_TITLE_2CC, 2018, R.drawable.twoeuro_comm_2018_sm, R.string.twoeuro_comm_2018_sm_title, R.string.twoeuro_comm_2018_sm_desc, R.string.twoeuro_comm_2018_sm_volume, R.string.twoeuro_comm_2018_sm_date);
@@ -294,7 +294,7 @@ public class CoinDatabase {
         database.add2EuroCoin("fr", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2019, R.drawable.twoeuro_comm_2019_fr_2, R.string.twoeuro_comm_2019_fr_2_title, R.string.twoeuro_comm_2019_fr_2_desc, R.string.twoeuro_comm_2019_fr_2_volume, R.string.twoeuro_comm_2019_fr_2_date);
         database.add2EuroCoin("gr", SpecialEuroCoin.COMMON_TITLE_2CC, 2019, R.drawable.twoeuro_comm_2019_gr, R.string.twoeuro_comm_2019_gr_title, R.string.twoeuro_comm_2019_gr_desc, R.string.twoeuro_comm_2019_gr_volume, R.string.twoeuro_comm_2019_gr_date);
         database.add2EuroCoin("gr", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2019, R.drawable.twoeuro_comm_2019_gr_2, R.string.twoeuro_comm_2019_gr_2_title, R.string.twoeuro_comm_2019_gr_2_desc, R.string.twoeuro_comm_2019_gr_2_volume, R.string.twoeuro_comm_2019_gr_2_date);
-        database.add2EuroCoin("ir", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2019, R.drawable.twoeuro_comm_2019_ir, R.string.twoeuro_comm_2019_ir_title, R.string.twoeuro_comm_2019_ir_desc, R.string.twoeuro_comm_2019_ir_volume, R.string.twoeuro_comm_2019_ir_date);
+        database.add2EuroCoin("ie", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2019, R.drawable.twoeuro_comm_2019_ir, R.string.twoeuro_comm_2019_ir_title, R.string.twoeuro_comm_2019_ir_desc, R.string.twoeuro_comm_2019_ir_volume, R.string.twoeuro_comm_2019_ir_date);
         database.add2EuroCoin("it", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2019, R.drawable.twoeuro_comm_2019_it, R.string.twoeuro_comm_2019_it_title, R.string.twoeuro_comm_2019_it_desc, R.string.twoeuro_comm_2019_it_volume, R.string.twoeuro_comm_2019_it_date);
         database.add2EuroCoin("lt", SpecialEuroCoin.COMMON_TITLE_2CC, 2019, R.drawable.twoeuro_comm_2019_lt, R.string.twoeuro_comm_2019_lt_title, R.string.twoeuro_comm_2019_lt_desc, R.string.twoeuro_comm_2019_lt_volume, R.string.twoeuro_comm_2019_lt_date);
         database.add2EuroCoin("lt", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2019, R.drawable.twoeuro_comm_2019_lt_2, R.string.twoeuro_comm_2019_lt_2_title, R.string.twoeuro_comm_2019_lt_2_desc, R.string.twoeuro_comm_2019_lt_2_volume, R.string.twoeuro_comm_2019_lt_2_date);
@@ -304,8 +304,8 @@ public class CoinDatabase {
         database.add2EuroCoin("mc", SpecialEuroCoin.COMMON_TITLE_2CC, 2019, R.drawable.twoeuro_comm_2019_mc, R.string.twoeuro_comm_2019_mc_title, R.string.twoeuro_comm_2019_mc_desc, R.string.twoeuro_comm_2019_mc_volume, R.string.twoeuro_comm_2019_mc_date);
         database.add2EuroCoin("mt", SpecialEuroCoin.COMMON_TITLE_2CC, 2019, R.drawable.twoeuro_comm_2019_mt, R.string.twoeuro_comm_2019_mt_title, R.string.twoeuro_comm_2019_mt_desc, R.string.twoeuro_comm_2019_mt_volume, R.string.twoeuro_comm_2019_mt_date);
         database.add2EuroCoin("mt", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2019, R.drawable.twoeuro_comm_2019_mt_2, R.string.twoeuro_comm_2019_mt_2_title, R.string.twoeuro_comm_2019_mt_2_desc, R.string.twoeuro_comm_2019_mt_2_volume, R.string.twoeuro_comm_2019_mt_2_date);
-        database.add2EuroCoin("po", SpecialEuroCoin.COMMON_TITLE_2CC, 2019, R.drawable.twoeuro_comm_2019_po, R.string.twoeuro_comm_2019_po_title, R.string.twoeuro_comm_2019_po_desc, R.string.twoeuro_comm_2019_po_volume, R.string.twoeuro_comm_2019_po_date);
-        database.add2EuroCoin("po", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2019, R.drawable.twoeuro_comm_2019_po2, R.string.twoeuro_comm_2019_po_2_title, R.string.twoeuro_comm_2019_po_2_desc, R.string.twoeuro_comm_2019_po_2_volume, R.string.twoeuro_comm_2019_po_2_date);
+        database.add2EuroCoin("pt", SpecialEuroCoin.COMMON_TITLE_2CC, 2019, R.drawable.twoeuro_comm_2019_po, R.string.twoeuro_comm_2019_po_title, R.string.twoeuro_comm_2019_po_desc, R.string.twoeuro_comm_2019_po_volume, R.string.twoeuro_comm_2019_po_date);
+        database.add2EuroCoin("pt", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2019, R.drawable.twoeuro_comm_2019_po2, R.string.twoeuro_comm_2019_po_2_title, R.string.twoeuro_comm_2019_po_2_desc, R.string.twoeuro_comm_2019_po_2_volume, R.string.twoeuro_comm_2019_po_2_date);
         database.add2EuroCoin("si", SpecialEuroCoin.COMMON_TITLE_2CC, 2019, R.drawable.twoeuro_comm_2019_si, R.string.twoeuro_comm_2019_si_title, R.string.twoeuro_comm_2019_si_desc, R.string.twoeuro_comm_2019_si_volume, R.string.twoeuro_comm_2019_si_date);
         database.add2EuroCoin("sk", SpecialEuroCoin.COMMON_TITLE_2CC, 2019, R.drawable.twoeuro_comm_2019_sk, R.string.twoeuro_comm_2019_sk_title, R.string.twoeuro_comm_2019_sk_desc, R.string.twoeuro_comm_2019_sk_volume, R.string.twoeuro_comm_2019_sk_date);
         database.add2EuroCoin("sm", SpecialEuroCoin.COMMON_TITLE_2CC, 2019, R.drawable.twoeuro_comm_2019_sm, R.string.twoeuro_comm_2019_sm_title, R.string.twoeuro_comm_2019_sm_desc, R.string.twoeuro_comm_2019_sm_volume, R.string.twoeuro_comm_2019_sm_date);
@@ -340,8 +340,8 @@ public class CoinDatabase {
         database.add2EuroCoin("mc", SpecialEuroCoin.COMMON_TITLE_2CC, 2020, R.drawable.twoeuro_comm_2020_mc, R.string.twoeuro_comm_2020_mc_title, R.string.twoeuro_comm_2020_mc_desc, R.string.twoeuro_comm_2020_mc_volume, R.string.twoeuro_comm_2020_mc_date);
         database.add2EuroCoin("mt", SpecialEuroCoin.COMMON_TITLE_2CC, 2020, R.drawable.twoeuro_comm_2020_mt, R.string.twoeuro_comm_2020_mt_title, R.string.twoeuro_comm_2020_mt_desc, R.string.twoeuro_comm_2020_mt_volume, R.string.twoeuro_comm_2020_mt_date);
         database.add2EuroCoin("mt", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2020, R.drawable.twoeuro_comm_2020_mt_2, R.string.twoeuro_comm_2020_mt_2_title, R.string.twoeuro_comm_2020_mt_2_desc, R.string.twoeuro_comm_2020_mt_2_volume, R.string.twoeuro_comm_2020_mt_2_date);
-        database.add2EuroCoin("po", SpecialEuroCoin.COMMON_TITLE_2CC, 2020, R.drawable.twoeuro_comm_2020_po, R.string.twoeuro_comm_2020_po_title, R.string.twoeuro_comm_2020_po_desc, R.string.twoeuro_comm_2020_po_volume, R.string.twoeuro_comm_2020_po_date);
-        database.add2EuroCoin("po", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2020, R.drawable.twoeuro_comm_2020_po_2, R.string.twoeuro_comm_2020_po_2_title, R.string.twoeuro_comm_2020_po_2_desc, R.string.twoeuro_comm_2020_po_2_volume, R.string.twoeuro_comm_2020_po_2_date);
+        database.add2EuroCoin("pt", SpecialEuroCoin.COMMON_TITLE_2CC, 2020, R.drawable.twoeuro_comm_2020_po, R.string.twoeuro_comm_2020_po_title, R.string.twoeuro_comm_2020_po_desc, R.string.twoeuro_comm_2020_po_volume, R.string.twoeuro_comm_2020_po_date);
+        database.add2EuroCoin("pt", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2020, R.drawable.twoeuro_comm_2020_po_2, R.string.twoeuro_comm_2020_po_2_title, R.string.twoeuro_comm_2020_po_2_desc, R.string.twoeuro_comm_2020_po_2_volume, R.string.twoeuro_comm_2020_po_2_date);
         database.add2EuroCoin("si", SpecialEuroCoin.COMMON_TITLE_2CC, 2020, R.drawable.twoeuro_comm_2020_si, R.string.twoeuro_comm_2020_si_title, R.string.twoeuro_comm_2020_si_desc, R.string.twoeuro_comm_2020_si_volume, R.string.twoeuro_comm_2020_si_date);
         database.add2EuroCoin("sk", SpecialEuroCoin.COMMON_TITLE_2CC, 2020, R.drawable.twoeuro_comm_2020_sk, R.string.twoeuro_comm_2020_sk_title, R.string.twoeuro_comm_2020_sk_desc, R.string.twoeuro_comm_2020_sk_volume, R.string.twoeuro_comm_2020_sk_date);
         database.add2EuroCoin("sm", SpecialEuroCoin.COMMON_TITLE_2CC, 2020, R.drawable.twoeuro_comm_2020_sm, R.string.twoeuro_comm_2020_sm_title, R.string.twoeuro_comm_2020_sm_desc, R.string.twoeuro_comm_2020_sm_volume, R.string.twoeuro_comm_2020_sm_date);
@@ -374,8 +374,8 @@ public class CoinDatabase {
         database.add2EuroCoin("mc", SpecialEuroCoin.COMMON_TITLE_2CC, 2021, R.drawable.twoeuro_comm_2021_mc, R.string.twoeuro_comm_2021_mc_title, R.string.twoeuro_comm_2021_mc_desc, R.string.twoeuro_comm_2021_mc_volume, R.string.twoeuro_comm_2021_mc_date);
         database.add2EuroCoin("mt", SpecialEuroCoin.COMMON_TITLE_2CC, 2021, R.drawable.twoeuro_comm_2021_mt, R.string.twoeuro_comm_2021_mt_title, R.string.twoeuro_comm_2021_mt_desc, R.string.twoeuro_comm_2021_mt_volume, R.string.twoeuro_comm_2021_mt_date);
         database.add2EuroCoin("mt", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2021, R.drawable.twoeuro_comm_2021_mt_2, R.string.twoeuro_comm_2021_mt_2_title, R.string.twoeuro_comm_2021_mt_2_desc, R.string.twoeuro_comm_2021_mt_2_volume, R.string.twoeuro_comm_2021_mt_2_date);
-        database.add2EuroCoin("po", SpecialEuroCoin.COMMON_TITLE_2CC, 2021, R.drawable.twoeuro_comm_2021_po, R.string.twoeuro_comm_2021_po_title, R.string.twoeuro_comm_2021_po_desc, R.string.twoeuro_comm_2021_po_volume, R.string.twoeuro_comm_2021_po_date);
-        database.add2EuroCoin("po", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2021, R.drawable.twoeuro_comm_2021_po_2, R.string.twoeuro_comm_2021_po_2_title, R.string.twoeuro_comm_2021_po_2_desc, R.string.twoeuro_comm_2021_po_2_volume, R.string.twoeuro_comm_2021_po_2_date);
+        database.add2EuroCoin("pt", SpecialEuroCoin.COMMON_TITLE_2CC, 2021, R.drawable.twoeuro_comm_2021_po, R.string.twoeuro_comm_2021_po_title, R.string.twoeuro_comm_2021_po_desc, R.string.twoeuro_comm_2021_po_volume, R.string.twoeuro_comm_2021_po_date);
+        database.add2EuroCoin("pt", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2021, R.drawable.twoeuro_comm_2021_po_2, R.string.twoeuro_comm_2021_po_2_title, R.string.twoeuro_comm_2021_po_2_desc, R.string.twoeuro_comm_2021_po_2_volume, R.string.twoeuro_comm_2021_po_2_date);
         database.add2EuroCoin("si", SpecialEuroCoin.COMMON_TITLE_2CC, 2021, R.drawable.twoeuro_comm_2021_si, R.string.twoeuro_comm_2021_si_title, R.string.twoeuro_comm_2021_si_desc, R.string.twoeuro_comm_2021_si_volume, R.string.twoeuro_comm_2021_si_date);
         database.add2EuroCoin("sk", SpecialEuroCoin.COMMON_TITLE_2CC, 2021, R.drawable.twoeuro_comm_2021_sk, R.string.twoeuro_comm_2021_sk_title, R.string.twoeuro_comm_2021_sk_desc, R.string.twoeuro_comm_2021_sk_volume, R.string.twoeuro_comm_2021_sk_date);
         database.add2EuroCoin("sm", SpecialEuroCoin.COMMON_TITLE_2CC, 2021, R.drawable.twoeuro_comm_2021_sm, R.string.twoeuro_comm_2021_sm_title, R.string.twoeuro_comm_2021_sm_desc, R.string.twoeuro_comm_2021_sm_volume, R.string.twoeuro_comm_2021_sm_date);
@@ -406,7 +406,7 @@ public class CoinDatabase {
         database.add2EuroCoin("mc", SpecialEuroCoin.COMMON_TITLE_2CC, 2022, R.drawable.twoeuro_comm_2022_mc, R.string.twoeuro_comm_2022_mc_title, R.string.twoeuro_comm_2022_mc_desc, R.string.twoeuro_comm_2022_mc_volume, R.string.twoeuro_comm_2022_mc_date);
         database.add2EuroCoin("mt", SpecialEuroCoin.COMMON_TITLE_2CC, 2022, R.drawable.twoeuro_comm_2022_mt, R.string.twoeuro_comm_2022_mt_title, R.string.twoeuro_comm_2022_mt_desc, R.string.twoeuro_comm_2022_mt_volume, R.string.twoeuro_comm_2022_mt_date);
         database.add2EuroCoin("mt", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2022, R.drawable.twoeuro_comm_2022_mt_2, R.string.twoeuro_comm_2022_mt_2_title, R.string.twoeuro_comm_2022_mt_2_desc, R.string.twoeuro_comm_2022_mt_2_volume, R.string.twoeuro_comm_2022_mt_2_date);
-        database.add2EuroCoin("po", SpecialEuroCoin.COMMON_TITLE_2CC, 2022, R.drawable.twoeuro_comm_2022_po, R.string.twoeuro_comm_2022_po_title, R.string.twoeuro_comm_2022_po_desc, R.string.twoeuro_comm_2022_po_volume, R.string.twoeuro_comm_2022_po_date);
+        database.add2EuroCoin("pt", SpecialEuroCoin.COMMON_TITLE_2CC, 2022, R.drawable.twoeuro_comm_2022_po, R.string.twoeuro_comm_2022_po_title, R.string.twoeuro_comm_2022_po_desc, R.string.twoeuro_comm_2022_po_volume, R.string.twoeuro_comm_2022_po_date);
         database.add2EuroCoin("si", SpecialEuroCoin.COMMON_TITLE_2CC, 2022, R.drawable.twoeuro_comm_2022_si, R.string.twoeuro_comm_2022_si_title, R.string.twoeuro_comm_2022_si_desc, R.string.twoeuro_comm_2022_si_volume, R.string.twoeuro_comm_2022_si_date);
         database.add2EuroCoin("sk", SpecialEuroCoin.COMMON_TITLE_2CC, 2022, R.drawable.twoeuro_comm_2022_sk, R.string.twoeuro_comm_2022_sk_title, R.string.twoeuro_comm_2022_sk_desc, R.string.twoeuro_comm_2022_sk_volume, R.string.twoeuro_comm_2022_sk_date);
         database.add2EuroCoin("sm", SpecialEuroCoin.COMMON_TITLE_2CC, 2022, R.drawable.twoeuro_comm_2022_sm, R.string.twoeuro_comm_2022_sm_title, R.string.twoeuro_comm_2022_sm_desc, R.string.twoeuro_comm_2022_sm_volume, R.string.twoeuro_comm_2022_sm_date);
@@ -431,7 +431,7 @@ public class CoinDatabase {
         database.add2EuroCoin("gr", SpecialEuroCoin.COMMON_TITLE_2CC, 2023, R.drawable.twoeuro_comm_2023_gr, R.string.twoeuro_comm_2023_gr_title, R.string.twoeuro_comm_2023_gr_desc, R.string.twoeuro_comm_2023_gr_volume, R.string.twoeuro_comm_2023_gr_date);
         database.add2EuroCoin("gr", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2023, R.drawable.twoeuro_comm_2023_gr_2, R.string.twoeuro_comm_2023_gr_2_title, R.string.twoeuro_comm_2023_gr_2_desc, R.string.twoeuro_comm_2023_gr_2_volume, R.string.twoeuro_comm_2023_gr_2_date);
         database.add2EuroCoin("hr", SpecialEuroCoin.COMMON_TITLE_2CC, 2023, R.drawable.twoeuro_comm_2023_hr, R.string.twoeuro_comm_2023_hr_title, R.string.twoeuro_comm_2023_hr_desc, R.string.twoeuro_comm_2023_hr_volume, R.string.twoeuro_comm_2023_hr_date);
-        database.add2EuroCoin("ir", SpecialEuroCoin.COMMON_TITLE_2CC, 2023, R.drawable.twoeuro_comm_2023_ir, R.string.twoeuro_comm_2023_ir_title, R.string.twoeuro_comm_2023_ir_desc, R.string.twoeuro_comm_2023_ir_volume, R.string.twoeuro_comm_2023_ir_date);
+        database.add2EuroCoin("ie", SpecialEuroCoin.COMMON_TITLE_2CC, 2023, R.drawable.twoeuro_comm_2023_ir, R.string.twoeuro_comm_2023_ir_title, R.string.twoeuro_comm_2023_ir_desc, R.string.twoeuro_comm_2023_ir_volume, R.string.twoeuro_comm_2023_ir_date);
         database.add2EuroCoin("it", SpecialEuroCoin.COMMON_TITLE_2CC, 2023, R.drawable.twoeuro_comm_2023_it, R.string.twoeuro_comm_2023_it_title, R.string.twoeuro_comm_2023_it_desc, R.string.twoeuro_comm_2023_it_volume, R.string.twoeuro_comm_2023_it_date);
         database.add2EuroCoin("it", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2023, R.drawable.twoeuro_comm_2023_it_2, R.string.twoeuro_comm_2023_it_2_title, R.string.twoeuro_comm_2023_it_2_desc, R.string.twoeuro_comm_2023_it_2_volume, R.string.twoeuro_comm_2023_it_2_date);
         database.add2EuroCoin("lv", SpecialEuroCoin.COMMON_TITLE_2CC, 2023, R.drawable.twoeuro_comm_2023_lv, R.string.twoeuro_comm_2023_lv_title, R.string.twoeuro_comm_2023_lv_desc, R.string.twoeuro_comm_2023_lv_volume, R.string.twoeuro_comm_2023_lv_date);
@@ -441,8 +441,8 @@ public class CoinDatabase {
         database.add2EuroCoin("mc", SpecialEuroCoin.COMMON_TITLE_2CC, 2023, R.drawable.twoeuro_comm_2023_mc, R.string.twoeuro_comm_2023_mc_title, R.string.twoeuro_comm_2023_mc_desc, R.string.twoeuro_comm_2023_mc_volume, R.string.twoeuro_comm_2023_mc_date);
         database.add2EuroCoin("mt", SpecialEuroCoin.COMMON_TITLE_2CC, 2023, R.drawable.twoeuro_comm_2023_mt, R.string.twoeuro_comm_2023_mt_title, R.string.twoeuro_comm_2023_mt_desc, R.string.twoeuro_comm_2023_mt_volume, R.string.twoeuro_comm_2023_mt_date);
         database.add2EuroCoin("mt", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2023, R.drawable.twoeuro_comm_2023_mt_2, R.string.twoeuro_comm_2023_mt_2_title, R.string.twoeuro_comm_2023_mt_2_desc, R.string.twoeuro_comm_2023_mt_2_volume, R.string.twoeuro_comm_2023_mt_2_date);
-        database.add2EuroCoin("po", SpecialEuroCoin.COMMON_TITLE_2CC, 2023, R.drawable.twoeuro_comm_2023_po, R.string.twoeuro_comm_2023_po_title, R.string.twoeuro_comm_2023_po_desc, R.string.twoeuro_comm_2023_po_volume, R.string.twoeuro_comm_2023_po_date);
-        database.add2EuroCoin("po", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2023, R.drawable.twoeuro_comm_2023_po_2, R.string.twoeuro_comm_2023_po_2_title, R.string.twoeuro_comm_2023_po_2_desc, R.string.twoeuro_comm_2023_po_2_volume, R.string.twoeuro_comm_2023_po_2_date);
+        database.add2EuroCoin("pt", SpecialEuroCoin.COMMON_TITLE_2CC, 2023, R.drawable.twoeuro_comm_2023_po, R.string.twoeuro_comm_2023_po_title, R.string.twoeuro_comm_2023_po_desc, R.string.twoeuro_comm_2023_po_volume, R.string.twoeuro_comm_2023_po_date);
+        database.add2EuroCoin("pt", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2023, R.drawable.twoeuro_comm_2023_po_2, R.string.twoeuro_comm_2023_po_2_title, R.string.twoeuro_comm_2023_po_2_desc, R.string.twoeuro_comm_2023_po_2_volume, R.string.twoeuro_comm_2023_po_2_date);
         database.add2EuroCoin("si", SpecialEuroCoin.COMMON_TITLE_2CC, 2023, R.drawable.twoeuro_comm_2023_si, R.string.twoeuro_comm_2023_si_title, R.string.twoeuro_comm_2023_si_desc, R.string.twoeuro_comm_2023_si_volume, R.string.twoeuro_comm_2023_si_date);
         database.add2EuroCoin("sk", SpecialEuroCoin.COMMON_TITLE_2CC, 2023, R.drawable.twoeuro_comm_2023_sk, R.string.twoeuro_comm_2023_sk_title, R.string.twoeuro_comm_2023_sk_desc, R.string.twoeuro_comm_2023_sk_volume, R.string.twoeuro_comm_2023_sk_date);
         database.add2EuroCoin("sk", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2023, R.drawable.twoeuro_comm_2023_sk_2, R.string.twoeuro_comm_2023_sk_2_title, R.string.twoeuro_comm_2023_sk_2_desc, R.string.twoeuro_comm_2023_sk_2_volume, R.string.twoeuro_comm_2023_sk_2_date);
@@ -478,8 +478,8 @@ public class CoinDatabase {
         database.add2EuroCoin("mc", SpecialEuroCoin.COMMON_TITLE_2CC, 2024, R.drawable.twoeuro_comm_2024_mc, R.string.twoeuro_comm_2024_mc_title, R.string.twoeuro_comm_2024_mc_desc, R.string.twoeuro_comm_2024_mc_volume, R.string.twoeuro_comm_2024_mc_date);
         database.add2EuroCoin("mt", SpecialEuroCoin.COMMON_TITLE_2CC, 2024, R.drawable.twoeuro_comm_2024_mt, R.string.twoeuro_comm_2024_mt_title, R.string.twoeuro_comm_2024_mt_desc, R.string.twoeuro_comm_2024_mt_volume, R.string.twoeuro_comm_2024_mt_date);
         database.add2EuroCoin("mt", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2024, R.drawable.twoeuro_comm_2024_mt_2, R.string.twoeuro_comm_2024_mt_2_title, R.string.twoeuro_comm_2024_mt_2_desc, R.string.twoeuro_comm_2024_mt_2_volume, R.string.twoeuro_comm_2024_mt_2_date);
-        database.add2EuroCoin("po", SpecialEuroCoin.COMMON_TITLE_2CC, 2024, R.drawable.twoeuro_comm_2024_po, R.string.twoeuro_comm_2024_po_title, R.string.twoeuro_comm_2024_po_desc, R.string.twoeuro_comm_2024_po_volume, R.string.twoeuro_comm_2024_po_date);
-        database.add2EuroCoin("po", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2024, R.drawable.twoeuro_comm_2024_po_2, R.string.twoeuro_comm_2024_po_2_title, R.string.twoeuro_comm_2024_po_2_desc, R.string.twoeuro_comm_2024_po_2_volume, R.string.twoeuro_comm_2024_po_2_date);
+        database.add2EuroCoin("pt", SpecialEuroCoin.COMMON_TITLE_2CC, 2024, R.drawable.twoeuro_comm_2024_po, R.string.twoeuro_comm_2024_po_title, R.string.twoeuro_comm_2024_po_desc, R.string.twoeuro_comm_2024_po_volume, R.string.twoeuro_comm_2024_po_date);
+        database.add2EuroCoin("pt", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2024, R.drawable.twoeuro_comm_2024_po_2, R.string.twoeuro_comm_2024_po_2_title, R.string.twoeuro_comm_2024_po_2_desc, R.string.twoeuro_comm_2024_po_2_volume, R.string.twoeuro_comm_2024_po_2_date);
         database.add2EuroCoin("si", SpecialEuroCoin.COMMON_TITLE_2CC, 2024, R.drawable.twoeuro_comm_2024_si, R.string.twoeuro_comm_2024_si_title, R.string.twoeuro_comm_2024_si_desc, R.string.twoeuro_comm_2024_si_volume, R.string.twoeuro_comm_2024_si_date);
         database.add2EuroCoin("sk", SpecialEuroCoin.COMMON_TITLE_2CC, 2024, R.drawable.twoeuro_comm_2024_sk, R.string.twoeuro_comm_2024_sk_title, R.string.twoeuro_comm_2024_sk_desc, R.string.twoeuro_comm_2024_sk_volume, R.string.twoeuro_comm_2024_sk_date);
         database.add2EuroCoin("sm", SpecialEuroCoin.COMMON_TITLE_2CC, 2024, R.drawable.twoeuro_comm_2024_sm, R.string.twoeuro_comm_2024_sm_title, R.string.twoeuro_comm_2024_sm_desc, R.string.twoeuro_comm_2024_sm_volume, R.string.twoeuro_comm_2024_sm_date);
@@ -514,8 +514,8 @@ public class CoinDatabase {
         database.add2EuroCoin("mc", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2025, R.drawable.twoeuro_comm_2025_mc_2, R.string.twoeuro_comm_2025_mc_2_title, R.string.twoeuro_comm_2025_mc_2_desc, R.string.twoeuro_comm_2025_mc_2_volume, R.string.twoeuro_comm_2025_mc_2_date);
         database.add2EuroCoin("mt", SpecialEuroCoin.COMMON_TITLE_2CC, 2025, R.drawable.twoeuro_comm_2025_mt, R.string.twoeuro_comm_2025_mt_title, R.string.twoeuro_comm_2025_mt_desc, R.string.twoeuro_comm_2025_mt_volume, R.string.twoeuro_comm_2025_mt_date);
         database.add2EuroCoin("mt", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2025, R.drawable.twoeuro_comm_2025_mt_2, R.string.twoeuro_comm_2025_mt_2_title, R.string.twoeuro_comm_2025_mt_2_desc, R.string.twoeuro_comm_2025_mt_2_volume, R.string.twoeuro_comm_2025_mt_2_date);
-        database.add2EuroCoin("po", SpecialEuroCoin.COMMON_TITLE_2CC, 2025, R.drawable.twoeuro_comm_2025_po, R.string.twoeuro_comm_2025_po_title, R.string.twoeuro_comm_2025_po_desc, R.string.twoeuro_comm_2025_po_volume, R.string.twoeuro_comm_2025_po_date);
-        database.add2EuroCoin("po", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2025, R.drawable.twoeuro_comm_2025_po_2, R.string.twoeuro_comm_2025_po_2_title, R.string.twoeuro_comm_2025_po_2_desc, R.string.twoeuro_comm_2025_po_2_volume, R.string.twoeuro_comm_2025_po_2_date);
+        database.add2EuroCoin("pt", SpecialEuroCoin.COMMON_TITLE_2CC, 2025, R.drawable.twoeuro_comm_2025_po, R.string.twoeuro_comm_2025_po_title, R.string.twoeuro_comm_2025_po_desc, R.string.twoeuro_comm_2025_po_volume, R.string.twoeuro_comm_2025_po_date);
+        database.add2EuroCoin("pt", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2025, R.drawable.twoeuro_comm_2025_po_2, R.string.twoeuro_comm_2025_po_2_title, R.string.twoeuro_comm_2025_po_2_desc, R.string.twoeuro_comm_2025_po_2_volume, R.string.twoeuro_comm_2025_po_2_date);
         database.add2EuroCoin("si", SpecialEuroCoin.COMMON_TITLE_2CC, 2025, R.drawable.twoeuro_comm_2025_si, R.string.twoeuro_comm_2025_si_title, R.string.twoeuro_comm_2025_si_desc, R.string.twoeuro_comm_2025_si_volume, R.string.twoeuro_comm_2025_si_date);
         database.add2EuroCoin("sk", SpecialEuroCoin.COMMON_TITLE_2CC, 2025, R.drawable.twoeuro_comm_2025_sk, R.string.twoeuro_comm_2025_sk_title, R.string.twoeuro_comm_2025_sk_desc, R.string.twoeuro_comm_2025_sk_volume, R.string.twoeuro_comm_2025_sk_date);
         database.add2EuroCoin("sm", SpecialEuroCoin.COMMON_TITLE_2CC, 2025, R.drawable.twoeuro_comm_2025_sm, R.string.twoeuro_comm_2025_sm_title, R.string.twoeuro_comm_2025_sm_desc, R.string.twoeuro_comm_2025_sm_volume, R.string.twoeuro_comm_2025_sm_date);
@@ -526,6 +526,12 @@ public class CoinDatabase {
 
         database.add2EuroCoin("de", SpecialEuroCoin.COMMON_TITLE_2CC, 2026, R.drawable.twoeuro_comm_2026_de, R.string.twoeuro_comm_2026_de_title, R.string.twoeuro_comm_2026_de_desc, R.string.twoeuro_comm_2026_de_volume, R.string.twoeuro_comm_2026_de_date);
         database.add2EuroCoin("de", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2026, R.drawable.twoeuro_comm_2026_de_2, R.string.twoeuro_comm_2026_de_2_title, R.string.twoeuro_comm_2026_de_2_desc, R.string.twoeuro_comm_2026_de_2_volume, R.string.twoeuro_comm_2026_de_2_date);
+        database.add2EuroCoin("it", SpecialEuroCoin.COMMON_TITLE_2CC, 2026, R.drawable.twoeuro_comm_2026_it, R.string.twoeuro_comm_2026_it_title, R.string.twoeuro_comm_2026_it_desc, R.string.twoeuro_comm_2026_it_volume, R.string.twoeuro_comm_2026_it_date);
+        database.add2EuroCoin("lt", SpecialEuroCoin.COMMON_TITLE_2CC, 2026, R.drawable.twoeuro_comm_2026_lt, R.string.twoeuro_comm_2026_lt_title, R.string.twoeuro_comm_2026_lt_desc, R.string.twoeuro_comm_2026_lt_volume, R.string.twoeuro_comm_2026_lt_date);
+        database.add2EuroCoin("mt", SpecialEuroCoin.COMMON_TITLE_2CC, 2026, R.drawable.twoeuro_comm_2026_mt, R.string.twoeuro_comm_2026_mt_title, R.string.twoeuro_comm_2026_mt_desc, R.string.twoeuro_comm_2026_mt_volume, R.string.twoeuro_comm_2026_mt_date);
+        database.add2EuroCoin("mt", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2026, R.drawable.twoeuro_comm_2026_mt_2, R.string.twoeuro_comm_2026_mt_2_title, R.string.twoeuro_comm_2026_mt_2_desc, R.string.twoeuro_comm_2026_mt_2_volume, R.string.twoeuro_comm_2026_mt_2_date);
+        database.add2EuroCoin("pt", SpecialEuroCoin.COMMON_TITLE_2CC, 2026, R.drawable.twoeuro_comm_2026_po, R.string.twoeuro_comm_2026_po_title, R.string.twoeuro_comm_2026_po_desc, R.string.twoeuro_comm_2026_po_volume, R.string.twoeuro_comm_2026_po_date);
+        database.add2EuroCoin("pt", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2026, R.drawable.twoeuro_comm_2026_po_2, R.string.twoeuro_comm_2026_po_2_title, R.string.twoeuro_comm_2026_po_2_desc, R.string.twoeuro_comm_2026_po_2_volume, R.string.twoeuro_comm_2026_po_2_date);
         database.add2EuroCoin("si", SpecialEuroCoin.COMMON_TITLE_2CC, 2026, R.drawable.twoeuro_comm_2026_si, R.string.twoeuro_comm_2026_si_title, R.string.twoeuro_comm_2026_si_desc, R.string.twoeuro_comm_2026_si_volume, R.string.twoeuro_comm_2026_si_date);
         database.add2EuroCoin("sk", SpecialEuroCoin.COMMON_TITLE_2CC, 2026, R.drawable.twoeuro_comm_2026_sk, R.string.twoeuro_comm_2026_sk_title, R.string.twoeuro_comm_2026_sk_desc, R.string.twoeuro_comm_2026_sk_volume, R.string.twoeuro_comm_2026_sk_date);
         database.add2EuroCoin("sk", SpecialEuroCoin.COMMON_TITLE_2CC_2, 2026, R.drawable.twoeuro_comm_2026_sk_2, R.string.twoeuro_comm_2026_sk_2_title, R.string.twoeuro_comm_2026_sk_2_desc, R.string.twoeuro_comm_2026_sk_2_volume, R.string.twoeuro_comm_2026_sk_2_date);
@@ -552,11 +558,11 @@ public class CoinDatabase {
         database.add2EuroCoin("gr", SpecialEuroCoin.COMMON_TITLE_2CC_BG, 2012, R.drawable.twoeuro_comm_2012_eu_bg, R.string.twoeuro_comm_2012_eu_bg_title, R.string.twoeuro_comm_2012_eu_bg_desc, R.string.twoeuro_comm_2012_eu_bg_volume, R.string.twoeuro_comm_2012_eu_bg_date);
         database.add2EuroCoin("gr", SpecialEuroCoin.COMMON_TITLE_2CC_EUF, 2015, R.drawable.twoeuro_comm_2015_eu_euf, R.string.twoeuro_comm_2015_eu_euf_title, R.string.twoeuro_comm_2015_eu_euf_desc, R.string.twoeuro_comm_2015_eu_euf_volume, R.string.twoeuro_comm_2015_eu_euf_date);
         database.add2EuroCoin("gr", SpecialEuroCoin.COMMON_TITLE_2CC_EP, 2022, R.drawable.twoeuro_comm_2022_eu_ep, R.string.twoeuro_comm_2022_eu_ep_title, R.string.twoeuro_comm_2022_eu_ep_desc, R.string.twoeuro_comm_2022_eu_ep_volume, R.string.twoeuro_comm_2022_eu_ep_date);
-        database.add2EuroCoin("au", SpecialEuroCoin.COMMON_TITLE_2CC_RV, 2007, R.drawable.twoeuro_comm_2007_eu_rv, R.string.twoeuro_comm_2007_eu_rv_title, R.string.twoeuro_comm_2007_eu_rv_desc, R.string.twoeuro_comm_2007_eu_rv_volume, R.string.twoeuro_comm_2007_eu_rv_date);
-        database.add2EuroCoin("au", SpecialEuroCoin.COMMON_TITLE_2CC_EMU, 2009, R.drawable.twoeuro_comm_2009_eu_emu, R.string.twoeuro_comm_2009_eu_emu_title, R.string.twoeuro_comm_2009_eu_emu_desc, R.string.twoeuro_comm_2009_eu_emu_volume, R.string.twoeuro_comm_2009_eu_emu_date);
-        database.add2EuroCoin("au", SpecialEuroCoin.COMMON_TITLE_2CC_BG, 2012, R.drawable.twoeuro_comm_2012_eu_bg, R.string.twoeuro_comm_2012_eu_bg_title, R.string.twoeuro_comm_2012_eu_bg_desc, R.string.twoeuro_comm_2012_eu_bg_volume, R.string.twoeuro_comm_2012_eu_bg_date);
-        database.add2EuroCoin("au", SpecialEuroCoin.COMMON_TITLE_2CC_EUF, 2015, R.drawable.twoeuro_comm_2015_eu_euf, R.string.twoeuro_comm_2015_eu_euf_title, R.string.twoeuro_comm_2015_eu_euf_desc, R.string.twoeuro_comm_2015_eu_euf_volume, R.string.twoeuro_comm_2015_eu_euf_date);
-        database.add2EuroCoin("au", SpecialEuroCoin.COMMON_TITLE_2CC_EP, 2022, R.drawable.twoeuro_comm_2022_eu_ep, R.string.twoeuro_comm_2022_eu_ep_title, R.string.twoeuro_comm_2022_eu_ep_desc, R.string.twoeuro_comm_2022_eu_ep_volume, R.string.twoeuro_comm_2022_eu_ep_date);
+        database.add2EuroCoin("at", SpecialEuroCoin.COMMON_TITLE_2CC_RV, 2007, R.drawable.twoeuro_comm_2007_eu_rv, R.string.twoeuro_comm_2007_eu_rv_title, R.string.twoeuro_comm_2007_eu_rv_desc, R.string.twoeuro_comm_2007_eu_rv_volume, R.string.twoeuro_comm_2007_eu_rv_date);
+        database.add2EuroCoin("at", SpecialEuroCoin.COMMON_TITLE_2CC_EMU, 2009, R.drawable.twoeuro_comm_2009_eu_emu, R.string.twoeuro_comm_2009_eu_emu_title, R.string.twoeuro_comm_2009_eu_emu_desc, R.string.twoeuro_comm_2009_eu_emu_volume, R.string.twoeuro_comm_2009_eu_emu_date);
+        database.add2EuroCoin("at", SpecialEuroCoin.COMMON_TITLE_2CC_BG, 2012, R.drawable.twoeuro_comm_2012_eu_bg, R.string.twoeuro_comm_2012_eu_bg_title, R.string.twoeuro_comm_2012_eu_bg_desc, R.string.twoeuro_comm_2012_eu_bg_volume, R.string.twoeuro_comm_2012_eu_bg_date);
+        database.add2EuroCoin("at", SpecialEuroCoin.COMMON_TITLE_2CC_EUF, 2015, R.drawable.twoeuro_comm_2015_eu_euf, R.string.twoeuro_comm_2015_eu_euf_title, R.string.twoeuro_comm_2015_eu_euf_desc, R.string.twoeuro_comm_2015_eu_euf_volume, R.string.twoeuro_comm_2015_eu_euf_date);
+        database.add2EuroCoin("at", SpecialEuroCoin.COMMON_TITLE_2CC_EP, 2022, R.drawable.twoeuro_comm_2022_eu_ep, R.string.twoeuro_comm_2022_eu_ep_title, R.string.twoeuro_comm_2022_eu_ep_desc, R.string.twoeuro_comm_2022_eu_ep_volume, R.string.twoeuro_comm_2022_eu_ep_date);
         database.add2EuroCoin("es", SpecialEuroCoin.COMMON_TITLE_2CC_RV, 2007, R.drawable.twoeuro_comm_2007_eu_rv, R.string.twoeuro_comm_2007_eu_rv_title, R.string.twoeuro_comm_2007_eu_rv_desc, R.string.twoeuro_comm_2007_eu_rv_volume, R.string.twoeuro_comm_2007_eu_rv_date);
         database.add2EuroCoin("es", SpecialEuroCoin.COMMON_TITLE_2CC_EMU, 2009, R.drawable.twoeuro_comm_2009_eu_emu, R.string.twoeuro_comm_2009_eu_emu_title, R.string.twoeuro_comm_2009_eu_emu_desc, R.string.twoeuro_comm_2009_eu_emu_volume, R.string.twoeuro_comm_2009_eu_emu_date);
         database.add2EuroCoin("es", SpecialEuroCoin.COMMON_TITLE_2CC_BG, 2012, R.drawable.twoeuro_comm_2012_eu_bg, R.string.twoeuro_comm_2012_eu_bg_title, R.string.twoeuro_comm_2012_eu_bg_desc, R.string.twoeuro_comm_2012_eu_bg_volume, R.string.twoeuro_comm_2012_eu_bg_date);
@@ -572,26 +578,26 @@ public class CoinDatabase {
         database.add2EuroCoin("de", SpecialEuroCoin.COMMON_TITLE_2CC_BG, 2012, R.drawable.twoeuro_comm_2012_eu_bg, R.string.twoeuro_comm_2012_eu_bg_title, R.string.twoeuro_comm_2012_eu_bg_desc, R.string.twoeuro_comm_2012_eu_bg_volume, R.string.twoeuro_comm_2012_eu_bg_date);
         database.add2EuroCoin("de", SpecialEuroCoin.COMMON_TITLE_2CC_EUF, 2015, R.drawable.twoeuro_comm_2015_eu_euf, R.string.twoeuro_comm_2015_eu_euf_title, R.string.twoeuro_comm_2015_eu_euf_desc, R.string.twoeuro_comm_2015_eu_euf_volume, R.string.twoeuro_comm_2015_eu_euf_date);
         database.add2EuroCoin("de", SpecialEuroCoin.COMMON_TITLE_2CC_EP, 2022, R.drawable.twoeuro_comm_2022_eu_ep, R.string.twoeuro_comm_2022_eu_ep_title, R.string.twoeuro_comm_2022_eu_ep_desc, R.string.twoeuro_comm_2022_eu_ep_volume, R.string.twoeuro_comm_2022_eu_ep_date);
-        database.add2EuroCoin("po", SpecialEuroCoin.COMMON_TITLE_2CC_RV, 2007, R.drawable.twoeuro_comm_2007_eu_rv, R.string.twoeuro_comm_2007_eu_rv_title, R.string.twoeuro_comm_2007_eu_rv_desc, R.string.twoeuro_comm_2007_eu_rv_volume, R.string.twoeuro_comm_2007_eu_rv_date);
-        database.add2EuroCoin("po", SpecialEuroCoin.COMMON_TITLE_2CC_EMU, 2009, R.drawable.twoeuro_comm_2009_eu_emu, R.string.twoeuro_comm_2009_eu_emu_title, R.string.twoeuro_comm_2009_eu_emu_desc, R.string.twoeuro_comm_2009_eu_emu_volume, R.string.twoeuro_comm_2009_eu_emu_date);
-        database.add2EuroCoin("po", SpecialEuroCoin.COMMON_TITLE_2CC_BG, 2012, R.drawable.twoeuro_comm_2012_eu_bg, R.string.twoeuro_comm_2012_eu_bg_title, R.string.twoeuro_comm_2012_eu_bg_desc, R.string.twoeuro_comm_2012_eu_bg_volume, R.string.twoeuro_comm_2012_eu_bg_date);
-        database.add2EuroCoin("po", SpecialEuroCoin.COMMON_TITLE_2CC_EUF, 2015, R.drawable.twoeuro_comm_2015_eu_euf, R.string.twoeuro_comm_2015_eu_euf_title, R.string.twoeuro_comm_2015_eu_euf_desc, R.string.twoeuro_comm_2015_eu_euf_volume, R.string.twoeuro_comm_2015_eu_euf_date);
-        database.add2EuroCoin("po", SpecialEuroCoin.COMMON_TITLE_2CC_EP, 2022, R.drawable.twoeuro_comm_2022_eu_ep, R.string.twoeuro_comm_2022_eu_ep_title, R.string.twoeuro_comm_2022_eu_ep_desc, R.string.twoeuro_comm_2022_eu_ep_volume, R.string.twoeuro_comm_2022_eu_ep_date);
+        database.add2EuroCoin("pt", SpecialEuroCoin.COMMON_TITLE_2CC_RV, 2007, R.drawable.twoeuro_comm_2007_eu_rv, R.string.twoeuro_comm_2007_eu_rv_title, R.string.twoeuro_comm_2007_eu_rv_desc, R.string.twoeuro_comm_2007_eu_rv_volume, R.string.twoeuro_comm_2007_eu_rv_date);
+        database.add2EuroCoin("pt", SpecialEuroCoin.COMMON_TITLE_2CC_EMU, 2009, R.drawable.twoeuro_comm_2009_eu_emu, R.string.twoeuro_comm_2009_eu_emu_title, R.string.twoeuro_comm_2009_eu_emu_desc, R.string.twoeuro_comm_2009_eu_emu_volume, R.string.twoeuro_comm_2009_eu_emu_date);
+        database.add2EuroCoin("pt", SpecialEuroCoin.COMMON_TITLE_2CC_BG, 2012, R.drawable.twoeuro_comm_2012_eu_bg, R.string.twoeuro_comm_2012_eu_bg_title, R.string.twoeuro_comm_2012_eu_bg_desc, R.string.twoeuro_comm_2012_eu_bg_volume, R.string.twoeuro_comm_2012_eu_bg_date);
+        database.add2EuroCoin("pt", SpecialEuroCoin.COMMON_TITLE_2CC_EUF, 2015, R.drawable.twoeuro_comm_2015_eu_euf, R.string.twoeuro_comm_2015_eu_euf_title, R.string.twoeuro_comm_2015_eu_euf_desc, R.string.twoeuro_comm_2015_eu_euf_volume, R.string.twoeuro_comm_2015_eu_euf_date);
+        database.add2EuroCoin("pt", SpecialEuroCoin.COMMON_TITLE_2CC_EP, 2022, R.drawable.twoeuro_comm_2022_eu_ep, R.string.twoeuro_comm_2022_eu_ep_title, R.string.twoeuro_comm_2022_eu_ep_desc, R.string.twoeuro_comm_2022_eu_ep_volume, R.string.twoeuro_comm_2022_eu_ep_date);
         database.add2EuroCoin("fr", SpecialEuroCoin.COMMON_TITLE_2CC_RV, 2007, R.drawable.twoeuro_comm_2007_eu_rv, R.string.twoeuro_comm_2007_eu_rv_title, R.string.twoeuro_comm_2007_eu_rv_desc, R.string.twoeuro_comm_2007_eu_rv_volume, R.string.twoeuro_comm_2007_eu_rv_date);
         database.add2EuroCoin("fr", SpecialEuroCoin.COMMON_TITLE_2CC_EMU, 2009, R.drawable.twoeuro_comm_2009_eu_emu, R.string.twoeuro_comm_2009_eu_emu_title, R.string.twoeuro_comm_2009_eu_emu_desc, R.string.twoeuro_comm_2009_eu_emu_volume, R.string.twoeuro_comm_2009_eu_emu_date);
         database.add2EuroCoin("fr", SpecialEuroCoin.COMMON_TITLE_2CC_BG, 2012, R.drawable.twoeuro_comm_2012_eu_bg, R.string.twoeuro_comm_2012_eu_bg_title, R.string.twoeuro_comm_2012_eu_bg_desc, R.string.twoeuro_comm_2012_eu_bg_volume, R.string.twoeuro_comm_2012_eu_bg_date);
         database.add2EuroCoin("fr", SpecialEuroCoin.COMMON_TITLE_2CC_EUF, 2015, R.drawable.twoeuro_comm_2015_eu_euf, R.string.twoeuro_comm_2015_eu_euf_title, R.string.twoeuro_comm_2015_eu_euf_desc, R.string.twoeuro_comm_2015_eu_euf_volume, R.string.twoeuro_comm_2015_eu_euf_date);
         database.add2EuroCoin("fr", SpecialEuroCoin.COMMON_TITLE_2CC_EP, 2022, R.drawable.twoeuro_comm_2022_eu_ep, R.string.twoeuro_comm_2022_eu_ep_title, R.string.twoeuro_comm_2022_eu_ep_desc, R.string.twoeuro_comm_2022_eu_ep_volume, R.string.twoeuro_comm_2022_eu_ep_date);
-        database.add2EuroCoin("ir", SpecialEuroCoin.COMMON_TITLE_2CC_RV, 2007, R.drawable.twoeuro_comm_2007_eu_rv, R.string.twoeuro_comm_2007_eu_rv_title, R.string.twoeuro_comm_2007_eu_rv_desc, R.string.twoeuro_comm_2007_eu_rv_volume, R.string.twoeuro_comm_2007_eu_rv_date);
-        database.add2EuroCoin("ir", SpecialEuroCoin.COMMON_TITLE_2CC_EMU, 2009, R.drawable.twoeuro_comm_2009_eu_emu, R.string.twoeuro_comm_2009_eu_emu_title, R.string.twoeuro_comm_2009_eu_emu_desc, R.string.twoeuro_comm_2009_eu_emu_volume, R.string.twoeuro_comm_2009_eu_emu_date);
-        database.add2EuroCoin("ir", SpecialEuroCoin.COMMON_TITLE_2CC_BG, 2012, R.drawable.twoeuro_comm_2012_eu_bg, R.string.twoeuro_comm_2012_eu_bg_title, R.string.twoeuro_comm_2012_eu_bg_desc, R.string.twoeuro_comm_2012_eu_bg_volume, R.string.twoeuro_comm_2012_eu_bg_date);
-        database.add2EuroCoin("ir", SpecialEuroCoin.COMMON_TITLE_2CC_EUF, 2015, R.drawable.twoeuro_comm_2015_eu_euf, R.string.twoeuro_comm_2015_eu_euf_title, R.string.twoeuro_comm_2015_eu_euf_desc, R.string.twoeuro_comm_2015_eu_euf_volume, R.string.twoeuro_comm_2015_eu_euf_date);
-        database.add2EuroCoin("ir", SpecialEuroCoin.COMMON_TITLE_2CC_EP, 2022, R.drawable.twoeuro_comm_2022_eu_ep, R.string.twoeuro_comm_2022_eu_ep_title, R.string.twoeuro_comm_2022_eu_ep_desc, R.string.twoeuro_comm_2022_eu_ep_volume, R.string.twoeuro_comm_2022_eu_ep_date);
-        database.add2EuroCoin("ne", SpecialEuroCoin.COMMON_TITLE_2CC_RV, 2007, R.drawable.twoeuro_comm_2007_eu_rv, R.string.twoeuro_comm_2007_eu_rv_title, R.string.twoeuro_comm_2007_eu_rv_desc, R.string.twoeuro_comm_2007_eu_rv_volume, R.string.twoeuro_comm_2007_eu_rv_date);
-        database.add2EuroCoin("ne", SpecialEuroCoin.COMMON_TITLE_2CC_EMU, 2009, R.drawable.twoeuro_comm_2009_eu_emu, R.string.twoeuro_comm_2009_eu_emu_title, R.string.twoeuro_comm_2009_eu_emu_desc, R.string.twoeuro_comm_2009_eu_emu_volume, R.string.twoeuro_comm_2009_eu_emu_date);
-        database.add2EuroCoin("ne", SpecialEuroCoin.COMMON_TITLE_2CC_BG, 2012, R.drawable.twoeuro_comm_2012_eu_bg, R.string.twoeuro_comm_2012_eu_bg_title, R.string.twoeuro_comm_2012_eu_bg_desc, R.string.twoeuro_comm_2012_eu_bg_volume, R.string.twoeuro_comm_2012_eu_bg_date);
-        database.add2EuroCoin("ne", SpecialEuroCoin.COMMON_TITLE_2CC_EUF, 2015, R.drawable.twoeuro_comm_2015_eu_euf, R.string.twoeuro_comm_2015_eu_euf_title, R.string.twoeuro_comm_2015_eu_euf_desc, R.string.twoeuro_comm_2015_eu_euf_volume, R.string.twoeuro_comm_2015_eu_euf_date);
-        database.add2EuroCoin("ne", SpecialEuroCoin.COMMON_TITLE_2CC_EP, 2022, R.drawable.twoeuro_comm_2022_eu_ep, R.string.twoeuro_comm_2022_eu_ep_title, R.string.twoeuro_comm_2022_eu_ep_desc, R.string.twoeuro_comm_2022_eu_ep_volume, R.string.twoeuro_comm_2022_eu_ep_date);
+        database.add2EuroCoin("ie", SpecialEuroCoin.COMMON_TITLE_2CC_RV, 2007, R.drawable.twoeuro_comm_2007_eu_rv, R.string.twoeuro_comm_2007_eu_rv_title, R.string.twoeuro_comm_2007_eu_rv_desc, R.string.twoeuro_comm_2007_eu_rv_volume, R.string.twoeuro_comm_2007_eu_rv_date);
+        database.add2EuroCoin("ie", SpecialEuroCoin.COMMON_TITLE_2CC_EMU, 2009, R.drawable.twoeuro_comm_2009_eu_emu, R.string.twoeuro_comm_2009_eu_emu_title, R.string.twoeuro_comm_2009_eu_emu_desc, R.string.twoeuro_comm_2009_eu_emu_volume, R.string.twoeuro_comm_2009_eu_emu_date);
+        database.add2EuroCoin("ie", SpecialEuroCoin.COMMON_TITLE_2CC_BG, 2012, R.drawable.twoeuro_comm_2012_eu_bg, R.string.twoeuro_comm_2012_eu_bg_title, R.string.twoeuro_comm_2012_eu_bg_desc, R.string.twoeuro_comm_2012_eu_bg_volume, R.string.twoeuro_comm_2012_eu_bg_date);
+        database.add2EuroCoin("ie", SpecialEuroCoin.COMMON_TITLE_2CC_EUF, 2015, R.drawable.twoeuro_comm_2015_eu_euf, R.string.twoeuro_comm_2015_eu_euf_title, R.string.twoeuro_comm_2015_eu_euf_desc, R.string.twoeuro_comm_2015_eu_euf_volume, R.string.twoeuro_comm_2015_eu_euf_date);
+        database.add2EuroCoin("ie", SpecialEuroCoin.COMMON_TITLE_2CC_EP, 2022, R.drawable.twoeuro_comm_2022_eu_ep, R.string.twoeuro_comm_2022_eu_ep_title, R.string.twoeuro_comm_2022_eu_ep_desc, R.string.twoeuro_comm_2022_eu_ep_volume, R.string.twoeuro_comm_2022_eu_ep_date);
+        database.add2EuroCoin("nl", SpecialEuroCoin.COMMON_TITLE_2CC_RV, 2007, R.drawable.twoeuro_comm_2007_eu_rv, R.string.twoeuro_comm_2007_eu_rv_title, R.string.twoeuro_comm_2007_eu_rv_desc, R.string.twoeuro_comm_2007_eu_rv_volume, R.string.twoeuro_comm_2007_eu_rv_date);
+        database.add2EuroCoin("nl", SpecialEuroCoin.COMMON_TITLE_2CC_EMU, 2009, R.drawable.twoeuro_comm_2009_eu_emu, R.string.twoeuro_comm_2009_eu_emu_title, R.string.twoeuro_comm_2009_eu_emu_desc, R.string.twoeuro_comm_2009_eu_emu_volume, R.string.twoeuro_comm_2009_eu_emu_date);
+        database.add2EuroCoin("nl", SpecialEuroCoin.COMMON_TITLE_2CC_BG, 2012, R.drawable.twoeuro_comm_2012_eu_bg, R.string.twoeuro_comm_2012_eu_bg_title, R.string.twoeuro_comm_2012_eu_bg_desc, R.string.twoeuro_comm_2012_eu_bg_volume, R.string.twoeuro_comm_2012_eu_bg_date);
+        database.add2EuroCoin("nl", SpecialEuroCoin.COMMON_TITLE_2CC_EUF, 2015, R.drawable.twoeuro_comm_2015_eu_euf, R.string.twoeuro_comm_2015_eu_euf_title, R.string.twoeuro_comm_2015_eu_euf_desc, R.string.twoeuro_comm_2015_eu_euf_volume, R.string.twoeuro_comm_2015_eu_euf_date);
+        database.add2EuroCoin("nl", SpecialEuroCoin.COMMON_TITLE_2CC_EP, 2022, R.drawable.twoeuro_comm_2022_eu_ep, R.string.twoeuro_comm_2022_eu_ep_title, R.string.twoeuro_comm_2022_eu_ep_desc, R.string.twoeuro_comm_2022_eu_ep_volume, R.string.twoeuro_comm_2022_eu_ep_date);
         database.add2EuroCoin("si", SpecialEuroCoin.COMMON_TITLE_2CC_RV, 2007, R.drawable.twoeuro_comm_2007_eu_rv, R.string.twoeuro_comm_2007_eu_rv_title, R.string.twoeuro_comm_2007_eu_rv_desc, R.string.twoeuro_comm_2007_eu_rv_volume, R.string.twoeuro_comm_2007_eu_rv_date);
         database.add2EuroCoin("si", SpecialEuroCoin.COMMON_TITLE_2CC_EMU, 2009, R.drawable.twoeuro_comm_2009_eu_emu, R.string.twoeuro_comm_2009_eu_emu_title, R.string.twoeuro_comm_2009_eu_emu_desc, R.string.twoeuro_comm_2009_eu_emu_volume, R.string.twoeuro_comm_2009_eu_emu_date);
         database.add2EuroCoin("si", SpecialEuroCoin.COMMON_TITLE_2CC_BG, 2012, R.drawable.twoeuro_comm_2012_eu_bg, R.string.twoeuro_comm_2012_eu_bg_title, R.string.twoeuro_comm_2012_eu_bg_desc, R.string.twoeuro_comm_2012_eu_bg_volume, R.string.twoeuro_comm_2012_eu_bg_date);
@@ -620,32 +626,32 @@ public class CoinDatabase {
 
     public static void addGermany5EuroPolymerCoins(Database database) {
         database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_BLUE_PLANET, 2016, 500, false, R.drawable.specialeuro_2016_de_planet, R.string.specialeuro_2016_de_planet_title, 0, 0, 0, true, false, false);
-        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_RED_CLIMA, 2017, 500, false, R.drawable.specialeuro_2017_de_clima, R.string.specialeuro_2017_de_clima_title, 0, 0, 0, true, false, false);
-        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_ORANGE_CLIMA, 2018, 500, false, R.drawable.specialeuro_2018_de_clima, R.string.specialeuro_2018_de_clima_title, 0, 0, 0, true, false, false);
-        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_GREEN_CLIMA, 2019, 500, false, R.drawable.specialeuro_2019_de_clima, R.string.specialeuro_2019_de_clima_title, 0, 0, 0, true, false, false);
-        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_TURQUOISE_CLIMA, 2020, 500, false, R.drawable.specialeuro_2020_de_clima, R.string.specialeuro_2020_de_clima_title, 0, 0, 0, true, false, false);
-        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_VIOLET_CLIMA, 2021, 500, false, R.drawable.specialeuro_2021_de_clima, R.string.specialeuro_2021_de_clima_title, 0, 0, 0, true, false, false);
+        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_RED_CLIMATE, 2017, 500, false, R.drawable.specialeuro_2017_de_clima, R.string.specialeuro_2017_de_clima_title, 0, 0, 0, true, false, false);
+        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_ORANGE_CLIMATE, 2018, 500, false, R.drawable.specialeuro_2018_de_clima, R.string.specialeuro_2018_de_clima_title, 0, 0, 0, true, false, false);
+        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_GREEN_CLIMATE, 2019, 500, false, R.drawable.specialeuro_2019_de_clima, R.string.specialeuro_2019_de_clima_title, 0, 0, 0, true, false, false);
+        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_TURQUOISE_CLIMATE, 2020, 500, false, R.drawable.specialeuro_2020_de_clima, R.string.specialeuro_2020_de_clima_title, 0, 0, 0, true, false, false);
+        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_VIOLET_CLIMATE, 2021, 500, false, R.drawable.specialeuro_2021_de_clima, R.string.specialeuro_2021_de_clima_title, 0, 0, 0, true, false, false);
 
-        database.addSpecialEuroCoin(Countries.country_germany, "", 2022, "A",0, false, 0, 0, 0, 0, 0, true, false, false);
-        database.addSpecialEuroCoin(Countries.country_germany, "", 2022, "D",0, false, 0, 0, 0, 0, 0, true, false, false);
-        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_INSECTS, 2022, "F",500, false, R.drawable.specialeuro_2022_de_insects, R.string.specialeuro_2022_de_insects_title, 0, 0, 0, true, false, false);
-        database.addSpecialEuroCoin(Countries.country_germany, "", 2022, "G",0, false, 0, 0, 0, 0, 0, true, false, false);
-        database.addSpecialEuroCoin(Countries.country_germany, "", 2022, "J",0, false, 0, 0, 0, 0, 0, true, false, false);
-        database.createAndAddSpecialEuroCoin(Countries.country_germany, 2022, 500, false,null, "", R.drawable.specialeuro_2022_de_insects, 0, 0, 0, 0, false, null, null, true, false, false, false);
+        database.addSpecialEuroCoin(Countries.country_germany, "", 2022, "A", 0, false, 0, 0, 0, 0, 0, true, false, false);
+        database.addSpecialEuroCoin(Countries.country_germany, "", 2022, "D", 0, false, 0, 0, 0, 0, 0, true, false, false);
+        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_INSECTS, 2022, "F", 500, false, R.drawable.specialeuro_2022_de_insects, R.string.specialeuro_2022_de_insects_title, 0, 0, 0, true, false, false);
+        database.addSpecialEuroCoin(Countries.country_germany, "", 2022, "G", 0, false, 0, 0, 0, 0, 0, true, false, false);
+        database.addSpecialEuroCoin(Countries.country_germany, "", 2022, "J", 0, false, 0, 0, 0, 0, 0, true, false, false);
+        database.createAndAddSpecialEuroCoin(Countries.country_germany, 2022, 500, false, null, "", R.drawable.specialeuro_2022_de_insects, 0, 0, 0, 0, false, null, null, true, false, false, false);
 
-        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_INSECTS_MARIENKAEFER, 2023, "A",500, false, R.drawable.specialeuro_2023_de_insects_marienkaefer, R.string.specialeuro_2023_de_insects_marienkaefer_title, 0, 0, 0, true, false, false);
-        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_INSECTS_BIENE, 2023, "D",500, false, R.drawable.specialeuro_2023_de_insects_biene, R.string.specialeuro_2023_de_insects_biene_title, 0, 0, 0, true, false, false);
-        database.addSpecialEuroCoin(Countries.country_germany, "", 2023, "F",0, false, 0, 0, 0, 0, 0, true, false, false);
-        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_INSECTS_SCHMETTERLING, 2023, "G",500, false, R.drawable.specialeuro_2023_de_insects_schmetterling, R.string.specialeuro_2023_de_insects_schmetterling_title, 0, 0, 0, true, false, false);
-        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_INSECTS_LIBELLE, 2023, "J",500, false, R.drawable.specialeuro_2023_de_insects_libelle, R.string.specialeuro_2023_de_insects_libelle_title, 0, 0, 0, true, false, false);
-        database.createAndAddSpecialEuroCoin(Countries.country_germany, 2023, 500, false,null, "", R.drawable.specialeuro_2023_de_insects_marienkaefer, 0, 0, 0, 0, false, null, null, true, false, false, false);
+        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_INSECTS_MARIENKAEFER, 2023, "A", 500, false, R.drawable.specialeuro_2023_de_insects_marienkaefer, R.string.specialeuro_2023_de_insects_marienkaefer_title, 0, 0, 0, true, false, false);
+        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_INSECTS_BIENE, 2023, "D", 500, false, R.drawable.specialeuro_2023_de_insects_biene, R.string.specialeuro_2023_de_insects_biene_title, 0, 0, 0, true, false, false);
+        database.addSpecialEuroCoin(Countries.country_germany, "", 2023, "F", 0, false, 0, 0, 0, 0, 0, true, false, false);
+        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_INSECTS_SCHMETTERLING, 2023, "G", 500, false, R.drawable.specialeuro_2023_de_insects_schmetterling, R.string.specialeuro_2023_de_insects_schmetterling_title, 0, 0, 0, true, false, false);
+        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_INSECTS_LIBELLE, 2023, "J", 500, false, R.drawable.specialeuro_2023_de_insects_libelle, R.string.specialeuro_2023_de_insects_libelle_title, 0, 0, 0, true, false, false);
+        database.createAndAddSpecialEuroCoin(Countries.country_germany, 2023, 500, false, null, "", R.drawable.specialeuro_2023_de_insects_marienkaefer, 0, 0, 0, 0, false, null, null, true, false, false, false);
 
-        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_INSECTS_GRUENES_HEUPFERD, 2024, "A",500, false, R.drawable.specialeuro_2024_de_insects_gruenes_heupferd, R.string.specialeuro_2024_de_insects_gruenes_heupferd_title, 0, 0, 0, true, false, false);
-        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_INSECTS_HIRSCHKAEFER, 2024, "D",500, false, R.drawable.specialeuro_2024_de_insects_hirschkaefer, R.string.specialeuro_2024_de_insects_hirschkaefer_title, 0, 0, 0, true, false, false);
-        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_INSECTS_HAINSCHWEB_FLIEGE, 2024, "F",500, false, R.drawable.specialeuro_2024_de_insects_hainschwebfliege, R.string.specialeuro_2024_de_insects_hainschwebfliege_title, 0, 0, 0, true, false, false);
-        database.addSpecialEuroCoin(Countries.country_germany, "", 2024, "G",0, false, 0, 0, 0, 0, 0, true, false, false);
-        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_INSECTS_STEIN_HUMMEL, 2024, "J",500, false, R.drawable.specialeuro_2024_de_insects_steinhummel, R.string.specialeuro_2024_de_insects_steinhummel_title, 0, 0, 0, true, false, false);
-        database.createAndAddSpecialEuroCoin(Countries.country_germany, 2024, 500, false,null, "", R.drawable.specialeuro_2024_de_insects_gruenes_heupferd, 0, 0, 0, 0, false, null, null, true, false, false, false);
+        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_INSECTS_GRUENES_HEUPFERD, 2024, "A", 500, false, R.drawable.specialeuro_2024_de_insects_gruenes_heupferd, R.string.specialeuro_2024_de_insects_gruenes_heupferd_title, 0, 0, 0, true, false, false);
+        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_INSECTS_HIRSCHKAEFER, 2024, "D", 500, false, R.drawable.specialeuro_2024_de_insects_hirschkaefer, R.string.specialeuro_2024_de_insects_hirschkaefer_title, 0, 0, 0, true, false, false);
+        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_INSECTS_HAINSCHWEB_FLIEGE, 2024, "F", 500, false, R.drawable.specialeuro_2024_de_insects_hainschwebfliege, R.string.specialeuro_2024_de_insects_hainschwebfliege_title, 0, 0, 0, true, false, false);
+        database.addSpecialEuroCoin(Countries.country_germany, "", 2024, "G", 0, false, 0, 0, 0, 0, 0, true, false, false);
+        database.addSpecialEuroCoin(Countries.country_germany, SpecialEuroCoin.ID_INSECTS_STEIN_HUMMEL, 2024, "J", 500, false, R.drawable.specialeuro_2024_de_insects_steinhummel, R.string.specialeuro_2024_de_insects_steinhummel_title, 0, 0, 0, true, false, false);
+        database.createAndAddSpecialEuroCoin(Countries.country_germany, 2024, 500, false, null, "", R.drawable.specialeuro_2024_de_insects_gruenes_heupferd, 0, 0, 0, 0, false, null, null, true, false, false, false);
     }
 
     public static void addStarterKits(Database database) {
@@ -1563,7 +1569,7 @@ public class CoinDatabase {
     public static int[] getGreece2002XCoinImages() {
         // this is for the greece coins which have been minted outside greece and have special mint marks
         Countries.country_greece.addSeries(2002, GREECE_2002_SPECIAL_TITLE);
-        return new int[] {
+        return new int[]{
                 R.drawable.euro_muenze_rs_gr_1c_x,
                 R.drawable.euro_muenze_rs_gr_2c_x,
                 R.drawable.euro_muenze_rs_gr_5c_x,
@@ -1579,14 +1585,14 @@ public class CoinDatabase {
         // this is for the greece coins which have been minted outside greece and have special mint marks
         Countries.country_vatican.addSeries(2005, VATICAN_2005_SPECIAL_TITLE);
         int[] coinResIds = new int[CoinSet.COINS_PER_SET_STD];
-        coinResIds[3]= R.drawable.euro_muenze_rs_va_10c_sede;
-        coinResIds[0]= R.drawable.euro_muenze_rs_va_1c_sede;
-        coinResIds[6]= R.drawable.euro_muenze_rs_va_1e_sede;
-        coinResIds[4]= R.drawable.euro_muenze_rs_va_20c_sede;
-        coinResIds[1]= R.drawable.euro_muenze_rs_va_2c_sede;
-        coinResIds[7]= R.drawable.euro_muenze_rs_va_2e_sede;
-        coinResIds[5]= R.drawable.euro_muenze_rs_va_50c_sede;
-        coinResIds[2]= R.drawable.euro_muenze_rs_va_5c_sede;
+        coinResIds[3] = R.drawable.euro_muenze_rs_va_10c_sede;
+        coinResIds[0] = R.drawable.euro_muenze_rs_va_1c_sede;
+        coinResIds[6] = R.drawable.euro_muenze_rs_va_1e_sede;
+        coinResIds[4] = R.drawable.euro_muenze_rs_va_20c_sede;
+        coinResIds[1] = R.drawable.euro_muenze_rs_va_2c_sede;
+        coinResIds[7] = R.drawable.euro_muenze_rs_va_2e_sede;
+        coinResIds[5] = R.drawable.euro_muenze_rs_va_50c_sede;
+        coinResIds[2] = R.drawable.euro_muenze_rs_va_5c_sede;
         return coinResIds;
     }
 
@@ -1888,29 +1894,29 @@ public class CoinDatabase {
         database.setMinted("it", 2004, null, null, 100075000, 120075000, 10075000, 5075000, 5075000, 5075000, 5075000, 7075000, 16000000, 0, 0);
         database.setMinted("it", 2003, null, null, 9749000, 21667000, 1956000, 29826000, 26005000, 44675000, 66342000, 36210000, 0, 0, 0);
         database.setMinted("it", 2002, null, null, 1348749500, 1099016250, 1341592204, 1142233000, 1411686000, 1136568000, 965875300, 463552200, 0, 0, 0);
-        database.setMinted("ir", 2024, null, null, 6000, 6000, 6000, 6000, 6000, 6000, 6000, 6000, 0, 0, 0);
-        database.setMinted("ir", 2023, null, null, 8000, 8000, 8000, 8000, 8000, 8000, 8000, 8000, 501000, 0, 0);
-        database.setMinted("ir", 2022, null, null, 9000, 9000, 9000, 9000, 9000, 9000, 9000, 9000, 0, 0, 500000);
-        database.setMinted("ir", 2021, null, null, 7000, 7000, 7000, 7000, 7000, 7000, 7000, 7000, 0, 0, 0);
-        database.setMinted("ir", 2020, null, null, 20100, 20221, 45002107, 20296, 95100, 95100, 80000, 96500, 0, 0, 0);
-        database.setMinted("ir", 2019, null, null, 11000, 11000, 30011000, 10011000, 11000, 11000, 11000, 11000, 1000000, 0, 0);
-        database.setMinted("ir", 2018, null, null, 30980, 30900, 30077180, 190800, 131030, 90990, 90710, 94440, 0, 0, 0);
-        database.setMinted("ir", 2017, null, null, 22170, 22120, 795980, 202255, 22115, 22260, 97300, 97730, 0, 0, 0);
-        database.setMinted("ir", 2016, null, null, 214000, 164000, 134000, 2284000, 84000, 84000, 84000, 10679000, 4500000, 0, 0);
-        database.setMinted("ir", 2015, null, null, 21000, 21000, 1081000, 9141000, 1101000, 1111000, 1071000, 1221000, 0, 0, 1000000);
-        database.setMinted("ir", 2014, null, null, 35152000, 3132000, 1082000, 1102000, 1202000, 1092000, 1002000, 5332000, 0, 0, 0);
-        database.setMinted("ir", 2013, null, null, 61485000, 34825000, 1065000, 965000, 1325000, 985000, 985000, 1075000, 0, 0, 0);
-        database.setMinted("ir", 2012, null, null, 61402000, 11942000, 1052000, 1092000, 1002000, 1022000, 1042000, 8792000, 0, 0, 1354867);
-        database.setMinted("ir", 2011, null, null, 40980000, 4730000, 1020000, 950000, 1170000, 1090000, 1090000, 1050000, 0, 0, 0);
-        database.setMinted("ir", 2010, null, null, 10950000, 3500000, 1020000, 1080000, 1030000, 1170000, 1080000, 1470000, 0, 0, 0);
-        database.setMinted("ir", 2009, null, null, 52210000, 44290000, 11340000, 11510000, 5430000, 2940000, 3330000, 1050000, 0, 0, 3812908);
-        database.setMinted("ir", 2008, null, null, 46160000, 35840000, 61910000, 56570000, 46010000, 1230000, 2600000, 6120000, 0, 0, 0);
-        database.setMinted("ir", 2007, null, null, 163860000, 201000000, 136270000, 77050000, 34530000, 8740000, 5760000, 7470000, 0, 0, 4660112);
-        database.setMinted("ir", 2006, null, null, 110985000, 26605000, 89825000, 9655000, 10415000, 7515000, 4055000, 5135000, 0, 0, 0);
-        database.setMinted("ir", 2005, null, null, 128600000, 74700000, 56560000, 7200000, 40540000, 17360000, 6870000, 13520000, 0, 0, 0);
-        database.setMinted("ir", 2004, null, null, 174870000, 143040000, 82370000, 36810000, 32460000, 6790000, 1670000, 3780000, 0, 0, 0);
-        database.setMinted("ir", 2003, null, null, 77965000, 177355000, 48415000, 133885000, 57205000, 11875000, 2585000, 2695000, 0, 0, 0);
-        database.setMinted("ir", 2002, null, null, 404455000, 354665000, 456295000, 275935000, 234605000, 144165000, 135165000, 90615000, 0, 0, 0);
+        database.setMinted("ie", 2024, null, null, 6000, 6000, 6000, 6000, 6000, 6000, 6000, 6000, 0, 0, 0);
+        database.setMinted("ie", 2023, null, null, 8000, 8000, 8000, 8000, 8000, 8000, 8000, 8000, 501000, 0, 0);
+        database.setMinted("ie", 2022, null, null, 9000, 9000, 9000, 9000, 9000, 9000, 9000, 9000, 0, 0, 500000);
+        database.setMinted("ie", 2021, null, null, 7000, 7000, 7000, 7000, 7000, 7000, 7000, 7000, 0, 0, 0);
+        database.setMinted("ie", 2020, null, null, 20100, 20221, 45002107, 20296, 95100, 95100, 80000, 96500, 0, 0, 0);
+        database.setMinted("ie", 2019, null, null, 11000, 11000, 30011000, 10011000, 11000, 11000, 11000, 11000, 1000000, 0, 0);
+        database.setMinted("ie", 2018, null, null, 30980, 30900, 30077180, 190800, 131030, 90990, 90710, 94440, 0, 0, 0);
+        database.setMinted("ie", 2017, null, null, 22170, 22120, 795980, 202255, 22115, 22260, 97300, 97730, 0, 0, 0);
+        database.setMinted("ie", 2016, null, null, 214000, 164000, 134000, 2284000, 84000, 84000, 84000, 10679000, 4500000, 0, 0);
+        database.setMinted("ie", 2015, null, null, 21000, 21000, 1081000, 9141000, 1101000, 1111000, 1071000, 1221000, 0, 0, 1000000);
+        database.setMinted("ie", 2014, null, null, 35152000, 3132000, 1082000, 1102000, 1202000, 1092000, 1002000, 5332000, 0, 0, 0);
+        database.setMinted("ie", 2013, null, null, 61485000, 34825000, 1065000, 965000, 1325000, 985000, 985000, 1075000, 0, 0, 0);
+        database.setMinted("ie", 2012, null, null, 61402000, 11942000, 1052000, 1092000, 1002000, 1022000, 1042000, 8792000, 0, 0, 1354867);
+        database.setMinted("ie", 2011, null, null, 40980000, 4730000, 1020000, 950000, 1170000, 1090000, 1090000, 1050000, 0, 0, 0);
+        database.setMinted("ie", 2010, null, null, 10950000, 3500000, 1020000, 1080000, 1030000, 1170000, 1080000, 1470000, 0, 0, 0);
+        database.setMinted("ie", 2009, null, null, 52210000, 44290000, 11340000, 11510000, 5430000, 2940000, 3330000, 1050000, 0, 0, 3812908);
+        database.setMinted("ie", 2008, null, null, 46160000, 35840000, 61910000, 56570000, 46010000, 1230000, 2600000, 6120000, 0, 0, 0);
+        database.setMinted("ie", 2007, null, null, 163860000, 201000000, 136270000, 77050000, 34530000, 8740000, 5760000, 7470000, 0, 0, 4660112);
+        database.setMinted("ie", 2006, null, null, 110985000, 26605000, 89825000, 9655000, 10415000, 7515000, 4055000, 5135000, 0, 0, 0);
+        database.setMinted("ie", 2005, null, null, 128600000, 74700000, 56560000, 7200000, 40540000, 17360000, 6870000, 13520000, 0, 0, 0);
+        database.setMinted("ie", 2004, null, null, 174870000, 143040000, 82370000, 36810000, 32460000, 6790000, 1670000, 3780000, 0, 0, 0);
+        database.setMinted("ie", 2003, null, null, 77965000, 177355000, 48415000, 133885000, 57205000, 11875000, 2585000, 2695000, 0, 0, 0);
+        database.setMinted("ie", 2002, null, null, 404455000, 354665000, 456295000, 275935000, 234605000, 144165000, 135165000, 90615000, 0, 0, 0);
         database.setMinted("hr", 2024, null, null, 1089506, 1088006, 10448006, 1048006, 4508006, 1028006, 1028006, 1008006, 200000, 200000, 0);
         database.setMinted("hr", 2023, null, null, 82206050, 65733000, 79704500, 91839740, 71780020, 65000020, 48061650, 47368450, 250000, 0, 0);
         database.setMinted("lv", 2024, null, null, 6000, 6000, 6000, 6000, 6000, 6000, 6000, 6000, 413000, 0, 0);
@@ -1998,78 +2004,78 @@ public class CoinDatabase {
         database.setMinted("mc", 2003, null, null, 0, 0, 0, 100800, 100000, 100000, 135000, 228000, 0, 0, 0);
         database.setMinted("mc", 2002, null, null, 40000, 40000, 40000, 407200, 376000, 364000, 512500, 496000, 0, 0, 0);
         database.setMinted("mc", 2001, null, null, 350700, 396900, 323500, 323500, 389900, 323500, 994600, 923300, 0, 0, 0);
-        database.setMinted("ne", 2024, null, null, 18000, 18000, 18000, 18000, 18000, 18000, 18000, 18000, 0, 0, 0);
-        database.setMinted("ne", 2023, null, null, 25023, 25023, 25025023, 12025023, 16025023, 5025023, 25023, 25023, 0, 0, 0);
-        database.setMinted("ne", 2022, null, null, 40022, 40022, 3040022, 2040022, 1040022, 40022, 40022, 40022, 0, 0, 577500);
-        database.setMinted("ne", 2021, null, null, 38521, 38521, 38521, 38521, 38521, 38521, 38521, 38521, 0, 0, 0);
-        database.setMinted("ne", 2020, null, null, 43520, 43520, 10043520, 43520, 43520, 43520, 43520, 43520, 0, 0, 0);
-        database.setMinted("ne", 2019, null, null, 46269, 46269, 76269, 61269, 46269, 46269, 46269, 46269, 0, 0, 0);
-        database.setMinted("ne", 2018, null, null, 46018, 46018, 60046018, 12546018, 20046018, 46018, 46018, 46018, 0, 0, 0);
-        database.setMinted("ne", 2017, null, null, 41017, 41017, 60041017, 20041017, 41017, 41017, 41017, 46017, 0, 0, 0);
-        database.setMinted("ne", 2016, null, null, 530516, 530516, 70530516, 530516, 30530516, 530516, 430516, 430516, 0, 0, 0);
-        database.setMinted("ne", 2015, null, null, 599515, 599515, 55599515, 599515, 599515, 599515, 499515, 524515, 0, 0, 1000000);
-        database.setMinted("ne", 2014, null, null, 888014, 888014, 30358014, 5358014, 5358014, 5358014, 5358014, 9363014, 5000000, 0, 0);
-        database.setMintedForce("ne", 2013, null, null, 35252263, 252263, 27552263, 252263, 252263, 252263, 152263, 152263, 20000000, 3500000, 0);
-        database.setMinted("ne", 2012, null, null, 454262, 254262, 10554262, 254262, 254262, 254262, 254262, 244262, 0, 0, 3500000);
-        database.setMinted("ne", 2011, null, null, 352761, 355761, 21143761, 320761, 320761, 316761, 320761, 228761, 4000000, 0, 0);
-        database.setMinted("ne", 2010, null, null, 246510, 246510, 40126510, 215510, 216510, 216510, 172510, 169510, 0, 0, 0);
-        database.setMinted("ne", 2009, null, null, 320509, 315509, 40365509, 275509, 275509, 275509, 215509, 215509, 0, 0, 5317000);
-        database.setMinted("ne", 2008, null, null, 303008, 303008, 74372008, 270008, 270008, 270008, 234008, 231008, 0, 0, 0);
-        database.setMinted("ne", 2007, null, null, 403701, 409701, 75835701, 364701, 364701, 364701, 295701, 226701, 0, 0, 6360820);
-        database.setMinted("ne", 2006, null, null, 447006, 447006, 60387006, 462006, 462006, 432006, 462006, 410006, 0, 0, 0);
-        database.setMinted("ne", 2005, null, null, 809005, 859005, 80869005, 774005, 774005, 774005, 596005, 596005, 0, 0, 0);
-        database.setMinted("ne", 2004, null, null, 114038004, 115754004, 438004, 394004, 20562004, 401004, 367004, 377004, 0, 0, 0);
-        database.setMinted("ne", 2003, null, null, 57899003, 150989003, 1113003, 1057003, 58060003, 1049003, 1189003, 988003, 0, 0, 0);
-        database.setMinted("ne", 2002, null, null, 827502, 52451502, 927502, 827502, 50918502, 80387502, 22787502, 36659502, 0, 0, 0);
-        database.setMinted("ne", 2001, null, null, 179396500, 145896500, 205996500, 193596500, 97696500, 94596500, 67996500, 140596500, 0, 0, 0);
-        database.setMinted("ne", 2000, null, null, 276884500, 122084500, 184284500, 156784500, 67584500, 87084500, 62884500, 24484500, 0, 0, 0);
-        database.setMinted("ne", 1999, null, null, 47881500, 109081500, 213081500, 149781500, 86581500, 99681500, 63581500, 9981500, 0, 0, 0);
-        database.setMinted("au", 2024, null, null, 55000, 55000, 55000, 55000, 55000, 55000, 55000, 55000, 0, 0, 0);
-        database.setMinted("au", 2023, null, null, 28465000, 36165000, 13765000, 26565000, 38065000, 8465000, 9065000, 38365000, 0, 0, 0);
-        database.setMinted("au", 2022, null, null, 38060000, 58460000, 16760000, 15760000, 25360000, 8460000, 7060000, 9110000, 0, 0, 2650000);
-        database.setMinted("au", 2021, null, null, 73460000, 64660000, 20260000, 12160000, 21060000, 7460000, 5460000, 9960000, 0, 0, 0);
-        database.setMinted("au", 2020, null, null, 85560000, 57360000, 5660000, 12160000, 19860000, 14960000, 4060000, 12760000, 0, 0, 0);
-        database.setMinted("au", 2019, null, null, 130960000, 91260000, 15060000, 15160000, 25660000, 2860000, 2760000, 15860000, 0, 0, 0);
-        database.setMinted("au", 2018, null, null, 138560000, 85710000, 22660000, 30260000, 20460000, 17160000, 5160000, 0, 18160000, 0, 0);
-        database.setMinted("au", 2017, null, null, 37760000, 57260000, 35260000, 39560000, 30060000, 15060000, 8060000, 17760000, 0, 0, 0);
-        database.setMinted("au", 2016, null, null, 60000, 60000, 60000, 12360000, 30060000, 5060000, 5260000, 0, 16000000, 0, 0);
-        database.setMinted("au", 2015, null, null, 118060000, 45460000, 61060000, 63160000, 9060000, 60000, 60000, 12360000, 0, 0, 2500000);
-        database.setMinted("au", 2014, null, null, 185562500, 116162500, 48062500, 27662500, 10562500, 62500, 62500, 20162500, 0, 0, 0);
-        database.setMinted("au", 2013, null, null, 179260000, 121560000, 36160000, 30160000, 25260000, 60000, 60000, 10160000, 0, 0, 0);
-        database.setMinted("au", 2012, null, null, 169360000, 78160000, 35360000, 25060000, 10860000, 60000, 60000, 21200000, 0, 0, 11000000);
-        database.setMinted("au", 2011, null, null, 189665000, 148665000, 66665000, 27665000, 21365000, 6065000, 8065000, 27765000, 0, 0, 0);
-        database.setMinted("au", 2010, null, null, 168565000, 104265000, 63765000, 42865000, 4265000, 30065000, 11265000, 17065000, 0, 0, 0);
-        database.setMinted("au", 2009, null, null, 158989000, 120489000, 5889000, 15989000, 49889000, 14789000, 40389000, 0, 0, 0, 4999000);
-        database.setMinted("au", 2008, null, null, 50965000, 125165000, 96765000, 70265000, 45365000, 3065000, 65565000, 2665000, 0, 0, 0);
-        database.setMinted("au", 2007, null, null, 111995000, 72295000, 52795000, 81395000, 45095000, 3095000, 41195000, 0, 0, 0, 9000000);
-        database.setMinted("au", 2006, null, null, 48420000, 39920000, 5720000, 40120000, 8320000, 3320000, 7820000, 2420000, 0, 0, 0);
-        database.setMinted("au", 2005, null, null, 174820000, 163320000, 66220000, 5320000, 4220000, 3220000, 2720000, 0, 7000000, 0, 0);
-        database.setMinted("au", 2004, null, null, 115120000, 156520000, 89420000, 5320000, 54920000, 3220000, 2720000, 2620000, 0, 0, 0);
-        database.setMinted("au", 2003, null, null, 10950000, 118650000, 108650000, 150000, 51050000, 9250000, 150000, 4850000, 0, 0, 0);
-        database.setMinted("au", 2002, null, null, 378510000, 326510000, 217110000, 441710000, 203510000, 169210000, 223610000, 196510000, 0, 0, 0);
-        database.setMintedForce("po", 2024, null, null, 6700, 6700, 6700, 6700, 6700, 6700, 6700, 6700, 470684, 466075, 0);
-        database.setMintedSwap("po", 2023, null, null, 55025000, 25000, 40025000, 25000, 25000, 25000, 25000, 15025000, 1014975, 1013737, 0);
-        database.setMinted("po", 2022, null, null, 25000, 25000, 25000, 25000, 25000, 25000, 25000, 25000, 905101, 0, 511959);
-        database.setMintedForce("po", 2021, null, null, 15000, 15000, 15015000, 15015000, 10015000, 20015000, 15000, 15000, 509979, 509992, 0);
-        database.setMintedSwap("po", 2020, null, null, 50015000, 15000, 15015000, 15000, 15015000, 15000, 30015000, 15000, 359924, 509994, 0);
-        database.setMintedForce("po", 2019, null, null, 50027000, 27000, 30027000, 20027000, 27000, 10027000, 4027000, 27000, 507976, 507986, 0);
-        database.setMintedForce("po", 2018, null, null, 27000, 27000, 37572200, 19331000, 15027000, 27000, 25027000, 27000, 439059, 439568, 0);
-        database.setMintedForce("po", 2017, null, null, 55027500, 35027500, 25027500, 25027500, 30027500, 30027500, 20027500, 27500, 494644, 480200, 0);
-        database.setMintedForce("po", 2016, null, null, 40029500, 15029500, 15029500, 15029500, 25029500, 2029500, 35029500, 29500, 643509, 508390, 0);
-        database.setMintedForce("po", 2015, null, null, 40025000, 20025000, 25000, 25000, 15025000, 20025000, 15025000, 25000, 509420, 507015, 505804);
-        database.setMintedSwap("po", 2014, null, null, 20022500, 20022500, 22500, 22500, 22500, 22500, 9022500, 22500, 510047, 511184, 0);
-        database.setMinted("po", 2013, null, null, 44000, 44000, 44000, 44000, 44000, 44000, 44000, 44000, 510293, 0, 0);
-        database.setMinted("po", 2012, null, null, 50044000, 35044000, 15044000, 44000, 44000, 44000, 44000, 44000, 515759, 0, 519116);
-        database.setMinted("po", 2011, null, null, 20044000, 30044000, 25044000, 44000, 10044000, 44000, 5044000, 44000, 519995, 0, 0);
-        database.setMinted("po", 2010, null, null, 15044000, 10044000, 5044000, 44000, 5044000, 20044000, 20044000, 44000, 1016794, 0, 0);
-        database.setMinted("po", 2009, null, null, 60038000, 45038000, 25038000, 10038000, 20038000, 20038000, 20038000, 38000, 1262327, 0, 1262220);
-        database.setMinted("po", 2008, null, null, 75030000, 35030000, 25030000, 1030000, 1030000, 5030000, 5030000, 30000, 1016261, 0, 0);
-        database.setMinted("po", 2007, null, null, 105024000, 10024000, 25024000, 24000, 24000, 24000, 4959400, 24000, 1272559, 0, 1518903);
-        database.setMinted("po", 2006, null, null, 30029500, 1029500, 20029500, 1029500, 20029500, 1029500, 20029500, 1029500, 0, 0, 0);
-        database.setMinted("po", 2005, null, null, 40070000, 10070000, 30070000, 1070000, 25070000, 1070000, 20070000, 1070000, 0, 0, 0);
-        database.setMinted("po", 2004, null, null, 75085000, 1085000, 40085000, 1085000, 1085000, 1085000, 20085000, 1085000, 0, 0, 0);
-        database.setMinted("po", 2003, null, null, 85000, 85000, 85000, 6417000, 9578600, 10438000, 16291875, 6064750, 0, 0, 0);
-        database.setMinted("po", 2002, null, null, 278176172, 324446590, 234582047, 220359835, 147481038, 152017133, 100298135, 62000775, 0, 0, 0);
+        database.setMinted("nl", 2024, null, null, 18000, 18000, 18000, 18000, 18000, 18000, 18000, 18000, 0, 0, 0);
+        database.setMinted("nl", 2023, null, null, 25023, 25023, 25025023, 12025023, 16025023, 5025023, 25023, 25023, 0, 0, 0);
+        database.setMinted("nl", 2022, null, null, 40022, 40022, 3040022, 2040022, 1040022, 40022, 40022, 40022, 0, 0, 577500);
+        database.setMinted("nl", 2021, null, null, 38521, 38521, 38521, 38521, 38521, 38521, 38521, 38521, 0, 0, 0);
+        database.setMinted("nl", 2020, null, null, 43520, 43520, 10043520, 43520, 43520, 43520, 43520, 43520, 0, 0, 0);
+        database.setMinted("nl", 2019, null, null, 46269, 46269, 76269, 61269, 46269, 46269, 46269, 46269, 0, 0, 0);
+        database.setMinted("nl", 2018, null, null, 46018, 46018, 60046018, 12546018, 20046018, 46018, 46018, 46018, 0, 0, 0);
+        database.setMinted("nl", 2017, null, null, 41017, 41017, 60041017, 20041017, 41017, 41017, 41017, 46017, 0, 0, 0);
+        database.setMinted("nl", 2016, null, null, 530516, 530516, 70530516, 530516, 30530516, 530516, 430516, 430516, 0, 0, 0);
+        database.setMinted("nl", 2015, null, null, 599515, 599515, 55599515, 599515, 599515, 599515, 499515, 524515, 0, 0, 1000000);
+        database.setMinted("nl", 2014, null, null, 888014, 888014, 30358014, 5358014, 5358014, 5358014, 5358014, 9363014, 5000000, 0, 0);
+        database.setMintedForce("nl", 2013, null, null, 35252263, 252263, 27552263, 252263, 252263, 252263, 152263, 152263, 20000000, 3500000, 0);
+        database.setMinted("nl", 2012, null, null, 454262, 254262, 10554262, 254262, 254262, 254262, 254262, 244262, 0, 0, 3500000);
+        database.setMinted("nl", 2011, null, null, 352761, 355761, 21143761, 320761, 320761, 316761, 320761, 228761, 4000000, 0, 0);
+        database.setMinted("nl", 2010, null, null, 246510, 246510, 40126510, 215510, 216510, 216510, 172510, 169510, 0, 0, 0);
+        database.setMinted("nl", 2009, null, null, 320509, 315509, 40365509, 275509, 275509, 275509, 215509, 215509, 0, 0, 5317000);
+        database.setMinted("nl", 2008, null, null, 303008, 303008, 74372008, 270008, 270008, 270008, 234008, 231008, 0, 0, 0);
+        database.setMinted("nl", 2007, null, null, 403701, 409701, 75835701, 364701, 364701, 364701, 295701, 226701, 0, 0, 6360820);
+        database.setMinted("nl", 2006, null, null, 447006, 447006, 60387006, 462006, 462006, 432006, 462006, 410006, 0, 0, 0);
+        database.setMinted("nl", 2005, null, null, 809005, 859005, 80869005, 774005, 774005, 774005, 596005, 596005, 0, 0, 0);
+        database.setMinted("nl", 2004, null, null, 114038004, 115754004, 438004, 394004, 20562004, 401004, 367004, 377004, 0, 0, 0);
+        database.setMinted("nl", 2003, null, null, 57899003, 150989003, 1113003, 1057003, 58060003, 1049003, 1189003, 988003, 0, 0, 0);
+        database.setMinted("nl", 2002, null, null, 827502, 52451502, 927502, 827502, 50918502, 80387502, 22787502, 36659502, 0, 0, 0);
+        database.setMinted("nl", 2001, null, null, 179396500, 145896500, 205996500, 193596500, 97696500, 94596500, 67996500, 140596500, 0, 0, 0);
+        database.setMinted("nl", 2000, null, null, 276884500, 122084500, 184284500, 156784500, 67584500, 87084500, 62884500, 24484500, 0, 0, 0);
+        database.setMinted("nl", 1999, null, null, 47881500, 109081500, 213081500, 149781500, 86581500, 99681500, 63581500, 9981500, 0, 0, 0);
+        database.setMinted("at", 2024, null, null, 55000, 55000, 55000, 55000, 55000, 55000, 55000, 55000, 0, 0, 0);
+        database.setMinted("at", 2023, null, null, 28465000, 36165000, 13765000, 26565000, 38065000, 8465000, 9065000, 38365000, 0, 0, 0);
+        database.setMinted("at", 2022, null, null, 38060000, 58460000, 16760000, 15760000, 25360000, 8460000, 7060000, 9110000, 0, 0, 2650000);
+        database.setMinted("at", 2021, null, null, 73460000, 64660000, 20260000, 12160000, 21060000, 7460000, 5460000, 9960000, 0, 0, 0);
+        database.setMinted("at", 2020, null, null, 85560000, 57360000, 5660000, 12160000, 19860000, 14960000, 4060000, 12760000, 0, 0, 0);
+        database.setMinted("at", 2019, null, null, 130960000, 91260000, 15060000, 15160000, 25660000, 2860000, 2760000, 15860000, 0, 0, 0);
+        database.setMinted("at", 2018, null, null, 138560000, 85710000, 22660000, 30260000, 20460000, 17160000, 5160000, 0, 18160000, 0, 0);
+        database.setMinted("at", 2017, null, null, 37760000, 57260000, 35260000, 39560000, 30060000, 15060000, 8060000, 17760000, 0, 0, 0);
+        database.setMinted("at", 2016, null, null, 60000, 60000, 60000, 12360000, 30060000, 5060000, 5260000, 0, 16000000, 0, 0);
+        database.setMinted("at", 2015, null, null, 118060000, 45460000, 61060000, 63160000, 9060000, 60000, 60000, 12360000, 0, 0, 2500000);
+        database.setMinted("at", 2014, null, null, 185562500, 116162500, 48062500, 27662500, 10562500, 62500, 62500, 20162500, 0, 0, 0);
+        database.setMinted("at", 2013, null, null, 179260000, 121560000, 36160000, 30160000, 25260000, 60000, 60000, 10160000, 0, 0, 0);
+        database.setMinted("at", 2012, null, null, 169360000, 78160000, 35360000, 25060000, 10860000, 60000, 60000, 21200000, 0, 0, 11000000);
+        database.setMinted("at", 2011, null, null, 189665000, 148665000, 66665000, 27665000, 21365000, 6065000, 8065000, 27765000, 0, 0, 0);
+        database.setMinted("at", 2010, null, null, 168565000, 104265000, 63765000, 42865000, 4265000, 30065000, 11265000, 17065000, 0, 0, 0);
+        database.setMinted("at", 2009, null, null, 158989000, 120489000, 5889000, 15989000, 49889000, 14789000, 40389000, 0, 0, 0, 4999000);
+        database.setMinted("at", 2008, null, null, 50965000, 125165000, 96765000, 70265000, 45365000, 3065000, 65565000, 2665000, 0, 0, 0);
+        database.setMinted("at", 2007, null, null, 111995000, 72295000, 52795000, 81395000, 45095000, 3095000, 41195000, 0, 0, 0, 9000000);
+        database.setMinted("at", 2006, null, null, 48420000, 39920000, 5720000, 40120000, 8320000, 3320000, 7820000, 2420000, 0, 0, 0);
+        database.setMinted("at", 2005, null, null, 174820000, 163320000, 66220000, 5320000, 4220000, 3220000, 2720000, 0, 7000000, 0, 0);
+        database.setMinted("at", 2004, null, null, 115120000, 156520000, 89420000, 5320000, 54920000, 3220000, 2720000, 2620000, 0, 0, 0);
+        database.setMinted("at", 2003, null, null, 10950000, 118650000, 108650000, 150000, 51050000, 9250000, 150000, 4850000, 0, 0, 0);
+        database.setMinted("at", 2002, null, null, 378510000, 326510000, 217110000, 441710000, 203510000, 169210000, 223610000, 196510000, 0, 0, 0);
+        database.setMintedForce("pt", 2024, null, null, 6700, 6700, 6700, 6700, 6700, 6700, 6700, 6700, 470684, 466075, 0);
+        database.setMintedSwap("pt", 2023, null, null, 55025000, 25000, 40025000, 25000, 25000, 25000, 25000, 15025000, 1014975, 1013737, 0);
+        database.setMinted("pt", 2022, null, null, 25000, 25000, 25000, 25000, 25000, 25000, 25000, 25000, 905101, 0, 511959);
+        database.setMintedForce("pt", 2021, null, null, 15000, 15000, 15015000, 15015000, 10015000, 20015000, 15000, 15000, 509979, 509992, 0);
+        database.setMintedSwap("pt", 2020, null, null, 50015000, 15000, 15015000, 15000, 15015000, 15000, 30015000, 15000, 359924, 509994, 0);
+        database.setMintedForce("pt", 2019, null, null, 50027000, 27000, 30027000, 20027000, 27000, 10027000, 4027000, 27000, 507976, 507986, 0);
+        database.setMintedForce("pt", 2018, null, null, 27000, 27000, 37572200, 19331000, 15027000, 27000, 25027000, 27000, 439059, 439568, 0);
+        database.setMintedForce("pt", 2017, null, null, 55027500, 35027500, 25027500, 25027500, 30027500, 30027500, 20027500, 27500, 494644, 480200, 0);
+        database.setMintedForce("pt", 2016, null, null, 40029500, 15029500, 15029500, 15029500, 25029500, 2029500, 35029500, 29500, 643509, 508390, 0);
+        database.setMintedForce("pt", 2015, null, null, 40025000, 20025000, 25000, 25000, 15025000, 20025000, 15025000, 25000, 509420, 507015, 505804);
+        database.setMintedSwap("pt", 2014, null, null, 20022500, 20022500, 22500, 22500, 22500, 22500, 9022500, 22500, 510047, 511184, 0);
+        database.setMinted("pt", 2013, null, null, 44000, 44000, 44000, 44000, 44000, 44000, 44000, 44000, 510293, 0, 0);
+        database.setMinted("pt", 2012, null, null, 50044000, 35044000, 15044000, 44000, 44000, 44000, 44000, 44000, 515759, 0, 519116);
+        database.setMinted("pt", 2011, null, null, 20044000, 30044000, 25044000, 44000, 10044000, 44000, 5044000, 44000, 519995, 0, 0);
+        database.setMinted("pt", 2010, null, null, 15044000, 10044000, 5044000, 44000, 5044000, 20044000, 20044000, 44000, 1016794, 0, 0);
+        database.setMinted("pt", 2009, null, null, 60038000, 45038000, 25038000, 10038000, 20038000, 20038000, 20038000, 38000, 1262327, 0, 1262220);
+        database.setMinted("pt", 2008, null, null, 75030000, 35030000, 25030000, 1030000, 1030000, 5030000, 5030000, 30000, 1016261, 0, 0);
+        database.setMinted("pt", 2007, null, null, 105024000, 10024000, 25024000, 24000, 24000, 24000, 4959400, 24000, 1272559, 0, 1518903);
+        database.setMinted("pt", 2006, null, null, 30029500, 1029500, 20029500, 1029500, 20029500, 1029500, 20029500, 1029500, 0, 0, 0);
+        database.setMinted("pt", 2005, null, null, 40070000, 10070000, 30070000, 1070000, 25070000, 1070000, 20070000, 1070000, 0, 0, 0);
+        database.setMinted("pt", 2004, null, null, 75085000, 1085000, 40085000, 1085000, 1085000, 1085000, 20085000, 1085000, 0, 0, 0);
+        database.setMinted("pt", 2003, null, null, 85000, 85000, 85000, 6417000, 9578600, 10438000, 16291875, 6064750, 0, 0, 0);
+        database.setMinted("pt", 2002, null, null, 278176172, 324446590, 234582047, 220359835, 147481038, 152017133, 100298135, 62000775, 0, 0, 0);
         database.setMinted("sm", 2024, null, null, 21000, 21000, 21000, 21000, 501000, 581000, 621000, 621000, 59000, 59000, 0);
         database.setMinted("sm", 2023, null, null, 21600, 21600, 21600, 21600, 519280, 601600, 741600, 685773, 58600, 58600, 0);
         database.setMinted("sm", 2022, null, null, 22300, 22300, 22300, 22300, 22300, 822300, 772300, 452282, 57300, 57300, 0);
@@ -2195,5 +2201,23 @@ public class CoinDatabase {
         database.setMinted("cy", 2008, null, null, 40000000, 100000000, 60000000, 70000000, 65000000, 30000000, 28000000, 25000000, 0, 0, 0);
 
         database.calcMintedLevels();
+    }
+
+    /**
+     * This method swaps some of the commemorative coins to have a consistent order among years
+     * Example: Germany "Bunderländerserie" which should appear always as first
+     */
+    public static Integer getFixedCommemorativeCoinViewIndex(Country country, int year, int coinIndex) {
+        if (country.equals(Countries.country_germany)) {
+            if (year == 2013 || year == 2015 || year == 2018) {
+                if (coinIndex == 8) {
+                    return 9;
+                }
+                if (coinIndex == 9) {
+                    return 8;
+                }
+            }
+        }
+        return coinIndex;
     }
 }
